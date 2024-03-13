@@ -1,311 +1,296 @@
-[12:49:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:49:14] [ServerMain/INFO]: Loaded 7 recipes
-[12:49:15] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[12:49:15] [Server thread/INFO]: Loading properties
-[12:49:15] [Server thread/INFO]: This server is running CraftBukkit version 4061-Spigot-e9ec548-366c3ca (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
-[12:49:16] [Server thread/INFO]: Debug logging is disabled
-[12:49:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:49:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:49:16] [Server thread/INFO]: Default game type: SURVIVAL
-[12:49:16] [Server thread/INFO]: Generating keypair
-[12:49:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:49:16] [Server thread/INFO]: Using default channel type
-[12:49:16] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
-[12:49:16] [Server thread/INFO]: [dynmap] Loading dynmap v3.7-beta-4-935
-[12:49:16] [Server thread/INFO]: [dynmap] version=4061-Spigot-e9ec548-366c3ca (MC: 1.20.4)
-[12:49:16] [Server thread/INFO]: [dynmap] Mod Support API available
-[12:49:16] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.2
-[12:49:16] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.231
-[12:49:16] [Server thread/INFO]: [KeepDeathDrop] Loading KeepDeathDrop v1.0.7
-[12:49:16] [Server thread/INFO]: Preparing level "world"
-[12:49:16] [Server thread/INFO]: -------- World Settings For [world] --------
-[12:49:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:49:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:49:16] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:49:16] [Server thread/INFO]: Simulation Distance: 10
-[12:49:16] [Server thread/INFO]: View Distance: 10
-[12:49:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:49:16] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:49:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[12:49:16] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:49:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[12:49:16] [Server thread/INFO]: Mob Spawn Range: 6
-[12:49:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[12:49:16] [Server thread/INFO]: Max TNT Explosions: 100
-[12:49:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:49:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[12:49:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Potato Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[12:49:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[12:49:17] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[12:49:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:49:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:49:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:49:17] [Server thread/INFO]: Simulation Distance: 10
-[12:49:17] [Server thread/INFO]: View Distance: 10
-[12:49:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:49:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:49:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[12:49:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:49:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[12:49:17] [Server thread/INFO]: Mob Spawn Range: 6
-[12:49:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[12:49:17] [Server thread/INFO]: Max TNT Explosions: 100
-[12:49:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:49:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[12:49:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Potato Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[12:49:17] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[12:49:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:49:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:49:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:49:17] [Server thread/INFO]: Simulation Distance: 10
-[12:49:17] [Server thread/INFO]: View Distance: 10
-[12:49:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:49:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:49:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[12:49:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:49:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[12:49:17] [Server thread/INFO]: Mob Spawn Range: 6
-[12:49:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[12:49:17] [Server thread/INFO]: Max TNT Explosions: 100
-[12:49:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:49:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[12:49:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Potato Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[12:49:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[12:49:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:49:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:49:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[12:49:19] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[12:49:19] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[12:49:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[12:49:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[12:49:20] [Server thread/INFO]: Time elapsed: 2954 ms
-[12:49:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:49:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[12:49:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:49:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[12:49:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:49:22] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:49:23] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[12:49:23] [Server thread/INFO]: Time elapsed: 2597 ms
-[12:49:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:49:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:49:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:49:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:49:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:49:25] [Worker-Main-9/INFO]: Preparing spawn area: 51%
-[12:49:25] [Server thread/INFO]: Time elapsed: 2160 ms
-[12:49:25] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[12:49:25] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[12:49:25] [Server thread/INFO]: [ClearLag] Loading modules...
-[12:49:25] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R3.MinecraftServer)
-[12:49:25] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[12:49:25] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[12:49:25] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[12:49:25] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
-[12:49:25] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-4-935
-[12:49:25] [Thread-8/INFO]: [ClearLag] No updates found!
-[12:49:25] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[12:49:25] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[12:49:25] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[12:49:25] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[12:49:27] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[12:49:27] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[12:49:27] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[12:49:27] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[12:49:28] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[12:49:28] [Server thread/INFO]: [dynmap] version 3.7-beta-4-935 is enabled - core version 3.7-beta-4-935
-[12:49:28] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[12:49:28] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[12:49:28] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[12:49:28] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[12:49:28] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[12:49:28] [Server thread/INFO]: [dynmap] Loaded 23 pending tile renders for world 'world'
-[12:49:28] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[12:49:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[12:49:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[12:49:28] [Server thread/INFO]: [dynmap] Enabled
-[12:49:28] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.2
-[12:49:28] [Server thread/INFO]: [OnePlayerSleep] Thank you for using the OnePlayerSleep plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
-[12:49:28] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.231
-[12:49:29] [Server thread/INFO]: [KeepDeathDrop] Enabling KeepDeathDrop v1.0.7
-[12:49:29] [Server thread/INFO]: [KeepDeathDrop] Enabled!
-[12:49:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:49:29] [Server thread/INFO]: Done (12.439s)! For help, type "help"
-[12:49:29] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[12:49:30] [User Authenticator #1/INFO]: UUID of player PILLERN is 23a1de55-1627-4d51-b046-447cf62ee674
-[12:49:30] [Server thread/INFO]: PILLERN joined the game
-[12:49:30] [Server thread/INFO]: PILLERN[/26.48.63.4:49828] logged in with entity id 104 at ([world]-629.5689021110812, 67.0, -90.56439346503959)
-[12:49:43] [User Authenticator #2/INFO]: UUID of player xEngellx is 18b3ec38-6391-4c7e-9b05-95f5c9004c32
-[12:49:43] [Server thread/INFO]: xEngellx joined the game
-[12:49:43] [Server thread/INFO]: xEngellx[/127.0.0.1:53872] logged in with entity id 395 at ([world]-632.5, 67.875, -179.5)
-[12:49:52] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/116, l='ServerLevel[world]', x=-637.51, y=66.00, z=-114.50] died: Creeper was slain by PILLERN
-[12:54:32] [Server thread/INFO]: xEngellx lost connection: Disconnected
-[12:54:32] [Server thread/INFO]: xEngellx left the game
-[12:56:51] [User Authenticator #3/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
-[12:56:51] [Server thread/INFO]: Cerbeuz joined the game
-[12:56:51] [Server thread/INFO]: Cerbeuz[/26.10.89.248:51616] logged in with entity id 2424 at ([world]-654.9282307834047, 67.875, -93.19813494164903)
-[13:01:14] [Server thread/INFO]: Cerbeuz issued server command: /mining
-[13:01:36] [Server thread/INFO]: Cerbeuz issued server command: /mmoinfo BiggerBombs
-[13:01:37] [Server thread/INFO]: PILLERN issued server command: /mining
-[13:01:45] [Server thread/INFO]: Cerbeuz issued server command: /mmoinfo DoubleDrops
-[13:01:54] [Server thread/INFO]: Cerbeuz issued server command: /mining keep
-[13:01:57] [Server thread/INFO]: Cerbeuz issued server command: /mining ?
-[13:02:01] [Server thread/INFO]: Cerbeuz issued server command: /mining ? 2
-[13:02:04] [Server thread/INFO]: Cerbeuz issued server command: /mining ? 3
-[13:02:07] [Server thread/INFO]: Cerbeuz issued server command: /mining ? 4
-[13:02:11] [Server thread/INFO]: Cerbeuz issued server command: /mining ? 5
-[13:02:23] [Server thread/INFO]: Cerbeuz issued server command: /mining ? 6
-[13:02:35] [Server thread/INFO]: Cerbeuz issued server command: /mining ? 7
-[13:02:42] [Server thread/INFO]: Cerbeuz issued server command: /mmoinfo SuperBreaker
-[13:03:32] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/3959, l='ServerLevel[world]', x=-699.09, y=6.00, z=-60.33] died: Skeleton was slain by Cerbeuz
-[13:03:54] [Server thread/INFO]: Named entity EntityZombie['Zombie'/3909, l='ServerLevel[world]', x=-650.56, y=67.00, z=-123.29] died: Zombie was slain by PILLERN
-[13:04:03] [Server thread/INFO]: Named entity EntityZombie['Zombie'/3931, l='ServerLevel[world]', x=-649.52, y=66.00, z=-109.05] died: Zombie was slain by PILLERN
-[13:04:10] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/4196, l='ServerLevel[world]', x=-636.97, y=2.00, z=-42.30] died: Skeleton was shot by ❤❤❤❤❤❤❤❤❤❤
-[13:04:12] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/4195, l='ServerLevel[world]', x=-636.46, y=2.00, z=-40.30] died: Skeleton was slain by Cerbeuz
-[13:04:45] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/4215, l='ServerLevel[world]', x=-621.75, y=-16.00, z=-12.70] died: Skeleton was slain by Cerbeuz
-[13:05:30] [Server thread/INFO]: Cerbeuz has made the advancement [Ice Bucket Challenge]
-[13:10:53] [User Authenticator #4/INFO]: UUID of player xEngellx is 18b3ec38-6391-4c7e-9b05-95f5c9004c32
-[13:10:53] [Server thread/INFO]: xEngellx joined the game
-[13:10:53] [Server thread/INFO]: xEngellx[/127.0.0.1:60902] logged in with entity id 5355 at ([world]-634.828511781834, 67.0, -179.05801628536238)
-[13:12:36] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
-[13:12:37] [Server thread/INFO]: Cerbeuz left the game
-[13:13:17] [User Authenticator #5/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
-[13:13:18] [Server thread/INFO]: Cerbeuz joined the game
-[13:13:18] [Server thread/INFO]: Cerbeuz[/26.10.89.248:53029] logged in with entity id 5782 at ([world]-681.4529041039102, -55.0, -34.34554667816159)
-[13:16:05] [Server thread/INFO]: PILLERN has made the advancement [Best Friends Forever]
-[13:17:55] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/7143, l='ServerLevel[world]', x=-555.30, y=-45.00, z=-30.78] died: Skeleton was slain by Cerbeuz
-[13:18:04] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/7186, l='ServerLevel[world]', x=-550.79, y=-51.69, z=-27.29] died: Skeleton was slain by Cerbeuz
-[13:18:04] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) Cerbeuz[0;37;22m has reached a Power level of [0;32;1m200[0;37;22m![m
-[13:18:05] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/7187, l='ServerLevel[world]', x=-550.03, y=-53.06, z=-27.94] died: Skeleton was slain by Cerbeuz
-[13:18:05] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/7142, l='ServerLevel[world]', x=-549.33, y=-54.00, z=-29.79] died: Skeleton was slain by Cerbeuz
-[13:18:39] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/6539, l='ServerLevel[world]', x=-558.93, y=-45.00, z=-32.51] died: Creeper was slain by Cerbeuz
-[13:19:54] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) xEngellx[0;37;22m has reached a Power level of [0;32;1m200[0;37;22m![m
-[13:20:08] [Server thread/INFO]: Named entity EntitySpider['Spider'/7519, l='ServerLevel[world]', x=-536.70, y=-43.90, z=19.30] died: Spider was slain by Cerbeuz
-[13:24:15] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/9505, l='ServerLevel[world]', x=-571.50, y=-47.00, z=47.30] died: Skeleton was slain by Cerbeuz
-[13:24:21] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/9507, l='ServerLevel[world]', x=-577.30, y=-50.00, z=51.70] died: Skeleton was slain by Cerbeuz
-[13:24:35] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/9506, l='ServerLevel[world]', x=-571.70, y=-38.00, z=49.70] died: Skeleton was slain by Cerbeuz
-[13:25:19] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/9879, l='ServerLevel[world]', x=-550.45, y=-22.00, z=21.08] died: Skeleton was slain by Cerbeuz
-[13:25:29] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/9126, l='ServerLevel[world]', x=-547.30, y=-20.00, z=31.87] died: Skeleton was slain by Cerbeuz
-[13:27:57] [Server thread/INFO]: Named entity EntityZombie['Zombie'/10460, l='ServerLevel[world]', x=-534.62, y=-45.00, z=29.69] died: Zombie was slain by Cerbeuz
-[13:28:01] [Server thread/INFO]: Named entity EntityZombie['Zombie'/10459, l='ServerLevel[world]', x=-536.47, y=-45.00, z=33.39] died: Zombie was slain by Cerbeuz
-[13:38:28] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
-[13:38:28] [Server thread/INFO]: Cerbeuz left the game
-[13:40:02] [User Authenticator #6/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
-[13:40:02] [Server thread/INFO]: Cerbeuz joined the game
-[13:40:03] [Server thread/INFO]: Cerbeuz[/26.10.89.248:54628] logged in with entity id 14512 at ([world]-625.0015860884201, -9.0, -122.21153958815513)
-[13:41:09] [Server thread/INFO]: Named entity EntityZombie['Zombie'/14202, l='ServerLevel[world]', x=-610.59, y=-5.00, z=-132.39] died: Zombie was slain by Cerbeuz
-[13:41:29] [Server thread/INFO]: Named entity EntityZombie['Zombie'/13464, l='ServerLevel[world]', x=-630.61, y=9.00, z=-136.31] died: Zombie was slain by Cerbeuz
-[13:42:16] [Server thread/INFO]: Named entity EntityZombie['Zombie'/14860, l='ServerLevel[world]', x=-628.64, y=-15.00, z=-170.09] died: Zombie was slain by Cerbeuz
-[13:42:54] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
-[13:42:54] [Server thread/INFO]: Cerbeuz left the game
-[13:50:14] [Server thread/INFO]: PILLERN issued server command: /mining
-[13:53:12] [User Authenticator #7/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
-[13:53:12] [Server thread/INFO]: Cerbeuz joined the game
-[13:53:12] [Server thread/INFO]: Cerbeuz[/26.10.89.248:55390] logged in with entity id 18005 at ([world]-669.2843336428341, -31.0, -175.66124755353636)
-[13:53:31] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) PILLERN[0;37;22m has reached a Power level of [0;32;1m300[0;37;22m![m
-[14:00:49] [Server thread/INFO]: PILLERN has made the advancement [Enchanter]
-[14:01:21] [Server thread/INFO]: Cerbeuz issued server command: /repair
-[14:01:36] [Server thread/INFO]: Cerbeuz issued server command: /repair ?
-[14:01:52] [Server thread/INFO]: Cerbeuz issued server command: /repair ? 2
-[14:02:28] [Server thread/INFO]: Cerbeuz issued server command: /repair ? 3
-[14:02:31] [Server thread/INFO]: Cerbeuz issued server command: /repair ? 4
-[14:02:36] [Server thread/INFO]: Cerbeuz issued server command: /repair ? 5
-[14:02:54] [Server thread/INFO]: Cerbeuz issued server command: /repair ? 1
-[14:02:59] [Server thread/INFO]: Cerbeuz issued server command: /repair ? 2
-[14:07:13] [Server thread/INFO]: PILLERN lost connection: Disconnected
-[14:07:14] [Server thread/INFO]: PILLERN left the game
-[14:14:10] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
-[14:14:10] [Server thread/INFO]: Cerbeuz left the game
-[14:19:56] [Server thread/INFO]: xEngellx lost connection: Disconnected
-[14:19:56] [Server thread/INFO]: xEngellx left the game
-[14:36:26] [User Authenticator #8/INFO]: UUID of player xEngellx is 18b3ec38-6391-4c7e-9b05-95f5c9004c32
-[14:36:26] [Server thread/INFO]: xEngellx joined the game
-[14:36:26] [Server thread/INFO]: xEngellx[/127.0.0.1:56894] logged in with entity id 24285 at ([world]-633.5, 67.0, -177.5)
-[14:46:44] [Server thread/INFO]: xEngellx has made the advancement [Enchanter]
-[14:51:20] [Server thread/INFO]: xEngellx has made the advancement [A Seedy Place]
-[15:12:18] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31078, l='ServerLevel[world]', x=-616.62, y=62.00, z=-181.76] died: Zombie was blown up by ❤❤❤❤❤❤❤❤❤❤
-[15:53:11] [Server thread/INFO]: xEngellx has made the advancement [The Parrots and the Bats]
-[15:56:00] [Server thread/INFO]: Named entity EntitySheep['Sheep'/24428, l='ServerLevel[world]', x=-764.14, y=70.00, z=-111.58] died: Sheep was slain by xEngellx
-[15:56:06] [Server thread/INFO]: Named entity EntitySheep['Sheep'/24452, l='ServerLevel[world]', x=-779.19, y=71.00, z=-98.68] died: Sheep was slain by xEngellx
-[16:04:00] [Server thread/INFO]: xEngellx lost connection: Disconnected
-[16:04:00] [Server thread/INFO]: xEngellx left the game
-[16:04:08] [Server thread/INFO]: Stopping the server
-[16:04:08] [Server thread/INFO]: Stopping server
-[16:04:08] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
-[16:04:08] [Server thread/INFO]: [KeepDeathDrop] Disabled!
-[16:04:08] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
-[16:04:08] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
-[16:04:08] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
-[16:04:08] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
-[16:04:08] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
-[16:04:08] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-4-935
-[16:04:08] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[16:04:08] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[16:04:08] [Server thread/INFO]: [dynmap] Saved 11 pending tile renders in world 'world'
-[16:04:13] [Server thread/INFO]: [dynmap] Disabled
-[16:04:13] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[16:04:13] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[16:04:13] [Server thread/INFO]: Saving players
-[16:04:13] [Server thread/INFO]: Saving worlds
-[16:04:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:04:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:53:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:54:00] [ServerMain/INFO]: Loaded 7 recipes
+[18:54:01] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:54:01] [Server thread/INFO]: Loading properties
+[18:54:01] [Server thread/INFO]: This server is running CraftBukkit version 4061-Spigot-e9ec548-366c3ca (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[18:54:02] [Server thread/INFO]: Debug logging is disabled
+[18:54:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:54:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:54:02] [Server thread/INFO]: Default game type: SURVIVAL
+[18:54:02] [Server thread/INFO]: Generating keypair
+[18:54:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:54:02] [Server thread/INFO]: Using default channel type
+[18:54:02] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[18:54:02] [Server thread/INFO]: [dynmap] Loading dynmap v3.7-beta-4-935
+[18:54:02] [Server thread/INFO]: [dynmap] version=4061-Spigot-e9ec548-366c3ca (MC: 1.20.4)
+[18:54:02] [Server thread/INFO]: [dynmap] Mod Support API available
+[18:54:02] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.2
+[18:54:02] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.231
+[18:54:02] [Server thread/INFO]: [KeepDeathDrop] Loading KeepDeathDrop v1.0.7
+[18:54:02] [Server thread/INFO]: Preparing level "world"
+[18:54:02] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:54:02] [Server thread/INFO]: Mob Spawn Range: 6
+[18:54:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:54:02] [Server thread/INFO]: Max TNT Explosions: 100
+[18:54:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:54:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:54:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:54:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:54:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:54:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:54:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:54:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:54:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:54:02] [Server thread/INFO]: Simulation Distance: 10
+[18:54:02] [Server thread/INFO]: View Distance: 10
+[18:54:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:54:02] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:54:02] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:54:02] [Server thread/INFO]: Mob Spawn Range: 6
+[18:54:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:54:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:54:02] [Server thread/INFO]: Max TNT Explosions: 100
+[18:54:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:54:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:54:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:54:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:54:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:54:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:54:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:54:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:54:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:54:02] [Server thread/INFO]: Simulation Distance: 10
+[18:54:02] [Server thread/INFO]: View Distance: 10
+[18:54:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:54:02] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:54:03] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:54:03] [Server thread/INFO]: Mob Spawn Range: 6
+[18:54:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:54:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:54:03] [Server thread/INFO]: Max TNT Explosions: 100
+[18:54:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:54:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:54:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:54:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:54:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:54:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:54:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:54:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:54:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:54:03] [Server thread/INFO]: Simulation Distance: 10
+[18:54:03] [Server thread/INFO]: View Distance: 10
+[18:54:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:54:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:54:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:54:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:54:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[18:54:06] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:54:06] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:54:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:54:06] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:54:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:54:07] [Worker-Main-11/INFO]: Preparing spawn area: 29%
+[18:54:07] [Server thread/INFO]: Time elapsed: 3759 ms
+[18:54:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:54:10] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:54:10] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:54:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:54:10] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:54:10] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:54:10] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[18:54:10] [Server thread/INFO]: Time elapsed: 3321 ms
+[18:54:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:54:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:54:12] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[18:54:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:54:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:54:12] [Worker-Main-13/INFO]: Preparing spawn area: 17%
+[18:54:13] [Server thread/INFO]: Time elapsed: 2363 ms
+[18:54:13] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[18:54:13] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[18:54:13] [Server thread/INFO]: [ClearLag] Loading modules...
+[18:54:13] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R3.MinecraftServer)
+[18:54:13] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[18:54:13] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[18:54:13] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[18:54:13] [Thread-9/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
+[18:54:13] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-4-935
+[18:54:13] [Thread-9/INFO]: [ClearLag] No updates found!
+[18:54:13] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[18:54:13] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[18:54:13] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[18:54:13] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[18:54:15] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[18:54:15] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[18:54:15] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[18:54:15] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[18:54:16] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[18:54:16] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[18:54:16] [Server thread/INFO]: [dynmap] version 3.7-beta-4-935 is enabled - core version 3.7-beta-4-935
+[18:54:16] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[18:54:16] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[18:54:16] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[18:54:16] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[18:54:16] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[18:54:16] [Server thread/INFO]: [dynmap] Loaded 11 pending tile renders for world 'world'
+[18:54:16] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[18:54:16] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[18:54:16] [Server thread/INFO]: [dynmap] Enabled
+[18:54:16] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.2
+[18:54:16] [Server thread/INFO]: [OnePlayerSleep] Thank you for using the OnePlayerSleep plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
+[18:54:16] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.231
+[18:54:17] [Server thread/INFO]: [KeepDeathDrop] Enabling KeepDeathDrop v1.0.7
+[18:54:17] [Server thread/INFO]: [KeepDeathDrop] Enabled!
+[18:54:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:54:17] [Server thread/INFO]: Done (14.995s)! For help, type "help"
+[18:54:18] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[18:58:04] [User Authenticator #1/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
+[18:58:04] [Server thread/INFO]: Cerbeuz joined the game
+[18:58:04] [Server thread/INFO]: Cerbeuz[/26.10.89.248:60551] logged in with entity id 103 at ([world]-656.0429294452942, 68.0, -93.69955932858365)
+[18:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[18:58:21] [Server thread/INFO]: Cerbeuz issued server command: /repair
+[18:58:28] [Server thread/INFO]: Cerbeuz issued server command: /mmoinfo RepairMastery
+[18:58:29] [Server thread/INFO]: Cerbeuz issued server command: /mmoinfo ???
+[19:00:49] [Server thread/INFO]: Named entity EntityZombie['Zombie'/683, l='ServerLevel[world]', x=-657.86, y=64.00, z=-61.49] died: Zombie was slain by Cerbeuz
+[19:00:53] [Server thread/INFO]: Named entity EntityZombie['Zombie'/684, l='ServerLevel[world]', x=-655.76, y=64.00, z=-59.56] died: Zombie was slain by Cerbeuz
+[19:02:57] [Server thread/INFO]: Named entity EntityZombie['Zombie'/1035, l='ServerLevel[world]', x=-641.71, y=66.00, z=-88.72] died: Zombie was slain by Cerbeuz
+[19:03:08] [Server thread/INFO]: Named entity EntitySpider['Spider'/1032, l='ServerLevel[world]', x=-640.45, y=66.88, z=-90.04] died: Spider was slain by Cerbeuz
+[19:03:13] [Server thread/INFO]: Named entity EntitySpider['Spider'/1033, l='ServerLevel[world]', x=-647.23, y=66.00, z=-85.23] died: Spider was slain by Cerbeuz
+[19:06:54] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
+[19:06:54] [Server thread/INFO]: Cerbeuz left the game
+[20:09:11] [User Authenticator #2/INFO]: UUID of player xEngellx is 18b3ec38-6391-4c7e-9b05-95f5c9004c32
+[20:09:11] [Server thread/INFO]: xEngellx joined the game
+[20:09:11] [Server thread/INFO]: xEngellx[/127.0.0.1:62420] logged in with entity id 1904 at ([world]-604.4967394816971, 63.0, -186.32771185145842)
+[20:19:20] [User Authenticator #3/INFO]: UUID of player Skorri_ is 2ddc2f8e-2449-49a5-b6d8-594664b06e97
+[20:19:20] [Server thread/INFO]: Skorri_ joined the game
+[20:19:20] [Server thread/INFO]: Skorri_[/26.220.105.158:62511] logged in with entity id 3943 at ([world]-6.5, 75.0, -9.5)
+[20:19:29] [Server thread/INFO]: Skorri_ issued server command: /teleport
+[20:21:43] [Server thread/INFO]: Skorri_ issued server command: /tp
+[20:23:11] [Server thread/INFO]: Skorri_ has made the advancement [Stone Age]
+[20:23:44] [Server thread/INFO]: Skorri_ has made the advancement [Getting an Upgrade]
+[20:25:33] [Server thread/INFO]: Named entity EntityPig['Pig'/2001, l='ServerLevel[world]', x=-492.29, y=76.00, z=-196.57] died: Pig was slain by Skorri_
+[20:25:36] [Server thread/INFO]: Named entity EntityPig['Pig'/2002, l='ServerLevel[world]', x=-480.54, y=75.00, z=-196.21] died: Pig was slain by Skorri_
+[20:25:40] [Server thread/INFO]: Named entity EntityPig['Pig'/1966, l='ServerLevel[world]', x=-490.27, y=74.00, z=-199.46] died: Pig was slain by Skorri_
+[20:25:43] [Server thread/INFO]: Named entity EntityPig['Pig'/1967, l='ServerLevel[world]', x=-500.18, y=74.00, z=-199.95] died: Pig was slain by Skorri_
+[20:25:52] [Server thread/INFO]: Named entity EntityCow['Cow'/1990, l='ServerLevel[world]', x=-490.35, y=72.00, z=-220.25] died: Cow was slain by Skorri_
+[20:25:56] [Server thread/INFO]: Named entity EntityCow['Cow'/1991, l='ServerLevel[world]', x=-480.45, y=71.00, z=-217.46] died: Cow was slain by Skorri_
+[20:27:10] [Server thread/INFO]: Named entity EntitySheep['Sheep'/1963, l='ServerLevel[world]', x=-503.74, y=84.00, z=-170.46] died: Sheep was slain by Skorri_
+[20:27:13] [Server thread/INFO]: Named entity EntitySheep['Sheep'/1964, l='ServerLevel[world]', x=-507.63, y=79.00, z=-168.20] died: Sheep was slain by Skorri_
+[20:27:14] [Server thread/INFO]: Named entity EntitySheep['Sheep'/1965, l='ServerLevel[world]', x=-508.37, y=79.02, z=-166.37] died: Sheep was slain by Skorri_
+[20:32:09] [Server thread/INFO]: Named entity EntityChicken['Chicken'/1925, l='ServerLevel[world]', x=-565.74, y=79.03, z=-185.80] died: Chicken was slain by Skorri_
+[20:32:27] [Server thread/INFO]: Named entity EntityHorse['Horse'/1923, l='ServerLevel[world]', x=-567.96, y=81.00, z=-201.30] died: Horse was slain by Skorri_
+[20:32:34] [Server thread/INFO]: Named entity EntityHorseDonkey['Donkey'/1924, l='ServerLevel[world]', x=-559.94, y=77.00, z=-211.22] died: Donkey was slain by Skorri_
+[20:37:46] [Server thread/INFO]: Named entity EntityCow['Cow'/3557, l='ServerLevel[world]', x=-693.99, y=82.00, z=-347.93] died: Cow was slain by xEngellx
+[20:38:20] [Server thread/INFO]: Named entity EntityPig['Pig'/1984, l='ServerLevel[world]', x=-678.45, y=90.00, z=-310.55] died: Pig was slain by Skorri_
+[20:38:29] [Server thread/INFO]: Named entity EntitySheep['Sheep'/3496, l='ServerLevel[world]', x=-692.84, y=83.00, z=-296.83] died: Sheep was slain by Skorri_
+[20:38:36] [Server thread/INFO]: Named entity EntityCow['Cow'/1982, l='ServerLevel[world]', x=-718.23, y=76.46, z=-289.91] died: Cow was slain by Skorri_
+[20:38:45] [Server thread/INFO]: Named entity EntityCow['Cow'/3536, l='ServerLevel[world]', x=-726.02, y=88.00, z=-324.17] died: Cow was slain by Skorri_
+[20:51:52] [Server thread/INFO]: Named entity EntityPig['Pig'/1981, l='ServerLevel[world]', x=-678.94, y=77.00, z=-266.12] died: Pig was slain by Skorri_
+[20:52:01] [Server thread/INFO]: Named entity EntityPig['Pig'/2008, l='ServerLevel[world]', x=-712.28, y=74.00, z=-246.74] died: Pig was slain by Skorri_
+[20:52:04] [Server thread/INFO]: Named entity EntityPig['Pig'/1989, l='ServerLevel[world]', x=-716.60, y=75.00, z=-236.35] died: Pig was slain by Skorri_
+[21:09:55] [Server thread/INFO]: Skorri_ has made the advancement [Acquire Hardware]
+[21:11:12] [User Authenticator #4/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
+[21:11:12] [Server thread/INFO]: Cerbeuz joined the game
+[21:11:12] [Server thread/INFO]: Cerbeuz[/26.10.89.248:53404] logged in with entity id 16746 at ([world]-650.6500209543976, 69.0, -52.460182662660294)
+[21:16:36] [Server thread/INFO]: Named entity EntityCow['Cow'/1913, l='ServerLevel[world]', x=-630.35, y=68.00, z=-161.72] died: Cow was slain by Cerbeuz
+[21:16:54] [Server thread/INFO]: Named entity EntityCow['Cow'/12125, l='ServerLevel[world]', x=-631.32, y=68.00, z=-159.76] died: Cow was slain by Cerbeuz
+[21:19:13] [Server thread/INFO]: Cerbeuz has made the advancement [Cover Me with Diamonds]
+[21:19:20] [Server thread/INFO]: Skorri_ has made the advancement [Cover Me with Diamonds]
+[21:19:54] [Server thread/INFO]: Named entity EntityCow['Cow'/1926, l='ServerLevel[world]', x=-633.06, y=74.00, z=-273.44] died: Cow was slain by Skorri_
+[21:20:31] [Server thread/INFO]: Named entity EntityCow['Cow'/1928, l='ServerLevel[world]', x=-645.38, y=66.00, z=-230.36] died: Cow was slain by Cerbeuz
+[21:20:40] [Server thread/INFO]: Named entity EntityCow['Cow'/1943, l='ServerLevel[world]', x=-666.69, y=64.00, z=-219.43] died: Cow was slain by Cerbeuz
+[21:20:49] [Server thread/INFO]: Named entity EntityCow['Cow'/1931, l='ServerLevel[world]', x=-682.65, y=69.00, z=-248.60] died: Cow was slain by Cerbeuz
+[21:20:59] [Server thread/INFO]: Named entity EntityCow['Cow'/1983, l='ServerLevel[world]', x=-708.98, y=72.00, z=-269.11] died: Cow was slain by Cerbeuz
+[21:21:17] [Server thread/INFO]: Named entity EntityChicken['Chicken'/1929, l='ServerLevel[world]', x=-698.89, y=85.00, z=-304.22] died: Chicken was slain by Skorri_
+[21:23:14] [Server thread/INFO]: Cerbeuz issued server command: /help mcmmo
+[21:23:19] [Server thread/INFO]: Cerbeuz issued server command: /help mcmmo 2
+[21:23:27] [Server thread/INFO]: Cerbeuz issued server command: /help mcmmo 3
+[21:23:30] [Server thread/INFO]: Cerbeuz issued server command: /excavation
+[21:23:36] [Server thread/INFO]: Cerbeuz issued server command: /help excavation
+[21:23:48] [Server thread/INFO]: Cerbeuz issued server command: /excavation ?
+[21:24:08] [Server thread/INFO]: Cerbeuz issued server command: /excavation ? 2
+[21:24:15] [Server thread/INFO]: Cerbeuz issued server command: /excavation ? 3
+[21:24:30] [Server thread/INFO]: Cerbeuz issued server command: /excavation ? 4
+[21:24:39] [Server thread/INFO]: Cerbeuz issued server command: /excavation ? 5
+[21:24:59] [Server thread/INFO]: Cerbeuz issued server command: /excavation ? 6
+[21:25:09] [Server thread/INFO]: Cerbeuz issued server command: /excavation ? 7
+[21:25:23] [Server thread/INFO]: Cerbeuz issued server command: /deop Cerbeuz
+[21:25:23] [Server thread/INFO]: [Cerbeuz: Made Cerbeuz no longer a server operator]
+[21:26:59] [Server thread/INFO]: Named entity EntityCow['Cow'/3535, l='ServerLevel[world]', x=-744.00, y=89.00, z=-325.66] died: Cow was slain by Skorri_
+[21:32:18] [Server thread/INFO]: Skorri_ lost connection: Disconnected
+[21:32:18] [Server thread/INFO]: Skorri_ left the game
+[21:42:47] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
+[21:42:47] [Server thread/INFO]: Cerbeuz left the game
+[21:42:55] [Server thread/INFO]: xEngellx lost connection: Disconnected
+[21:42:55] [Server thread/INFO]: xEngellx left the game
+[21:43:03] [Server thread/INFO]: Stopping the server
+[21:43:03] [Server thread/INFO]: Stopping server
+[21:43:03] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
+[21:43:03] [Server thread/INFO]: [KeepDeathDrop] Disabled!
+[21:43:03] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
+[21:43:03] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[21:43:03] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
+[21:43:03] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
+[21:43:03] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
+[21:43:03] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-4-935
+[21:43:03] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[21:43:03] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[21:43:04] [Server thread/INFO]: [dynmap] Saved 7 pending tile renders in world 'world'
+[21:43:05] [Server thread/INFO]: [dynmap] Disabled
+[21:43:05] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[21:43:05] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[21:43:05] [Server thread/INFO]: Saving players
+[21:43:05] [Server thread/INFO]: Saving worlds
+[21:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:43:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:43:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
