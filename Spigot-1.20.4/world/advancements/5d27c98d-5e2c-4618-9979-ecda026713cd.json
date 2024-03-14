@@ -187,6 +187,7 @@
       "glow_berries": "2024-03-13 10:35:28 +0100",
       "cooked_beef": "2024-03-13 21:27:20 +0100",
       "beef": "2024-03-13 21:17:39 +0100",
+      "baked_potato": "2024-03-14 20:56:51 +0100",
       "porkchop": "2024-03-13 10:26:14 +0100",
       "tropical_fish": "2024-03-13 10:53:33 +0100",
       "carrot": "2024-03-13 10:54:57 +0100"
@@ -1651,12 +1652,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2024-03-13 21:19:13 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-03-13 21:16:36 +0100"
@@ -1678,6 +1673,30 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-03-13 21:16:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-03-13 21:19:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2024-03-14 20:52:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-03-14 20:55:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-03-14 22:05:50 +0100"
     },
     "done": true
   },
