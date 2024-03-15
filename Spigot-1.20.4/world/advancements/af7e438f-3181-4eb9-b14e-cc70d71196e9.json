@@ -657,7 +657,8 @@
       "minecraft:magma_cube": "2024-03-15 20:46:09 +0100",
       "minecraft:spider": "2024-03-15 18:40:01 +0100",
       "minecraft:zombie": "2024-03-15 18:50:16 +0100",
-      "minecraft:creeper": "2024-03-15 18:49:09 +0100"
+      "minecraft:creeper": "2024-03-15 18:49:09 +0100",
+      "minecraft:drowned": "2024-03-16 00:07:27 +0100"
     },
     "done": false
   },
@@ -2763,6 +2764,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-03-15 23:41:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-03-15 23:46:52 +0100"
@@ -2829,9 +2836,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "hero_of_the_village": "2024-03-15 23:41:11 +0100"
+      "has_ink_sac": "2024-03-16 00:07:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-03-16 00:07:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-03-16 00:04:37 +0100"
     },
     "done": true
   },
