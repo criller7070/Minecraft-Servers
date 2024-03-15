@@ -1,385 +1,532 @@
-[20:49:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:49:19] [ServerMain/INFO]: Loaded 7 recipes
-[20:49:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[20:49:19] [Server thread/INFO]: Loading properties
-[20:49:20] [Server thread/INFO]: This server is running CraftBukkit version 4061-Spigot-e9ec548-366c3ca (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
-[20:49:21] [Server thread/INFO]: Debug logging is disabled
-[20:49:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:49:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:49:21] [Server thread/INFO]: Default game type: SURVIVAL
-[20:49:21] [Server thread/INFO]: Generating keypair
-[20:49:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:49:21] [Server thread/INFO]: Using default channel type
-[20:49:22] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
-[20:49:22] [Server thread/INFO]: [dynmap] Loading dynmap v3.7-beta-4-935
-[20:49:22] [Server thread/INFO]: [dynmap] version=4061-Spigot-e9ec548-366c3ca (MC: 1.20.4)
-[20:49:22] [Server thread/INFO]: [dynmap] Mod Support API available
-[20:49:22] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.2
-[20:49:22] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.231
-[20:49:22] [Server thread/INFO]: [KeepDeathDrop] Loading KeepDeathDrop v1.0.7
-[20:49:22] [Server thread/INFO]: Preparing level "world"
-[20:49:23] [Server thread/INFO]: -------- World Settings For [world] --------
-[20:49:23] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:49:23] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:49:23] [Server thread/INFO]: View Distance: 10
-[20:49:23] [Server thread/INFO]: Simulation Distance: 10
-[20:49:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:49:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:49:23] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:49:23] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:49:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[20:49:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:49:23] [Server thread/INFO]: Mob Spawn Range: 6
-[20:49:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:49:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[20:49:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:49:23] [Server thread/INFO]: Max TNT Explosions: 100
-[20:49:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[20:49:23] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[20:49:23] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:49:23] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:49:23] [Server thread/INFO]: View Distance: 10
-[20:49:23] [Server thread/INFO]: Simulation Distance: 10
-[20:49:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:49:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:49:23] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:49:23] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:49:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[20:49:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:49:23] [Server thread/INFO]: Mob Spawn Range: 6
-[20:49:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:49:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[20:49:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:49:23] [Server thread/INFO]: Max TNT Explosions: 100
-[20:49:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[20:49:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[20:49:23] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:49:23] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:49:23] [Server thread/INFO]: View Distance: 10
-[20:49:23] [Server thread/INFO]: Simulation Distance: 10
-[20:49:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:49:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:49:23] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:49:23] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:49:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[20:49:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:49:23] [Server thread/INFO]: Mob Spawn Range: 6
-[20:49:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[20:49:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:49:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[20:49:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:49:23] [Server thread/INFO]: Max TNT Explosions: 100
-[20:49:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[20:49:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:49:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[20:49:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[20:49:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[20:49:25] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[20:49:26] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:49:26] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:49:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:49:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:49:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:49:28] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[20:49:29] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[20:49:29] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[20:49:30] [Worker-Main-15/INFO]: Preparing spawn area: 1%
-[20:49:30] [Worker-Main-11/INFO]: Preparing spawn area: 4%
-[20:49:31] [Worker-Main-6/INFO]: Preparing spawn area: 4%
-[20:49:31] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[20:49:32] [Worker-Main-9/INFO]: Preparing spawn area: 10%
-[20:49:32] [Worker-Main-6/INFO]: Preparing spawn area: 14%
-[20:49:33] [Worker-Main-4/INFO]: Preparing spawn area: 14%
-[20:49:33] [Worker-Main-10/INFO]: Preparing spawn area: 15%
-[20:49:34] [Worker-Main-12/INFO]: Preparing spawn area: 20%
-[20:49:34] [Worker-Main-3/INFO]: Preparing spawn area: 20%
-[20:49:35] [Worker-Main-11/INFO]: Preparing spawn area: 20%
-[20:49:35] [Worker-Main-4/INFO]: Preparing spawn area: 22%
-[20:49:36] [Worker-Main-10/INFO]: Preparing spawn area: 27%
-[20:49:36] [Worker-Main-6/INFO]: Preparing spawn area: 37%
-[20:49:37] [Worker-Main-10/INFO]: Preparing spawn area: 43%
-[20:49:37] [Worker-Main-8/INFO]: Preparing spawn area: 59%
-[20:49:38] [Worker-Main-2/INFO]: Preparing spawn area: 71%
-[20:49:38] [Worker-Main-1/INFO]: Preparing spawn area: 77%
-[20:49:39] [Worker-Main-13/INFO]: Preparing spawn area: 81%
-[20:49:39] [Worker-Main-5/INFO]: Preparing spawn area: 96%
-[20:49:39] [Server thread/INFO]: Time elapsed: 15626 ms
-[20:49:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:49:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:49:40] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[20:49:40] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:49:41] [Worker-Main-6/INFO]: Preparing spawn area: 4%
-[20:49:41] [Worker-Main-12/INFO]: Preparing spawn area: 7%
-[20:49:42] [Worker-Main-4/INFO]: Preparing spawn area: 84%
-[20:49:42] [Server thread/INFO]: Time elapsed: 2538 ms
-[20:49:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:49:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:49:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:49:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:49:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:49:44] [Worker-Main-8/INFO]: Preparing spawn area: 75%
-[20:49:44] [Server thread/INFO]: Time elapsed: 2057 ms
-[20:49:44] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[20:49:44] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[20:49:44] [Server thread/INFO]: [ClearLag] Loading modules...
-[20:49:44] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R3.MinecraftServer)
-[20:49:44] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[20:49:44] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[20:49:44] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[20:49:44] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
-[20:49:44] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-4-935
-[20:49:44] [Thread-8/INFO]: [ClearLag] No updates found!
-[20:49:44] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[20:49:44] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[20:49:44] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[20:49:45] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[20:49:47] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[20:49:47] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[20:49:47] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[20:49:47] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[20:49:47] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[20:49:48] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[20:49:48] [Server thread/INFO]: [dynmap] version 3.7-beta-4-935 is enabled - core version 3.7-beta-4-935
-[20:49:48] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[20:49:48] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[20:49:48] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[20:49:48] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[20:49:48] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[20:49:48] [Server thread/INFO]: [dynmap] Loaded 33 pending tile renders for world 'world'
-[20:49:48] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[20:49:48] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[20:49:48] [Server thread/INFO]: [dynmap] Enabled
-[20:49:48] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.2
-[20:49:48] [Server thread/INFO]: [OnePlayerSleep] Thank you for using the OnePlayerSleep plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
-[20:49:48] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.231
-[20:49:49] [Server thread/INFO]: [KeepDeathDrop] Enabling KeepDeathDrop v1.0.7
-[20:49:50] [Server thread/INFO]: [KeepDeathDrop] Enabled!
-[20:49:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:49:50] [Server thread/INFO]: Done (27.295s)! For help, type "help"
-[20:49:51] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[20:49:51] [User Authenticator #1/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
-[20:49:51] [Server thread/INFO]: Cerbeuz joined the game
-[20:49:52] [Server thread/INFO]: Cerbeuz[/26.10.89.248:60224] logged in with entity id 104 at ([world]-654.9083647184153, 66.0, -96.02688050960832)
-[20:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5113ms or 102 ticks behind
-[20:50:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15886ms or 317 ticks behind
-[20:55:20] [User Authenticator #2/INFO]: UUID of player xEngellx is 18b3ec38-6391-4c7e-9b05-95f5c9004c32
-[20:55:20] [Server thread/INFO]: xEngellx joined the game
-[20:55:20] [Server thread/INFO]: xEngellx[/127.0.0.1:54429] logged in with entity id 1343 at ([world]-599.2187508899904, 63.0, -194.76995792791436)
-[20:58:20] [Server thread/INFO]: Named entity EntitySpider['Spider'/1746, l='ServerLevel[world]', x=-643.03, y=66.00, z=-108.01] died: Spider was slain by xEngellx
-[21:08:42] [Server thread/INFO]: Named entity EntityZombie['Zombie'/3360, l='ServerLevel[world]', x=-659.77, y=16.00, z=-214.70] died: Zombie was slain by xEngellx
-[21:08:48] [Server thread/INFO]: Named entity EntityZombie['Zombie'/3358, l='ServerLevel[world]', x=-657.53, y=17.00, z=-215.77] died: Zombie was slain by xEngellx
-[21:11:06] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/3418, l='ServerLevel[world]', x=-627.30, y=19.00, z=-194.30] died: Skeleton was slain by xEngellx
-[21:13:10] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/3737, l='ServerLevel[world]', x=-658.30, y=20.00, z=-212.03] died: Skeleton was slain by xEngellx
-[21:13:28] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/4038, l='ServerLevel[world]', x=-635.59, y=39.00, z=-215.70] died: Skeleton was slain by xEngellx
-[21:20:40] [User Authenticator #3/INFO]: UUID of player mingus1 is cfcf6275-70dd-4d48-a4fc-6bfadc9a3e77
-[21:20:40] [Server thread/INFO]: mingus1 joined the game
-[21:20:40] [Server thread/INFO]: mingus1[/26.172.117.66:63442] logged in with entity id 5656 at ([world]9.5, 73.0, -1.5)
-[21:21:52] [Server thread/INFO]: mingus1 has made the advancement [Stone Age]
-[21:23:03] [Server thread/INFO]: mingus1 has made the advancement [Getting an Upgrade]
-[21:23:49] [Server thread/INFO]: mingus1 has made the advancement [Monster Hunter]
-[21:23:49] [Server thread/INFO]: Named entity EntityZombie['Zombie'/6207, l='ServerLevel[world]', x=-24.03, y=68.00, z=-60.54] died: Zombie was slain by mingus1
-[21:24:02] [Server thread/INFO]: Named entity EntityZombie['Zombie'/6648, l='ServerLevel[world]', x=-35.73, y=60.81, z=-64.66] died: Zombie was slain by mingus1
-[21:25:15] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/3903, l='ServerLevel[world]', x=-594.61, y=72.00, z=-144.53] died: Enderman was slain by xEngellx
-[21:26:00] [Server thread/INFO]: Named entity EntityPig['Pig'/5674, l='ServerLevel[world]', x=-54.40, y=70.00, z=-183.49] died: Pig was slain by mingus1
-[21:26:03] [Server thread/INFO]: Named entity EntityPig['Pig'/5676, l='ServerLevel[world]', x=-52.47, y=68.00, z=-188.33] died: Pig was slain by mingus1
-[21:26:05] [Server thread/INFO]: Named entity EntityPig['Pig'/5675, l='ServerLevel[world]', x=-50.83, y=70.00, z=-192.26] died: Pig was slain by mingus1
-[21:26:10] [Server thread/INFO]: Named entity EntityPig['Pig'/5684, l='ServerLevel[world]', x=-62.73, y=64.00, z=-184.62] died: Pig was slain by mingus1
-[21:26:14] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/7687, l='ServerLevel[world]', x=-613.30, y=63.00, z=-171.30] died: Skeleton was slain by xEngellx
-[21:26:14] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/7686, l='ServerLevel[world]', x=-64.70, y=64.00, z=-186.30] died: Skeleton was slain by mingus1
-[21:26:34] [Server thread/INFO]: Named entity EntityZombie['Zombie'/7582, l='ServerLevel[world]', x=-137.46, y=75.00, z=-186.57] died: Zombie was slain by mingus1
-[21:26:58] [Server thread/INFO]: Named entity EntityCow['Cow'/260, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.93] died: Cow was slain by xEngellx
-[21:27:06] [Server thread/INFO]: Named entity EntityCow['Cow'/276, l='ServerLevel[world]', x=-628.97, y=68.00, z=-163.75] died: Cow was slain by xEngellx
-[21:27:12] [Server thread/INFO]: Named entity EntityCow['Cow'/264, l='ServerLevel[world]', x=-628.51, y=68.00, z=-164.32] died: Cow was slain by xEngellx
-[21:27:13] [Server thread/INFO]: Named entity EntityCow['Cow'/250, l='ServerLevel[world]', x=-628.98, y=68.00, z=-164.89] died: Cow was slain by xEngellx
-[21:27:18] [Server thread/INFO]: Named entity EntityCow['Cow'/232, l='ServerLevel[world]', x=-630.25, y=68.00, z=-164.15] died: Cow was slain by xEngellx
-[21:27:18] [Server thread/INFO]: Named entity EntityCow['Cow'/261, l='ServerLevel[world]', x=-629.10, y=68.00, z=-163.83] died: Cow was slain by xEngellx
-[21:27:18] [Server thread/INFO]: Named entity EntityCow['Cow'/233, l='ServerLevel[world]', x=-629.85, y=68.00, z=-164.05] died: Cow was slain by xEngellx
-[21:27:21] [Server thread/INFO]: Named entity EntityCow['Cow'/235, l='ServerLevel[world]', x=-629.06, y=68.00, z=-164.01] died: Cow was slain by xEngellx
-[21:27:25] [Server thread/INFO]: Named entity EntityCow['Cow'/242, l='ServerLevel[world]', x=-629.71, y=68.00, z=-164.31] died: Cow was slain by xEngellx
-[21:27:29] [Server thread/INFO]: Named entity EntityCow['Cow'/280, l='ServerLevel[world]', x=-629.73, y=68.00, z=-164.30] died: Cow was slain by xEngellx
-[21:27:30] [Server thread/INFO]: Named entity EntityCow['Cow'/266, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.39] died: Cow was slain by xEngellx
-[21:27:30] [Server thread/INFO]: Named entity EntityCow['Cow'/279, l='ServerLevel[world]', x=-630.22, y=68.00, z=-164.34] died: Cow was slain by xEngellx
-[21:27:31] [Server thread/INFO]: Named entity EntityCow['Cow'/297, l='ServerLevel[world]', x=-630.86, y=68.00, z=-164.10] died: Cow was slain by xEngellx
-[21:27:33] [Server thread/INFO]: Named entity EntityCow['Cow'/277, l='ServerLevel[world]', x=-628.99, y=68.00, z=-163.17] died: Cow was slain by xEngellx
-[21:27:38] [Server thread/INFO]: Named entity EntityCow['Cow'/296, l='ServerLevel[world]', x=-630.93, y=68.00, z=-162.81] died: Cow was slain by xEngellx
-[21:27:41] [Server thread/INFO]: Named entity EntityCow['Cow'/294, l='ServerLevel[world]', x=-630.02, y=68.00, z=-164.06] died: Cow was slain by xEngellx
-[21:27:42] [Server thread/INFO]: Named entity EntityCow['Cow'/288, l='ServerLevel[world]', x=-630.01, y=68.00, z=-164.24] died: Cow was slain by xEngellx
-[21:27:50] [Server thread/INFO]: Named entity EntityCow['Cow'/251, l='ServerLevel[world]', x=-628.62, y=68.00, z=-161.07] died: Cow was slain by xEngellx
-[21:27:52] [Server thread/INFO]: Named entity EntityCow['Cow'/262, l='ServerLevel[world]', x=-630.93, y=68.00, z=-162.42] died: Cow was slain by xEngellx
-[21:27:54] [Server thread/INFO]: Named entity EntityCow['Cow'/285, l='ServerLevel[world]', x=-629.12, y=68.00, z=-164.01] died: Cow was slain by xEngellx
-[21:28:02] [Server thread/INFO]: Named entity EntityCow['Cow'/259, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.93] died: Cow was slain by xEngellx
-[21:28:04] [Server thread/INFO]: Named entity EntityCow['Cow'/237, l='ServerLevel[world]', x=-630.93, y=68.00, z=-161.97] died: Cow was slain by xEngellx
-[21:28:05] [Server thread/INFO]: Named entity EntityCow['Cow'/284, l='ServerLevel[world]', x=-630.02, y=68.00, z=-161.07] died: Cow was slain by xEngellx
-[21:28:09] [Server thread/INFO]: Named entity EntityCow['Cow'/291, l='ServerLevel[world]', x=-629.05, y=68.00, z=-164.93] died: Cow was slain by xEngellx
-[21:28:11] [Server thread/INFO]: Named entity EntityCow['Cow'/293, l='ServerLevel[world]', x=-629.88, y=68.00, z=-164.19] died: Cow was slain by xEngellx
-[21:28:12] [Server thread/INFO]: Named entity EntityCow['Cow'/278, l='ServerLevel[world]', x=-629.84, y=68.00, z=-164.25] died: Cow was slain by xEngellx
-[21:28:13] [Server thread/INFO]: Named entity EntityCow['Cow'/295, l='ServerLevel[world]', x=-630.72, y=68.00, z=-163.94] died: Cow was slain by xEngellx
-[21:28:15] [Server thread/INFO]: Named entity EntityCow['Cow'/267, l='ServerLevel[world]', x=-630.93, y=68.00, z=-162.85] died: Cow was slain by xEngellx
-[21:28:16] [Server thread/INFO]: Named entity EntityCow['Cow'/283, l='ServerLevel[world]', x=-630.93, y=68.00, z=-163.93] died: Cow was slain by xEngellx
-[21:28:18] [Server thread/INFO]: Named entity EntityCow['Cow'/282, l='ServerLevel[world]', x=-630.14, y=68.00, z=-163.88] died: Cow was slain by xEngellx
-[21:28:22] [Server thread/INFO]: Named entity EntityCow['Cow'/292, l='ServerLevel[world]', x=-630.42, y=68.00, z=-164.93] died: Cow was slain by xEngellx
-[21:28:22] [Server thread/INFO]: Named entity EntityCow['Cow'/298, l='ServerLevel[world]', x=-630.50, y=68.00, z=-163.68] died: Cow was slain by xEngellx
-[21:28:28] [Server thread/INFO]: Named entity EntityCow['Cow'/253, l='ServerLevel[world]', x=-630.93, y=68.00, z=-162.13] died: Cow was slain by xEngellx
-[21:28:29] [Server thread/INFO]: Named entity EntityCow['Cow'/263, l='ServerLevel[world]', x=-630.93, y=68.00, z=-162.03] died: Cow was slain by xEngellx
-[21:28:31] [Server thread/INFO]: Named entity EntityCow['Cow'/265, l='ServerLevel[world]', x=-630.69, y=68.00, z=-162.58] died: Cow was slain by xEngellx
-[21:28:32] [Server thread/INFO]: Named entity EntityCow['Cow'/286, l='ServerLevel[world]', x=-629.66, y=68.00, z=-163.32] died: Cow was slain by xEngellx
-[21:28:34] [Server thread/INFO]: Named entity EntityCow['Cow'/243, l='ServerLevel[world]', x=-630.93, y=68.00, z=-163.53] died: Cow was slain by xEngellx
-[21:28:34] [Server thread/INFO]: Named entity EntityCow['Cow'/290, l='ServerLevel[world]', x=-630.85, y=68.00, z=-164.18] died: Cow was slain by xEngellx
-[21:28:35] [Server thread/INFO]: Named entity EntityCow['Cow'/252, l='ServerLevel[world]', x=-630.19, y=68.00, z=-164.93] died: Cow was slain by xEngellx
-[21:28:37] [Server thread/INFO]: Named entity EntityCow['Cow'/289, l='ServerLevel[world]', x=-628.28, y=68.00, z=-163.93] died: Cow was slain by xEngellx
-[21:28:38] [Server thread/INFO]: Named entity EntityCow['Cow'/239, l='ServerLevel[world]', x=-628.07, y=68.00, z=-162.77] died: Cow was slain by xEngellx
-[21:28:41] [Server thread/INFO]: Named entity EntityCow['Cow'/281, l='ServerLevel[world]', x=-628.63, y=68.00, z=-161.19] died: Cow was slain by xEngellx
-[21:28:41] [Server thread/INFO]: Named entity EntityPig['Pig'/7823, l='ServerLevel[world]', x=-318.25, y=72.00, z=-144.79] died: Pig was slain by mingus1
-[21:28:43] [Server thread/INFO]: Named entity EntityPig['Pig'/7822, l='ServerLevel[world]', x=-319.37, y=74.00, z=-146.53] died: Pig was slain by mingus1
-[21:29:53] [Server thread/INFO]: Named entity EntityPig['Pig'/388, l='ServerLevel[world]', x=-485.10, y=85.00, z=-154.21] died: Pig was slain by mingus1
-[21:30:43] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
-[21:30:43] [Server thread/INFO]: Cerbeuz left the game
-[21:31:19] [User Authenticator #4/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
-[21:31:20] [Server thread/INFO]: Cerbeuz joined the game
-[21:31:20] [Server thread/INFO]: Cerbeuz[/26.10.89.248:63571] logged in with entity id 9799 at ([world]-630.447223208888, 55.0, -104.45233212913054)
-[21:33:37] [Server thread/INFO]: Named entity EntityPig['Pig'/313, l='ServerLevel[world]', x=-755.35, y=64.00, z=-132.45] died: Pig was slain by mingus1
-[21:33:46] [Server thread/INFO]: Named entity EntityPig['Pig'/342, l='ServerLevel[world]', x=-778.69, y=71.00, z=-103.13] died: Pig was slain by mingus1
-[21:33:49] [Server thread/INFO]: Named entity EntityPig['Pig'/343, l='ServerLevel[world]', x=-765.61, y=72.00, z=-96.57] died: Pig was slain by mingus1
-[21:34:05] [Server thread/INFO]: Named entity EntityPig['Pig'/9821, l='ServerLevel[world]', x=-814.45, y=70.00, z=-140.55] died: Pig was slain by mingus1
-[21:34:10] [Server thread/INFO]: Named entity EntityPig['Pig'/10237, l='ServerLevel[world]', x=-839.40, y=67.00, z=-137.96] died: Pig was slain by mingus1
-[21:34:14] [Server thread/INFO]: Named entity EntitySheep['Sheep'/270, l='ServerLevel[world]', x=-624.88, y=68.00, z=-161.07] died: Sheep was slain by xEngellx
-[21:34:16] [Server thread/INFO]: Named entity EntitySheep['Sheep'/254, l='ServerLevel[world]', x=-625.17, y=68.00, z=-161.14] died: Sheep was slain by xEngellx
-[21:34:19] [Server thread/INFO]: Named entity EntitySheep['Sheep'/258, l='ServerLevel[world]', x=-625.34, y=68.00, z=-161.22] died: Sheep was slain by xEngellx
-[21:34:23] [Server thread/INFO]: Named entity EntitySheep['Sheep'/302, l='ServerLevel[world]', x=-624.10, y=68.00, z=-162.74] died: Sheep was slain by xEngellx
-[21:34:27] [Server thread/INFO]: Named entity EntitySheep['Sheep'/247, l='ServerLevel[world]', x=-624.07, y=68.00, z=-161.99] died: Sheep was slain by xEngellx
-[21:34:28] [Server thread/INFO]: Named entity EntityPig['Pig'/9823, l='ServerLevel[world]', x=-807.11, y=64.00, z=-171.45] died: Pig was slain by mingus1
-[21:34:31] [Server thread/INFO]: Named entity EntitySheep['Sheep'/241, l='ServerLevel[world]', x=-624.20, y=68.00, z=-162.00] died: Sheep was slain by xEngellx
-[21:34:33] [Server thread/INFO]: Named entity EntitySheep['Sheep'/300, l='ServerLevel[world]', x=-624.07, y=68.00, z=-162.84] died: Sheep was slain by xEngellx
-[21:34:34] [Server thread/INFO]: Named entity EntityPig['Pig'/9825, l='ServerLevel[world]', x=-812.31, y=71.00, z=-159.12] died: Pig was slain by mingus1
-[21:34:34] [Server thread/INFO]: Named entity EntitySheep['Sheep'/244, l='ServerLevel[world]', x=-625.05, y=68.00, z=-161.96] died: Sheep was slain by xEngellx
-[21:34:38] [Server thread/INFO]: Named entity EntitySheep['Sheep'/231, l='ServerLevel[world]', x=-625.32, y=68.00, z=-161.98] died: Sheep was slain by xEngellx
-[21:34:42] [Server thread/INFO]: Named entity EntitySheep['Sheep'/238, l='ServerLevel[world]', x=-625.14, y=68.00, z=-161.66] died: Sheep was slain by xEngellx
-[21:34:48] [Server thread/INFO]: Named entity EntitySheep['Sheep'/234, l='ServerLevel[world]', x=-625.21, y=68.00, z=-161.75] died: Sheep was slain by xEngellx
-[21:34:49] [Server thread/INFO]: Named entity EntitySheep['Sheep'/240, l='ServerLevel[world]', x=-624.53, y=68.00, z=-162.07] died: Sheep was slain by xEngellx
-[21:34:51] [Server thread/INFO]: Named entity EntitySheep['Sheep'/272, l='ServerLevel[world]', x=-625.81, y=68.00, z=-161.07] died: Sheep was slain by xEngellx
-[21:34:55] [Server thread/INFO]: Named entity EntitySheep['Sheep'/271, l='ServerLevel[world]', x=-626.57, y=68.00, z=-161.83] died: Sheep was slain by xEngellx
-[21:35:00] [Server thread/INFO]: Named entity EntitySheep['Sheep'/245, l='ServerLevel[world]', x=-626.37, y=68.00, z=-162.18] died: Sheep was slain by xEngellx
-[21:41:39] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/13080, l='ServerLevel[world]', x=-698.43, y=30.00, z=-244.17] died: Skeleton was slain by mingus1
-[21:43:56] [Server thread/INFO]: mingus1 has made the advancement [Acquire Hardware]
-[21:44:03] [Server thread/INFO]: mingus1 has made the advancement [Isn't It Iron Pick]
-[21:53:10] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) Cerbeuz[0;37;22m has reached level [0;32;1m200[0;37;22m in [0;36;22mMining[0;37;22m![m
-[21:53:32] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) xEngellx[0;37;22m has reached a Power level of [0;32;1m500[0;37;22m![m
-[21:55:33] [Server thread/INFO]: Named entity EntityZombie['Zombie'/17047, l='ServerLevel[world]', x=-589.99, y=63.00, z=-194.70] died: Zombie was slain by xEngellx
-[21:55:35] [Server thread/INFO]: Named entity EntityZombie['Zombie'/17048, l='ServerLevel[world]', x=-590.02, y=63.00, z=-194.51] died: Zombie was slain by xEngellx
-[21:56:32] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
-[21:56:32] [Server thread/INFO]: Cerbeuz left the game
-[21:57:54] [User Authenticator #5/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
-[21:57:54] [Server thread/INFO]: Cerbeuz joined the game
-[21:57:54] [Server thread/INFO]: Cerbeuz[/26.10.89.248:49244] logged in with entity id 17950 at ([world]-625.8741104337316, 55.0, -103.81151948757885)
-[21:58:33] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
-[21:58:33] [Server thread/INFO]: Cerbeuz left the game
-[21:59:36] [User Authenticator #6/INFO]: UUID of player Cerbeuz is 5d27c98d-5e2c-4618-9979-ecda026713cd
-[21:59:37] [Server thread/INFO]: Cerbeuz joined the game
-[21:59:37] [Server thread/INFO]: Cerbeuz[/26.10.89.248:49397] logged in with entity id 18443 at ([world]-631.1102703718723, 55.0, -104.69999998807907)
-[22:00:46] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/18428, l='ServerLevel[world]', x=-630.70, y=55.00, z=-107.72] died: Creeper was shot by xEngellx
-[22:00:52] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/18430, l='ServerLevel[world]', x=-634.02, y=59.50, z=-106.51] died: Creeper was shot by xEngellx
-[22:01:03] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/18427, l='ServerLevel[world]', x=-629.30, y=55.00, z=-100.66] died: Creeper was shot by xEngellx
-[22:01:08] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/18429, l='ServerLevel[world]', x=-630.43, y=55.00, z=-101.29] died: Creeper was shot by xEngellx
-[22:01:38] [Server thread/INFO]: Named entity EntitySheep['Sheep'/15826, l='ServerLevel[world]', x=-623.57, y=69.50, z=-165.59] died: Sheep was slain by xEngellx
-[22:03:43] [Server thread/INFO]: Named entity EntityPig['Pig'/19080, l='ServerLevel[world]', x=-520.21, y=72.00, z=-399.47] died: Pig was slain by mingus1
-[22:04:35] [Server thread/INFO]: Named entity EntityPig['Pig'/19310, l='ServerLevel[world]', x=-473.74, y=68.94, z=-451.75] died: Pig was slain by mingus1
-[22:05:34] [Server thread/INFO]: Named entity EntityPig['Pig'/19280, l='ServerLevel[world]', x=-465.29, y=69.00, z=-450.67] died: Pig was slain by mingus1
-[22:05:42] [Server thread/INFO]: Named entity EntityPig['Pig'/19340, l='ServerLevel[world]', x=-490.03, y=69.00, z=-453.94] died: Pig was slain by mingus1
-[22:05:50] [Server thread/INFO]: Cerbeuz has made the advancement [Enchanter]
-[22:07:00] [Server thread/INFO]: Named entity EntityCow['Cow'/19832, l='ServerLevel[world]', x=-543.49, y=64.00, z=-620.23] died: Cow was slain by mingus1
-[22:07:03] [Server thread/INFO]: Named entity EntityCow['Cow'/19831, l='ServerLevel[world]', x=-535.05, y=62.56, z=-614.81] died: Cow was slain by mingus1
-[22:07:10] [Server thread/INFO]: Named entity EntityPig['Pig'/19833, l='ServerLevel[world]', x=-545.76, y=63.00, z=-614.67] died: Pig was slain by mingus1
-[22:07:39] [Server thread/INFO]: Named entity EntityPig['Pig'/19789, l='ServerLevel[world]', x=-562.74, y=63.00, z=-586.53] died: Pig was slain by mingus1
-[22:07:45] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) Cerbeuz[0;37;22m has reached a Power level of [0;32;1m300[0;37;22m![m
-[22:11:30] [Server thread/INFO]: Named entity EntityZombie['Zombie'/23177, l='ServerLevel[world]', x=-665.69, y=63.00, z=-207.61] died: Zombie was slain by mingus1
-[22:11:33] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/23178, l='ServerLevel[world]', x=-677.77, y=63.00, z=-199.70] died: Skeleton was slain by mingus1
-[22:11:39] [Server thread/INFO]: mingus1 has made the advancement [Sweet Dreams]
-[22:13:06] [Server thread/INFO]: Named entity EntityCow['Cow'/15845, l='ServerLevel[world]', x=-636.15, y=70.00, z=-137.45] died: Cow was slain by xEngellx
-[22:13:12] [Server thread/INFO]: mingus1 has made the advancement [Suit Up]
-[22:15:19] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) mingus1[0;37;22m has reached a Power level of [0;32;1m100[0;37;22m![m
-[22:19:04] [Server thread/INFO]: xEngellx lost connection: Disconnected
-[22:19:04] [Server thread/INFO]: xEngellx left the game
-[22:22:07] [Server thread/INFO]: Cerbeuz lost connection: Disconnected
-[22:22:07] [Server thread/INFO]: Cerbeuz left the game
-[22:24:16] [Server thread/INFO]: mingus1 lost connection: Disconnected
-[22:24:16] [Server thread/INFO]: mingus1 left the game
-[22:29:41] [Server thread/INFO]: Stopping the server
-[22:29:41] [Server thread/INFO]: Stopping server
-[22:29:41] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
-[22:29:41] [Server thread/INFO]: [KeepDeathDrop] Disabled!
-[22:29:41] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
-[22:29:41] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
-[22:29:41] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
-[22:29:41] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
-[22:29:41] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
-[22:29:41] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-4-935
-[22:29:41] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[22:29:41] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[22:29:42] [Server thread/INFO]: [dynmap] Disabled
-[22:29:42] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[22:29:42] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[22:29:42] [Server thread/INFO]: Saving players
-[22:29:43] [Server thread/INFO]: Saving worlds
-[22:29:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:29:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:27:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:27:52] [ServerMain/INFO]: Loaded 7 recipes
+[11:27:53] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:27:53] [Server thread/INFO]: Loading properties
+[11:27:53] [Server thread/INFO]: This server is running CraftBukkit version 4061-Spigot-e9ec548-366c3ca (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[11:27:54] [Server thread/INFO]: Debug logging is disabled
+[11:27:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:27:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:27:54] [Server thread/INFO]: Default game type: SURVIVAL
+[11:27:54] [Server thread/INFO]: Generating keypair
+[11:27:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:27:54] [Server thread/INFO]: Using default channel type
+[11:27:55] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[11:27:55] [Server thread/INFO]: [dynmap] Loading dynmap v3.7-beta-4-935
+[11:27:55] [Server thread/INFO]: [dynmap] version=4061-Spigot-e9ec548-366c3ca (MC: 1.20.4)
+[11:27:55] [Server thread/INFO]: [dynmap] Mod Support API available
+[11:27:55] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.2
+[11:27:55] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.231
+[11:27:55] [Server thread/INFO]: [KeepDeathDrop] Loading KeepDeathDrop v1.0.7
+[11:27:55] [Server thread/INFO]: Preparing level "world"
+[11:27:55] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:27:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:27:55] [Server thread/INFO]: View Distance: 10
+[11:27:55] [Server thread/INFO]: Simulation Distance: 10
+[11:27:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:27:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:27:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:27:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:27:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:27:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:27:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:27:55] [Server thread/INFO]: Max TNT Explosions: 100
+[11:27:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:27:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:27:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:27:55] [Server thread/INFO]: Mob Spawn Range: 6
+[11:27:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:27:55] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:27:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:27:55] [Server thread/INFO]: View Distance: 10
+[11:27:55] [Server thread/INFO]: Simulation Distance: 10
+[11:27:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:27:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:27:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:27:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:27:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:27:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:27:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:27:55] [Server thread/INFO]: Max TNT Explosions: 100
+[11:27:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:27:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:27:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:27:55] [Server thread/INFO]: Mob Spawn Range: 6
+[11:27:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:27:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:27:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:27:55] [Server thread/INFO]: View Distance: 10
+[11:27:55] [Server thread/INFO]: Simulation Distance: 10
+[11:27:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:27:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:27:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:27:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:27:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:27:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:27:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:27:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:27:55] [Server thread/INFO]: Max TNT Explosions: 100
+[11:27:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:27:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:27:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:27:55] [Server thread/INFO]: Mob Spawn Range: 6
+[11:27:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:27:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:27:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:27:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:27:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:27:57] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[11:27:58] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[11:27:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:27:59] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:27:59] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[11:28:00] [Worker-Main-11/INFO]: Preparing spawn area: 3%
+[11:28:00] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[11:28:01] [Worker-Main-13/INFO]: Preparing spawn area: 6%
+[11:28:01] [Worker-Main-13/INFO]: Preparing spawn area: 9%
+[11:28:02] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[11:28:02] [Worker-Main-8/INFO]: Preparing spawn area: 24%
+[11:28:03] [Worker-Main-4/INFO]: Preparing spawn area: 24%
+[11:28:03] [Worker-Main-11/INFO]: Preparing spawn area: 29%
+[11:28:04] [Worker-Main-1/INFO]: Preparing spawn area: 46%
+[11:28:04] [Worker-Main-8/INFO]: Preparing spawn area: 53%
+[11:28:05] [Worker-Main-2/INFO]: Preparing spawn area: 63%
+[11:28:05] [Worker-Main-11/INFO]: Preparing spawn area: 68%
+[11:28:06] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[11:28:06] [Worker-Main-15/INFO]: Preparing spawn area: 73%
+[11:28:07] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[11:28:07] [Server thread/INFO]: Time elapsed: 11291 ms
+[11:28:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:28:07] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[11:28:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[11:28:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[11:28:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:28:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:28:09] [Server thread/INFO]: Time elapsed: 2494 ms
+[11:28:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:28:10] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:28:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:28:10] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:11] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[11:28:12] [Server thread/INFO]: Time elapsed: 2149 ms
+[11:28:12] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[11:28:12] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[11:28:12] [Server thread/INFO]: [ClearLag] Loading modules...
+[11:28:12] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R3.MinecraftServer)
+[11:28:12] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[11:28:12] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[11:28:12] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[11:28:12] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
+[11:28:12] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-4-935
+[11:28:12] [Thread-8/INFO]: [ClearLag] No updates found!
+[11:28:13] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[11:28:13] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[11:28:13] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[11:28:14] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[11:28:17] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[11:28:17] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[11:28:17] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[11:28:17] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[11:28:17] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[11:28:17] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[11:28:17] [Server thread/INFO]: [dynmap] version 3.7-beta-4-935 is enabled - core version 3.7-beta-4-935
+[11:28:17] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[11:28:17] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[11:28:17] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[11:28:17] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[11:28:17] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[11:28:17] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[11:28:17] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[11:28:17] [Server thread/INFO]: [dynmap] Enabled
+[11:28:17] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.2
+[11:28:17] [Server thread/INFO]: [OnePlayerSleep] Thank you for using the OnePlayerSleep plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
+[11:28:17] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.231
+[11:28:19] [Server thread/INFO]: [KeepDeathDrop] Enabling KeepDeathDrop v1.0.7
+[11:28:19] [Server thread/INFO]: [KeepDeathDrop] Enabled!
+[11:28:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:28:19] [Server thread/INFO]: Done (24.181s)! For help, type "help"
+[11:29:11] [User Authenticator #1/INFO]: UUID of player PILLERN is 23a1de55-1627-4d51-b046-447cf62ee674
+[11:29:11] [Server thread/INFO]: PILLERN joined the game
+[11:29:11] [Server thread/INFO]: PILLERN[/26.48.63.4:58760] logged in with entity id 105 at ([world]-637.6999999880791, 67.0, -107.69999998807907)
+[11:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4793ms or 95 ticks behind
+[11:30:27] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[11:41:25] [User Authenticator #2/INFO]: UUID of player xEngellx is 18b3ec38-6391-4c7e-9b05-95f5c9004c32
+[11:41:26] [Server thread/INFO]: xEngellx joined the game
+[11:41:26] [Server thread/INFO]: xEngellx[/127.0.0.1:53792] logged in with entity id 2194 at ([world]-598.9029913913986, 63.0, -179.03392808616812)
+[11:43:17] [Server thread/INFO]: Named entity EntitySheep['Sheep'/332, l='ServerLevel[world]', x=-736.87, y=78.00, z=-221.83] died: Sheep was slain by PILLERN
+[11:44:39] [Server thread/WARN]: Horse (vehicle of PILLERN) moved wrongly! 0.27469294304728464
+[11:44:41] [Server thread/INFO]: Named entity EntitySheep['Sheep'/219, l='ServerLevel[world]', x=-567.11, y=87.00, z=-165.66] died: Sheep was slain by PILLERN
+[11:53:53] [Server thread/INFO]: Named entity EntityCow['Cow'/157, l='ServerLevel[world]', x=-628.79, y=68.00, z=-164.11] died: Cow was slain by xEngellx
+[11:53:53] [Server thread/INFO]: Named entity EntityCow['Cow'/135, l='ServerLevel[world]', x=-629.57, y=68.00, z=-162.58] died: Cow was slain by xEngellx
+[11:53:56] [Server thread/INFO]: Named entity EntityCow['Cow'/152, l='ServerLevel[world]', x=-630.03, y=68.00, z=-164.43] died: Cow was slain by xEngellx
+[11:54:11] [Server thread/INFO]: Named entity EntityCow['Cow'/167, l='ServerLevel[world]', x=-630.33, y=68.00, z=-163.91] died: Cow was slain by xEngellx
+[11:54:11] [Server thread/INFO]: Named entity EntityCow['Cow'/161, l='ServerLevel[world]', x=-629.57, y=68.00, z=-163.76] died: Cow was slain by xEngellx
+[11:54:14] [Server thread/INFO]: Named entity EntityCow['Cow'/149, l='ServerLevel[world]', x=-629.17, y=68.00, z=-163.92] died: Cow was slain by xEngellx
+[11:54:17] [Server thread/INFO]: Named entity EntityCow['Cow'/164, l='ServerLevel[world]', x=-630.83, y=68.00, z=-163.95] died: Cow was slain by xEngellx
+[11:54:23] [Server thread/INFO]: Named entity EntityCow['Cow'/154, l='ServerLevel[world]', x=-630.65, y=68.00, z=-163.62] died: Cow was slain by xEngellx
+[11:54:26] [Server thread/INFO]: Named entity EntityCow['Cow'/147, l='ServerLevel[world]', x=-630.24, y=68.00, z=-164.93] died: Cow was slain by xEngellx
+[11:54:27] [Server thread/INFO]: Named entity EntityCow['Cow'/145, l='ServerLevel[world]', x=-630.45, y=68.00, z=-164.32] died: Cow was slain by xEngellx
+[11:54:29] [Server thread/INFO]: Named entity EntityCow['Cow'/155, l='ServerLevel[world]', x=-630.28, y=68.00, z=-164.44] died: Cow was slain by xEngellx
+[11:54:30] [Server thread/INFO]: Named entity EntityCow['Cow'/153, l='ServerLevel[world]', x=-630.65, y=68.00, z=-164.31] died: Cow was slain by xEngellx
+[11:54:33] [Server thread/INFO]: Named entity EntityCow['Cow'/175, l='ServerLevel[world]', x=-628.07, y=68.00, z=-162.09] died: Cow was slain by xEngellx
+[11:54:41] [Server thread/INFO]: Named entity EntityCow['Cow'/158, l='ServerLevel[world]', x=-630.42, y=68.00, z=-163.67] died: Cow was slain by xEngellx
+[11:54:43] [Server thread/INFO]: Named entity EntityCow['Cow'/168, l='ServerLevel[world]', x=-630.93, y=68.00, z=-163.69] died: Cow was slain by xEngellx
+[11:54:45] [Server thread/INFO]: Named entity EntityCow['Cow'/166, l='ServerLevel[world]', x=-630.91, y=68.00, z=-163.91] died: Cow was slain by xEngellx
+[11:58:34] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) PILLERN[0;37;22m has reached level [0;32;1m100[0;37;22m in [0;36;22mAcrobatics[0;37;22m![m
+[12:05:59] [Server thread/INFO]: PILLERN lost connection: Disconnected
+[12:05:59] [Server thread/INFO]: PILLERN left the game
+[12:19:23] [Server thread/INFO]: Named entity EntityCow['Cow'/6033, l='ServerLevel[world]', x=-617.09, y=69.00, z=-169.74] died: Cow was slain by xEngellx
+[12:19:38] [Server thread/INFO]: Named entity EntityCow['Cow'/3005, l='ServerLevel[world]', x=-613.44, y=72.00, z=-126.84] died: Cow was slain by xEngellx
+[12:24:17] [User Authenticator #3/INFO]: UUID of player PILLERN is 23a1de55-1627-4d51-b046-447cf62ee674
+[12:24:17] [Server thread/INFO]: PILLERN joined the game
+[12:24:17] [Server thread/INFO]: PILLERN[/26.48.63.4:61911] logged in with entity id 10294 at ([world]-634.3435051638548, 71.0, -106.98674682377158)
+[12:35:52] [Server thread/INFO]: Named entity EntityCow['Cow'/9373, l='ServerLevel[world]', x=-630.73, y=68.00, z=-159.06] died: Cow was slain by PILLERN
+[13:00:09] [Server thread/INFO]: xEngellx lost connection: Disconnected
+[13:00:09] [Server thread/INFO]: xEngellx left the game
+[13:07:12] [Server thread/INFO]: PILLERN lost connection: Disconnected
+[13:07:12] [Server thread/INFO]: PILLERN left the game
+[13:19:55] [User Authenticator #4/INFO]: UUID of player xEngellx is 18b3ec38-6391-4c7e-9b05-95f5c9004c32
+[13:19:55] [Server thread/INFO]: xEngellx joined the game
+[13:19:55] [Server thread/INFO]: xEngellx[/127.0.0.1:53831] logged in with entity id 18637 at ([world]-599.8678432705985, 64.0, -198.36739887670524)
+[13:23:33] [Server thread/INFO]: Named entity EntityCow['Cow'/18646, l='ServerLevel[world]', x=-628.84, y=68.00, z=-162.82] died: Cow was slain by xEngellx
+[13:23:36] [Server thread/INFO]: Named entity EntityCow['Cow'/18658, l='ServerLevel[world]', x=-629.96, y=68.00, z=-161.07] died: Cow was slain by xEngellx
+[13:24:08] [Server thread/INFO]: Named entity EntityCow['Cow'/18693, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.90] died: Cow was slain by xEngellx
+[13:24:11] [Server thread/INFO]: Named entity EntityCow['Cow'/18656, l='ServerLevel[world]', x=-630.19, y=68.00, z=-164.93] died: Cow was slain by xEngellx
+[13:24:11] [Server thread/INFO]: Named entity EntityCow['Cow'/18688, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.07] died: Cow was slain by xEngellx
+[13:24:20] [Server thread/INFO]: Named entity EntityCow['Cow'/18670, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.44] died: Cow was slain by xEngellx
+[13:24:21] [Server thread/INFO]: Named entity EntityCow['Cow'/18682, l='ServerLevel[world]', x=-630.24, y=68.00, z=-164.18] died: Cow was slain by xEngellx
+[13:24:25] [Server thread/INFO]: Named entity EntityCow['Cow'/18700, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.12] died: Cow was slain by xEngellx
+[13:24:32] [Server thread/INFO]: Named entity EntityCow['Cow'/18697, l='ServerLevel[world]', x=-629.91, y=68.00, z=-164.15] died: Cow was slain by xEngellx
+[13:24:34] [Server thread/INFO]: Named entity EntityCow['Cow'/18692, l='ServerLevel[world]', x=-630.44, y=68.00, z=-164.91] died: Cow was slain by xEngellx
+[13:24:35] [Server thread/INFO]: Named entity EntityCow['Cow'/18678, l='ServerLevel[world]', x=-630.06, y=68.00, z=-163.89] died: Cow was slain by xEngellx
+[13:24:37] [Server thread/INFO]: Named entity EntityCow['Cow'/18664, l='ServerLevel[world]', x=-630.09, y=68.00, z=-164.91] died: Cow was slain by xEngellx
+[13:24:38] [Server thread/INFO]: Named entity EntityCow['Cow'/18685, l='ServerLevel[world]', x=-629.93, y=68.00, z=-164.04] died: Cow was slain by xEngellx
+[13:24:38] [Server thread/INFO]: Named entity EntityCow['Cow'/18699, l='ServerLevel[world]', x=-630.93, y=68.00, z=-163.52] died: Cow was slain by xEngellx
+[13:24:49] [Server thread/INFO]: Named entity EntityCow['Cow'/18677, l='ServerLevel[world]', x=-630.00, y=68.00, z=-164.93] died: Cow was slain by xEngellx
+[13:24:50] [Server thread/INFO]: Named entity EntityCow['Cow'/18691, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.03] died: Cow was slain by xEngellx
+[13:24:53] [Server thread/INFO]: Named entity EntityCow['Cow'/18671, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.02] died: Cow was slain by xEngellx
+[13:24:54] [Server thread/INFO]: Named entity EntityCow['Cow'/18672, l='ServerLevel[world]', x=-630.62, y=68.00, z=-163.95] died: Cow was slain by xEngellx
+[13:25:01] [Server thread/INFO]: Named entity EntityCow['Cow'/18696, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.16] died: Cow was slain by xEngellx
+[13:25:01] [Server thread/INFO]: Named entity EntityCow['Cow'/18687, l='ServerLevel[world]', x=-630.26, y=68.00, z=-164.33] died: Cow was slain by xEngellx
+[13:25:02] [Server thread/INFO]: Named entity EntityCow['Cow'/18694, l='ServerLevel[world]', x=-630.85, y=68.00, z=-162.64] died: Cow was slain by xEngellx
+[13:25:02] [Server thread/INFO]: Named entity EntityCow['Cow'/18680, l='ServerLevel[world]', x=-629.89, y=68.00, z=-164.33] died: Cow was slain by xEngellx
+[13:25:09] [Server thread/INFO]: Named entity EntityCow['Cow'/18702, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.17] died: Cow was slain by xEngellx
+[13:25:09] [Server thread/INFO]: Named entity EntityCow['Cow'/18674, l='ServerLevel[world]', x=-630.78, y=68.00, z=-163.87] died: Cow was slain by xEngellx
+[13:25:16] [Server thread/INFO]: Named entity EntityCow['Cow'/18698, l='ServerLevel[world]', x=-630.59, y=68.00, z=-164.90] died: Cow was slain by xEngellx
+[13:25:18] [Server thread/INFO]: Named entity EntityCow['Cow'/18659, l='ServerLevel[world]', x=-630.83, y=68.00, z=-162.21] died: Cow was slain by xEngellx
+[13:25:28] [Server thread/INFO]: Named entity EntityCow['Cow'/18703, l='ServerLevel[world]', x=-629.79, y=68.00, z=-162.01] died: Cow was slain by xEngellx
+[13:25:31] [Server thread/INFO]: Named entity EntityCow['Cow'/18681, l='ServerLevel[world]', x=-629.41, y=68.00, z=-162.73] died: Cow was slain by xEngellx
+[13:25:35] [Server thread/INFO]: Named entity EntityCow['Cow'/18673, l='ServerLevel[world]', x=-628.23, y=68.00, z=-163.67] died: Cow was slain by xEngellx
+[13:25:41] [Server thread/INFO]: Named entity EntityCow['Cow'/18704, l='ServerLevel[world]', x=-630.73, y=68.00, z=-162.03] died: Cow was slain by xEngellx
+[13:25:42] [Server thread/INFO]: Named entity EntityCow['Cow'/18686, l='ServerLevel[world]', x=-630.22, y=68.00, z=-163.48] died: Cow was slain by xEngellx
+[13:25:43] [Server thread/INFO]: Named entity EntityCow['Cow'/18676, l='ServerLevel[world]', x=-630.75, y=68.00, z=-162.22] died: Cow was slain by xEngellx
+[13:39:44] [Server thread/INFO]: Named entity EntityPillager['Pillager'/21706, l='ServerLevel[world]', x=-616.70, y=69.00, z=-163.97] died: Pillager was slain by xEngellx
+[13:43:42] [Server thread/INFO]: xEngellx lost connection: Disconnected
+[13:43:42] [Server thread/INFO]: xEngellx left the game
+[13:44:49] [User Authenticator #5/INFO]: UUID of player PILLERN is 23a1de55-1627-4d51-b046-447cf62ee674
+[13:44:49] [Server thread/INFO]: PILLERN joined the game
+[13:44:49] [Server thread/INFO]: PILLERN[/26.48.63.4:50013] logged in with entity id 22526 at ([world]-629.5, 67.0, -99.5)
+[13:45:28] [User Authenticator #6/INFO]: UUID of player xEngellx is 18b3ec38-6391-4c7e-9b05-95f5c9004c32
+[13:45:28] [Server thread/INFO]: xEngellx joined the game
+[13:45:28] [Server thread/INFO]: xEngellx[/127.0.0.1:62369] logged in with entity id 22920 at ([world]-598.0878344032561, 63.0, -186.84902411615857)
+[13:45:31] [Server thread/INFO]: Named entity EntityPillager['Pillager'/22554, l='ServerLevel[world]', x=-627.46, y=70.00, z=-145.30] died: Pillager was slain by PILLERN
+[13:45:37] [Server thread/INFO]: PILLERN has made the advancement [Voluntary Exile]
+[13:45:40] [User Authenticator #7/INFO]: UUID of player mingus1 is cfcf6275-70dd-4d48-a4fc-6bfadc9a3e77
+[13:45:40] [Server thread/INFO]: mingus1 joined the game
+[13:45:40] [Server thread/INFO]: mingus1[/26.172.117.66:58628] logged in with entity id 22961 at ([world]-690.6951081333318, 67.0, -216.06487490418013)
+[13:45:53] [Server thread/INFO]: Named entity EntityCow['Cow'/22555, l='ServerLevel[world]', x=-626.75, y=69.00, z=-168.44] died: Cow was slain by xEngellx
+[13:46:22] [Server thread/WARN]: Horse (vehicle of PILLERN) moved wrongly! 0.27852144679761975
+[13:49:01] [Server thread/INFO]: Named entity EntityCow['Cow'/22608, l='ServerLevel[world]', x=-635.82, y=67.00, z=-161.35] died: Cow was slain by xEngellx
+[13:49:46] [Server thread/INFO]: Named entity EntityCow['Cow'/22580, l='ServerLevel[world]', x=-630.34, y=68.00, z=-164.37] died: Cow was slain by xEngellx
+[13:49:50] [Server thread/INFO]: Named entity EntityCow['Cow'/22592, l='ServerLevel[world]', x=-630.88, y=68.00, z=-162.49] died: Cow was slain by xEngellx
+[13:49:51] [Server thread/INFO]: Named entity EntityCow['Cow'/22601, l='ServerLevel[world]', x=-630.93, y=68.00, z=-164.12] died: Cow was slain by xEngellx
+[13:49:52] [Server thread/INFO]: Named entity EntityCow['Cow'/22587, l='ServerLevel[world]', x=-630.29, y=68.00, z=-164.25] died: Cow was slain by xEngellx
+[13:49:53] [Server thread/INFO]: Named entity EntityCow['Cow'/22606, l='ServerLevel[world]', x=-630.85, y=68.00, z=-163.30] died: Cow was slain by xEngellx
+[13:49:55] [Server thread/INFO]: Named entity EntityCow['Cow'/22588, l='ServerLevel[world]', x=-630.80, y=68.00, z=-163.63] died: Cow was slain by xEngellx
+[13:55:50] [Server thread/INFO]: Named entity EntityZombie['❤❤❤❤❤❤❤❤❤❤'/25054, l='ServerLevel[world]', x=-751.04, y=69.82, z=-227.70] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting mingus1
+[13:56:06] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/25009, l='ServerLevel[world]', x=-746.09, y=61.00, z=-190.30] died: Skeleton was slain by mingus1
+[13:59:51] [Server thread/INFO]: Named entity EntitySheep['Sheep'/22651, l='ServerLevel[world]', x=-742.49, y=78.00, z=-225.99] died: Sheep was slain by mingus1
+[14:05:05] [Server thread/WARN]: Horse (vehicle of PILLERN) moved wrongly! 0.498092841564187
+[14:05:05] [Server thread/WARN]: Horse (vehicle of PILLERN) moved wrongly! 0.2554687967711402
+[14:05:05] [Server thread/WARN]: Horse (vehicle of PILLERN) moved wrongly! 0.3429502019463655
+[14:05:05] [Server thread/WARN]: Horse (vehicle of PILLERN) moved wrongly! 0.42990457742479293
+[14:10:50] [Server thread/INFO]: Named entity EntityZombie['Zombie'/27709, l='ServerLevel[world]', x=-787.75, y=46.00, z=-230.94] died: Zombie was slain by mingus1
+[14:11:53] [Server thread/INFO]: mingus1 has made the advancement [Not Today, Thank You]
+[14:11:54] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/28064, l='ServerLevel[world]', x=-778.59, y=43.92, z=-228.36] died: Skeleton was slain by mingus1
+[14:12:54] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/22730, l='ServerLevel[world]', x=-788.63, y=24.00, z=-248.18] died: Enderman was slain by mingus1
+[14:13:56] [Server thread/INFO]: Named entity EntityZombie['Zombie'/28831, l='ServerLevel[world]', x=-790.59, y=23.00, z=-257.59] died: Zombie was slain by mingus1
+[14:16:31] [Server thread/INFO]: Named entity EntityZombie['Zombie'/29801, l='ServerLevel[world]', x=-727.86, y=-8.00, z=-275.72] died: Zombie was blown up by ❤❤❤❤❤❤❤❤❤❤
+[14:17:36] [Server thread/INFO]: mingus1 has made the advancement [Take Aim]
+[14:17:38] [Server thread/INFO]: Named entity EntityCreeper['❤❤❤❤❤❤❤❤❤❤'/30003, l='ServerLevel[world]', x=-731.35, y=-28.00, z=-289.70] died: ❤❤❤❤❤❤❤❤❤❤ was doomed to fall by mingus1
+[14:18:43] [Server thread/INFO]: Named entity EntityZombie['Zombie'/30744, l='ServerLevel[world]', x=-746.49, y=-36.00, z=-303.60] died: Zombie was slain by mingus1
+[14:18:44] [Server thread/INFO]: Named entity EntityZombie['Zombie'/30745, l='ServerLevel[world]', x=-747.57, y=-35.00, z=-301.86] died: Zombie was slain by mingus1
+[14:18:53] [Server thread/INFO]: Named entity EntitySpider['Spider'/30282, l='ServerLevel[world]', x=-745.57, y=-37.00, z=-304.94] died: Spider was slain by mingus1
+[14:19:01] [Server thread/INFO]: Named entity EntityZombie['Zombie'/30871, l='ServerLevel[world]', x=-746.74, y=-34.75, z=-303.57] died: Zombie was slain by mingus1
+[14:19:31] [Server thread/INFO]: Named entity EntityZombie['Zombie'/30952, l='ServerLevel[world]', x=-739.30, y=-46.59, z=-298.23] died: Zombie was slain by mingus1
+[14:20:15] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31248, l='ServerLevel[world]', x=-728.77, y=-44.00, z=-330.52] died: Zombie was slain by mingus1
+[14:20:16] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31247, l='ServerLevel[world]', x=-729.49, y=-44.00, z=-330.60] died: Zombie was slain by mingus1
+[14:20:21] [Server thread/INFO]: Named entity EntityZombie['Zombie'/30987, l='ServerLevel[world]', x=-727.17, y=-44.00, z=-324.20] died: Zombie was slain by mingus1
+[14:20:25] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31246, l='ServerLevel[world]', x=-729.24, y=-44.00, z=-322.66] died: Zombie was slain by mingus1
+[14:20:26] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31226, l='ServerLevel[world]', x=-728.95, y=-44.00, z=-321.90] died: Zombie was slain by mingus1
+[14:20:27] [Server thread/INFO]: Named entity EntityZombie['Zombie'/30309, l='ServerLevel[world]', x=-620.37, y=58.00, z=-218.33] died: Zombie was slain by PILLERN
+[14:20:27] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31228, l='ServerLevel[world]', x=-730.52, y=-44.00, z=-322.83] died: Zombie was slain by mingus1
+[14:20:32] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31227, l='ServerLevel[world]', x=-728.37, y=-44.00, z=-320.63] died: Zombie was slain by mingus1
+[14:20:33] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31229, l='ServerLevel[world]', x=-730.13, y=-44.00, z=-321.15] died: Zombie was slain by mingus1
+[14:20:44] [Server thread/INFO]: mingus1 has made the advancement [Diamonds!]
+[14:20:59] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) mingus1[0;37;22m has reached level [0;32;1m100[0;37;22m in [0;36;22mMining[0;37;22m![m
+[14:22:26] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31782, l='ServerLevel[world]', x=-719.37, y=-44.00, z=-325.40] died: Zombie was slain by mingus1
+[14:22:30] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31780, l='ServerLevel[world]', x=-720.73, y=-44.00, z=-326.55] died: Zombie was slain by mingus1
+[14:22:31] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31781, l='ServerLevel[world]', x=-719.72, y=-44.00, z=-325.55] died: Zombie was slain by mingus1
+[14:23:16] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/31940, l='ServerLevel[world]', x=-704.30, y=-44.00, z=-343.87] died: Skeleton was slain by mingus1
+[14:23:49] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/31941, l='ServerLevel[world]', x=-726.14, y=-43.00, z=-356.33] died: Creeper was slain by mingus1
+[14:23:59] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/31672, l='ServerLevel[world]', x=-729.70, y=-42.00, z=-356.46] died: Creeper was slain by mingus1
+[14:25:18] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31031, l='ServerLevel[world]', x=-751.17, y=-47.00, z=-327.85] died: Zombie was slain by mingus1
+[14:25:23] [Server thread/INFO]: Named entity EntityZombie['Zombie'/31034, l='ServerLevel[world]', x=-751.89, y=-50.00, z=-324.42] died: Zombie was slain by mingus1
+[14:27:53] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/33229, l='ServerLevel[world]', x=-754.84, y=-40.00, z=-307.48] died: Creeper was slain by mingus1
+[14:28:05] [Server thread/INFO]: Named entity EntityZombie['Zombie'/33375, l='ServerLevel[world]', x=-740.60, y=-45.00, z=-304.46] died: Zombie was slain by mingus1
+[14:30:20] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/33487, l='ServerLevel[world]', x=-763.71, y=-27.00, z=-300.93] died: Skeleton was slain by mingus1
+[14:30:43] [Server thread/INFO]: Named entity EntityZombie['Zombie'/34411, l='ServerLevel[world]', x=-617.92, y=68.00, z=-207.74] died: Zombie was slain by xEngellx
+[14:31:06] [Server thread/INFO]: Named entity EntityZombie['Zombie'/32815, l='ServerLevel[world]', x=-750.35, y=-9.00, z=-301.57] died: Zombie was slain by mingus1
+[14:31:11] [Server thread/INFO]: Named entity EntityZombie['Zombie'/34600, l='ServerLevel[world]', x=-740.56, y=-9.00, z=-300.46] died: Zombie was slain by mingus1
+[14:32:35] [Server thread/INFO]: Named entity EntitySpider['Spider'/34722, l='ServerLevel[world]', x=-758.15, y=1.00, z=-287.78] died: Spider was slain by mingus1
+[14:32:40] [Server thread/INFO]: Named entity EntityZombie['Zombie'/35137, l='ServerLevel[world]', x=-760.54, y=-5.00, z=-287.03] died: Zombie was slain by mingus1
+[14:33:02] [Server thread/INFO]: Named entity EntityZombie['Zombie'/34388, l='ServerLevel[world]', x=-758.44, y=-1.00, z=-292.26] died: Zombie was slain by mingus1
+[14:37:10] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/36411, l='ServerLevel[world]', x=-757.15, y=-3.00, z=-224.63] died: Skeleton was slain by mingus1
+[14:38:00] [Server thread/INFO]: Named entity EntityZombie['Zombie'/36504, l='ServerLevel[world]', x=-768.11, y=-17.00, z=-214.54] died: Zombie was slain by mingus1
+[14:38:07] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/36549, l='ServerLevel[world]', x=-753.27, y=-22.00, z=-212.59] died: Skeleton was slain by mingus1
+[14:38:11] [Server thread/INFO]: Named entity EntityZombie['Zombie'/36502, l='ServerLevel[world]', x=-759.65, y=-21.00, z=-211.78] died: Zombie was slain by mingus1
+[14:38:20] [Server thread/INFO]: Named entity EntityZombie['Zombie'/36503, l='ServerLevel[world]', x=-752.43, y=-22.00, z=-209.19] died: Zombie was slain by mingus1
+[14:38:40] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/25929, l='ServerLevel[world]', x=-743.07, y=-18.00, z=-229.11] died: Enderman was slain by mingus1
+[14:39:39] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/37297, l='ServerLevel[world]', x=-793.58, y=-27.00, z=-188.24] died: Skeleton was slain by mingus1
+[14:39:44] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/36697, l='ServerLevel[world]', x=-797.30, y=-28.00, z=-193.99] died: Skeleton was slain by mingus1
+[14:39:48] [Server thread/INFO]: Named entity EntityZombie['Zombie'/37301, l='ServerLevel[world]', x=-797.84, y=-29.00, z=-190.88] died: Zombie was slain by mingus1
+[14:40:10] [Server thread/INFO]: Named entity EntitySpider['Spider'/37283, l='ServerLevel[world]', x=-625.33, y=28.00, z=-44.80] died: Spider was slain by PILLERN
+[14:40:22] [Server thread/INFO]: Named entity EntityZombie['Zombie'/37304, l='ServerLevel[world]', x=-812.70, y=-35.00, z=-162.01] died: Zombie was slain by mingus1
+[14:40:32] [Server thread/INFO]: Named entity EntityZombie['Zombie'/37617, l='ServerLevel[world]', x=-640.21, y=26.00, z=-42.30] died: Zombie was slain by PILLERN
+[14:40:34] [Server thread/INFO]: Named entity EntityZombie['Zombie'/37099, l='ServerLevel[world]', x=-641.85, y=27.75, z=-43.50] died: Zombie was slain by PILLERN
+[14:40:35] [Server thread/INFO]: Named entity EntityZombie['Zombie'/37616, l='ServerLevel[world]', x=-639.71, y=27.17, z=-43.44] died: Zombie was slain by PILLERN
+[14:40:54] [Server thread/INFO]: Named entity EntityZombie['Zombie'/37715, l='ServerLevel[world]', x=-827.51, y=-28.00, z=-178.57] died: Zombie was slain by mingus1
+[14:41:50] [Server thread/INFO]: Named entity EntityZombie['Zombie'/37829, l='ServerLevel[world]', x=-811.72, y=-43.07, z=-172.98] died: Zombie was slain by mingus1
+[14:41:56] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/37389, l='ServerLevel[world]', x=-617.66, y=37.00, z=13.56] died: Creeper was slain by PILLERN
+[14:42:12] [Server thread/INFO]: Named entity EntityZombie['Zombie'/38559, l='ServerLevel[world]', x=-818.06, y=-48.00, z=-181.64] died: Zombie was slain by mingus1
+[14:42:20] [Server thread/INFO]: Named entity EntitySpider['Spider'/38552, l='ServerLevel[world]', x=-804.06, y=-43.00, z=-169.21] died: Spider was slain by mingus1
+[14:42:39] [Server thread/INFO]: Named entity EntityZombie['Zombie'/36757, l='ServerLevel[world]', x=-810.79, y=-45.00, z=-186.07] died: Zombie was slain by mingus1
+[14:43:26] [Server thread/INFO]: Named entity EntityZombie['Zombie'/38829, l='ServerLevel[world]', x=-640.27, y=32.00, z=-16.79] died: Zombie was slain by PILLERN
+[14:43:31] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/38206, l='ServerLevel[world]', x=-644.68, y=30.00, z=-35.16] died: Skeleton was slain by PILLERN
+[14:43:35] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/37286, l='ServerLevel[world]', x=-627.30, y=29.04, z=-35.77] died: Skeleton was slain by PILLERN
+[14:43:39] [Server thread/INFO]: Named entity EntitySpider['Spider'/38278, l='ServerLevel[world]', x=-616.73, y=28.00, z=-27.02] died: Spider was slain by PILLERN
+[14:44:04] [Server thread/INFO]: Named entity EntityZombie['Zombie'/38784, l='ServerLevel[world]', x=-654.34, y=29.00, z=-38.35] died: Zombie was slain by PILLERN
+[14:44:04] [Server thread/INFO]: Named entity EntityZombie['Zombie'/39246, l='ServerLevel[world]', x=-653.68, y=29.00, z=-38.40] died: Zombie was slain by PILLERN
+[14:44:06] [Server thread/INFO]: Named entity EntityZombie['Zombie'/39245, l='ServerLevel[world]', x=-651.37, y=29.00, z=-38.34] died: Zombie was slain by PILLERN
+[14:44:24] [Server thread/INFO]: Named entity EntitySpider['Spider'/38828, l='ServerLevel[world]', x=-652.95, y=30.09, z=-37.03] died: Spider was slain by PILLERN
+[14:44:36] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) mingus1[0;37;22m has reached a Power level of [0;32;1m200[0;37;22m![m
+[14:44:51] [Server thread/INFO]: Named entity EntitySpider['Spider'/39162, l='ServerLevel[world]', x=-637.47, y=30.00, z=-79.35] died: Spider was slain by PILLERN
+[14:45:05] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/39161, l='ServerLevel[world]', x=-618.84, y=28.00, z=-77.72] died: Skeleton was slain by PILLERN
+[14:45:09] [Server thread/INFO]: Named entity EntityZombie['Zombie'/39366, l='ServerLevel[world]', x=-614.68, y=27.00, z=-68.33] died: Zombie was slain by PILLERN
+[14:45:10] [Server thread/INFO]: mingus1 has made the advancement [Ice Bucket Challenge]
+[14:45:36] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/39418, l='ServerLevel[world]', x=-585.42, y=1.00, z=-52.28] died: Skeleton was slain by PILLERN
+[14:46:44] [Server thread/INFO]: Named entity EntityZombie['Zombie'/39920, l='ServerLevel[world]', x=-610.54, y=0.00, z=-15.54] died: Zombie was slain by PILLERN
+[14:48:36] [Server thread/INFO]: Named entity EntityZombie['Zombie'/40677, l='ServerLevel[world]', x=-624.99, y=-4.00, z=-63.83] died: Zombie was slain by PILLERN
+[14:48:41] [Server thread/INFO]: Named entity EntityZombie['Zombie'/40655, l='ServerLevel[world]', x=-625.02, y=-3.58, z=-63.30] died: Zombie was slain by PILLERN
+[14:48:42] [Server thread/INFO]: Named entity EntityZombie['Zombie'/40651, l='ServerLevel[world]', x=-625.56, y=-3.25, z=-63.30] died: Zombie was slain by PILLERN
+[14:48:43] [Server thread/INFO]: Named entity EntityZombie['Zombie'/40653, l='ServerLevel[world]', x=-624.60, y=-4.00, z=-63.22] died: Zombie was slain by PILLERN
+[14:48:46] [Server thread/INFO]: Named entity EntityZombie['Zombie'/40652, l='ServerLevel[world]', x=-619.35, y=-8.00, z=-62.39] died: Zombie was slain by PILLERN
+[14:48:51] [Server thread/INFO]: Named entity EntitySpider['Spider'/40660, l='ServerLevel[world]', x=-783.28, y=-43.00, z=-197.67] died: Spider was slain by mingus1
+[14:49:43] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) PILLERN[0;37;22m has reached a Power level of [0;32;1m600[0;37;22m![m
+[14:50:57] [Server thread/INFO]: Named entity EntityZombie['Zombie'/41346, l='ServerLevel[world]', x=-788.03, y=-25.00, z=-196.19] died: Zombie was slain by mingus1
+[14:51:38] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/41531, l='ServerLevel[world]', x=-667.49, y=-5.00, z=-187.47] died: Creeper was slain by mingus1
+[14:51:43] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/41532, l='ServerLevel[world]', x=-662.10, y=-4.00, z=-195.26] died: Skeleton was slain by mingus1
+[14:51:53] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/22616, l='ServerLevel[world]', x=-668.88, y=-4.00, z=-192.15] died: Enderman was slain by mingus1
+[14:52:11] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/41546, l='ServerLevel[world]', x=-647.30, y=-3.00, z=-198.30] died: Skeleton was slain by mingus1
+[14:52:28] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/41790, l='ServerLevel[world]', x=-668.15, y=-7.00, z=-212.61] died: Enderman was slain by mingus1
+[14:52:53] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/42140, l='ServerLevel[world]', x=-666.07, y=-5.00, z=-173.70] died: Skeleton was slain by mingus1
+[14:52:57] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/42141, l='ServerLevel[world]', x=-669.15, y=-8.00, z=-177.94] died: Skeleton was slain by mingus1
+[14:53:13] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/41565, l='ServerLevel[world]', x=-674.95, y=-5.00, z=-145.41] died: Skeleton was slain by mingus1
+[14:53:18] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/41567, l='ServerLevel[world]', x=-667.30, y=-8.00, z=-143.63] died: Skeleton was slain by mingus1
+[14:54:36] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/42471, l='ServerLevel[world]', x=-686.62, y=-28.00, z=-120.70] died: Enderman was slain by mingus1
+[14:55:12] [Server thread/INFO]: Named entity GlowSquid['Glow Squid'/42873, l='ServerLevel[world]', x=-493.40, y=-46.00, z=21.60] died: Glow Squid was slain by PILLERN
+[14:56:16] [Server thread/INFO]: Named entity EntityZombie['Zombie'/43333, l='ServerLevel[world]', x=-495.96, y=-15.00, z=34.32] died: Zombie was slain by PILLERN
+[14:56:20] [Server thread/INFO]: PILLERN issued server command: /mining
+[14:56:32] [Server thread/INFO]: Named entity EntityZombie['Zombie'/43309, l='ServerLevel[world]', x=-503.56, y=-12.00, z=45.92] died: Zombie was slain by PILLERN
+[14:56:41] [Server thread/INFO]: Named entity EntityZombie['Zombie'/43334, l='ServerLevel[world]', x=-503.09, y=-13.00, z=46.34] died: Zombie was slain by PILLERN
+[14:56:43] [Server thread/INFO]: mingus1 issued server command: /mining
+[14:56:47] [Server thread/INFO]: xEngellx issued server command: /mining
+[14:57:40] [Server thread/INFO]: Named entity EntityZombie['Zombie'/43768, l='ServerLevel[world]', x=-492.30, y=-12.00, z=49.02] died: Zombie was slain by PILLERN
+[14:58:08] [Async Chat Thread - #5/INFO]: <PILLERN> -505/-12/57
+[14:58:37] [Server thread/INFO]: Named entity EntityCaveSpider['Cave Spider'/44103, l='ServerLevel[world]', x=-485.62, y=-11.00, z=57.26] died: Cave Spider was slain by PILLERN
+[14:58:42] [Server thread/INFO]: Named entity EntityZombie['Zombie'/43748, l='ServerLevel[world]', x=-489.49, y=-12.00, z=58.30] died: Zombie was slain by PILLERN
+[14:58:54] [Server thread/INFO]: xEngellx lost connection: Disconnected
+[14:58:54] [Server thread/INFO]: xEngellx left the game
+[15:04:17] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/45597, l='ServerLevel[world]', x=-381.45, y=-23.00, z=111.30] died: Skeleton was slain by PILLERN
+[15:04:25] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/45594, l='ServerLevel[world]', x=-392.44, y=-28.00, z=124.70] died: Skeleton was slain by PILLERN
+[15:04:29] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/45596, l='ServerLevel[world]', x=-403.70, y=-33.00, z=128.30] died: Skeleton was slain by PILLERN
+[15:04:42] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/45595, l='ServerLevel[world]', x=-395.33, y=-34.00, z=145.70] died: Skeleton was slain by PILLERN
+[15:04:45] [Server thread/INFO]: mingus1 issued server command: /repair
+[15:05:27] [Server thread/INFO]: Named entity EntityZombie['Zombie'/46119, l='ServerLevel[world]', x=-694.58, y=68.00, z=-214.51] died: Zombie was slain by mingus1
+[15:05:37] [Server thread/INFO]: Named entity EntitySpider['Spider'/45901, l='ServerLevel[world]', x=-659.82, y=62.00, z=-225.13] died: Spider was slain by mingus1
+[15:05:42] [Server thread/INFO]: Named entity EntitySpider['Spider'/45920, l='ServerLevel[world]', x=-649.27, y=64.15, z=-217.29] died: Spider was slain by mingus1
+[15:05:47] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/45929, l='ServerLevel[world]', x=-634.55, y=66.00, z=-223.89] died: Skeleton was slain by mingus1
+[15:06:13] [Server thread/INFO]: Named entity EntityZombie['Zombie'/45332, l='ServerLevel[world]', x=-391.74, y=-26.00, z=130.48] died: Zombie was slain by PILLERN
+[15:08:25] [Server thread/INFO]: Named entity EntityZombie['Zombie'/47129, l='ServerLevel[world]', x=-390.35, y=-14.00, z=204.52] died: Zombie was slain by PILLERN
+[15:08:31] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/47126, l='ServerLevel[world]', x=-386.70, y=-14.00, z=212.70] died: Skeleton was slain by PILLERN
+[15:08:34] [Server thread/INFO]: Named entity EntitySpider['Spider'/46997, l='ServerLevel[world]', x=-387.88, y=-13.12, z=204.71] died: Spider was slain by PILLERN
+[15:08:38] [Server thread/INFO]: Named entity EntityZombie['Zombie'/46900, l='ServerLevel[world]', x=-384.70, y=-14.00, z=211.33] died: Zombie was slain by PILLERN
+[15:08:47] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/46987, l='ServerLevel[world]', x=-373.80, y=-18.00, z=220.54] died: Skeleton was slain by PILLERN
+[15:09:09] [Server thread/INFO]: Named entity EntityZombie['❤❤❤❤❤❤❤❤❤❤'/46961, l='ServerLevel[world]', x=-380.98, y=-15.00, z=212.28] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting PILLERN
+[15:09:17] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/47127, l='ServerLevel[world]', x=-382.30, y=-14.00, z=217.70] died: Skeleton was slain by PILLERN
+[15:12:20] [Server thread/INFO]: Named entity EntityZombie['Zombie'/48802, l='ServerLevel[world]', x=-341.56, y=-7.00, z=259.46] died: Zombie was slain by PILLERN
+[15:12:21] [Server thread/INFO]: Named entity EntityZombie['Zombie'/48804, l='ServerLevel[world]', x=-341.78, y=-7.00, z=258.72] died: Zombie was slain by PILLERN
+[15:12:23] [Server thread/INFO]: Named entity EntityZombie['Zombie'/48803, l='ServerLevel[world]', x=-342.27, y=-7.00, z=260.72] died: Zombie was slain by PILLERN
+[15:12:26] [Server thread/INFO]: Named entity EntityZombie['Zombie'/48805, l='ServerLevel[world]', x=-348.49, y=-7.00, z=264.78] died: Zombie was slain by PILLERN
+[15:13:57] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/49316, l='ServerLevel[world]', x=-356.30, y=1.00, z=237.70] died: Skeleton was slain by PILLERN
+[15:14:00] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/49315, l='ServerLevel[world]', x=-362.83, y=-1.00, z=231.91] died: Skeleton was slain by PILLERN
+[15:16:26] [Server thread/INFO]: Named entity EntityZombieVillager['Zombie Villager'/49947, l='ServerLevel[world]', x=-410.07, y=-29.00, z=249.32] died: Zombie Villager was slain by PILLERN
+[15:19:13] [Server thread/INFO]: Named entity EntityZombie['Zombie'/51407, l='ServerLevel[world]', x=-330.98, y=-21.00, z=222.51] died: Zombie was slain by PILLERN
+[15:19:14] [Server thread/INFO]: Named entity EntityZombie['Zombie'/51406, l='ServerLevel[world]', x=-331.58, y=-21.00, z=223.37] died: Zombie was slain by PILLERN
+[15:19:15] [Server thread/INFO]: Named entity EntityZombie['Zombie'/51405, l='ServerLevel[world]', x=-331.65, y=-21.00, z=221.63] died: Zombie was slain by PILLERN
+[15:19:18] [Server thread/INFO]: Named entity EntityZombie['Zombie'/51340, l='ServerLevel[world]', x=-330.48, y=-21.00, z=219.05] died: Zombie was slain by PILLERN
+[15:21:45] [Server thread/INFO]: Named entity EntityCaveSpider['Cave Spider'/52048, l='ServerLevel[world]', x=-326.96, y=-17.00, z=184.23] died: Cave Spider was slain by PILLERN
+[15:21:48] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/51790, l='ServerLevel[world]', x=-333.52, y=-17.00, z=178.30] died: Skeleton was slain by PILLERN
+[15:23:22] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) PILLERN[0;37;22m has reached level [0;32;1m400[0;37;22m in [0;36;22mMining[0;37;22m![m
+[15:23:50] [Server thread/INFO]: PILLERN issued server command: /mining
+[15:25:22] [Server thread/INFO]: Named entity EntityZombie['Zombie'/52208, l='ServerLevel[world]', x=-322.57, y=-17.00, z=116.22] died: Zombie was slain by PILLERN
+[15:31:02] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/53842, l='ServerLevel[world]', x=-358.46, y=-33.00, z=83.23] died: Creeper was slain by PILLERN
+[15:31:21] [Server thread/INFO]: Named entity EntityZombie['Zombie'/54620, l='ServerLevel[world]', x=-784.69, y=63.00, z=-212.22] died: Zombie was slain by mingus1
+[15:33:22] [Server thread/INFO]: Named entity EntityZombie['Zombie'/54621, l='ServerLevel[world]', x=-367.90, y=-42.00, z=87.88] died: Zombie was slain by PILLERN
+[15:33:48] [Server thread/INFO]: Named entity EntityZombieVillager['Zombie Villager'/55164, l='ServerLevel[world]', x=-360.77, y=-45.00, z=86.14] died: Zombie Villager was slain by PILLERN
+[15:34:02] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/55235, l='ServerLevel[world]', x=-344.30, y=-39.00, z=69.31] died: Skeleton was slain by PILLERN
+[15:34:08] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/55356, l='ServerLevel[world]', x=-331.30, y=-35.00, z=81.70] died: Skeleton was blown up by ❤❤❤❤❤❤❤❤❤❤
+[15:34:55] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/53843, l='ServerLevel[world]', x=-345.30, y=-30.00, z=75.91] died: Creeper was slain by PILLERN
+[15:35:02] [Server thread/INFO]: Named entity EntitySpider['Spider'/53840, l='ServerLevel[world]', x=-357.06, y=-32.00, z=82.03] died: Spider was slain by PILLERN
+[15:39:30] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/55551, l='ServerLevel[world]', x=-356.70, y=-45.00, z=111.83] died: Skeleton was slain by PILLERN
+[15:39:34] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/55781, l='ServerLevel[world]', x=-366.70, y=-41.00, z=116.36] died: Skeleton was slain by PILLERN
+[15:39:47] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/56525, l='ServerLevel[world]', x=-344.70, y=-50.00, z=90.70] died: Skeleton was slain by PILLERN
+[15:40:39] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/56951, l='ServerLevel[world]', x=-339.33, y=-38.00, z=76.70] died: Skeleton was slain by PILLERN
+[15:45:11] [Server thread/INFO]: Named entity EntityZombie['Zombie'/59282, l='ServerLevel[world]', x=-292.70, y=-22.00, z=205.84] died: Zombie was slain by PILLERN
+[15:45:16] [Server thread/INFO]: Named entity EntityZombie['Zombie'/59118, l='ServerLevel[world]', x=-292.66, y=-22.00, z=202.02] died: Zombie was slain by PILLERN
+[15:47:24] [Server thread/INFO]: Named entity EntityZombie['Zombie'/59446, l='ServerLevel[world]', x=-296.67, y=-22.00, z=185.35] died: Zombie was slain by PILLERN
+[15:47:27] [Server thread/INFO]: Named entity EntityZombie['Zombie'/59444, l='ServerLevel[world]', x=-299.58, y=-22.00, z=186.79] died: Zombie was slain by PILLERN
+[15:47:46] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/59762, l='ServerLevel[world]', x=-300.30, y=-22.00, z=181.36] died: Skeleton was slain by PILLERN
+[15:48:27] [Server thread/INFO]: Named entity EntityCaveSpider['Cave Spider'/59210, l='ServerLevel[world]', x=-297.21, y=-15.00, z=190.46] died: Cave Spider was slain by PILLERN
+[15:48:34] [Server thread/INFO]: Named entity EntityCaveSpider['Cave Spider'/60381, l='ServerLevel[world]', x=-291.65, y=-12.17, z=197.36] died: Cave Spider was slain by PILLERN
+[15:48:53] [Server thread/INFO]: Named entity EntityCaveSpider['Cave Spider'/59499, l='ServerLevel[world]', x=-295.58, y=-13.00, z=204.46] died: Cave Spider was slain by PILLERN
+[15:48:57] [Server thread/INFO]: Named entity EntityCaveSpider['Cave Spider'/59785, l='ServerLevel[world]', x=-295.65, y=-11.71, z=203.94] died: Cave Spider was slain by PILLERN
+[15:48:59] [Server thread/INFO]: Named entity EntityCaveSpider['Cave Spider'/59064, l='ServerLevel[world]', x=-295.71, y=-10.50, z=202.65] died: Cave Spider was slain by PILLERN
+[15:49:00] [Server thread/INFO]: Named entity EntityCaveSpider['Cave Spider'/59271, l='ServerLevel[world]', x=-295.53, y=-13.00, z=203.33] died: Cave Spider was slain by PILLERN
+[15:49:41] [Server thread/INFO]: Named entity EntityZombie['Zombie'/60199, l='ServerLevel[world]', x=-272.15, y=-15.00, z=192.47] died: Zombie was slain by PILLERN
+[15:49:51] [Server thread/INFO]: Named entity EntityZombie['Zombie'/60200, l='ServerLevel[world]', x=-271.70, y=-16.00, z=197.70] died: Zombie was slain by PILLERN
+[15:50:00] [Server thread/INFO]: Named entity EntityZombie['Zombie'/60198, l='ServerLevel[world]', x=-270.30, y=-16.00, z=196.70] died: Zombie was slain by PILLERN
+[15:53:15] [Server thread/INFO]: Named entity EntitySpider['Spider'/61646, l='ServerLevel[world]', x=-226.86, y=-37.00, z=205.04] died: Spider was slain by PILLERN
+[15:53:59] [Server thread/INFO]: Named entity EntityZombie['Zombie'/61640, l='ServerLevel[world]', x=-197.55, y=-48.00, z=208.37] died: Zombie was slain by PILLERN
+[15:54:03] [Server thread/INFO]: Named entity EntityZombie['Zombie'/61731, l='ServerLevel[world]', x=-200.35, y=-46.00, z=220.76] died: Zombie was slain by PILLERN
+[15:54:28] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) PILLERN[0;37;22m has reached a Power level of [0;32;1m700[0;37;22m![m
+[15:55:27] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/62477, l='ServerLevel[world]', x=-246.90, y=-32.00, z=207.60] died: Skeleton was slain by PILLERN
+[16:03:01] [Server thread/INFO]: Named entity EntityZombie['Zombie'/64939, l='ServerLevel[world]', x=-786.94, y=63.00, z=-218.61] died: Zombie was slain by mingus1
+[16:07:05] [Server thread/INFO]: Named entity EntityZombieVillager['Zombie Villager'/68531, l='ServerLevel[world]', x=-783.39, y=64.00, z=-222.29] died: Zombie Villager was slain by mingus1
+[16:07:13] [Server thread/INFO]: Named entity EntityCow['Cow'/68070, l='ServerLevel[world]', x=-704.02, y=69.00, z=185.65] died: Cow was slain by Wolf
+[16:07:23] [Server thread/INFO]: Named entity EntityCow['Cow'/68071, l='ServerLevel[world]', x=-712.55, y=68.77, z=190.55] died: Cow was slain by Wolf
+[16:07:37] [Server thread/INFO]: Named entity EntityCow['Cow'/68119, l='ServerLevel[world]', x=-699.96, y=66.00, z=164.83] died: Cow was slain by Wolf
+[16:07:55] [Server thread/INFO]: Named entity EntityCow['Cow'/68069, l='ServerLevel[world]', x=-681.68, y=72.00, z=166.82] died: Cow was slain by Wolf
+[16:54:29] [User Authenticator #8/INFO]: UUID of player suberboy45ds is af7e438f-3181-4eb9-b14e-cc70d71196e9
+[16:54:29] [Server thread/INFO]: suberboy45ds joined the game
+[16:54:29] [Server thread/INFO]: suberboy45ds[/26.136.24.93:63572] logged in with entity id 77196 at ([world]2.5, 78.0, -4.5)
+[17:00:01] [Server thread/INFO]: PILLERN has made the advancement [What a Deal!]
+[17:01:46] [Server thread/INFO]: Named entity EntityPig['Pig'/79236, l='ServerLevel[world]', x=-330.50, y=63.00, z=112.11] died: Pig was slain by suberboy45ds
+[17:01:51] [Server thread/INFO]: Named entity EntityPig['Pig'/79237, l='ServerLevel[world]', x=-340.50, y=63.23, z=112.18] died: Pig was slain by suberboy45ds
+[17:01:55] [Server thread/INFO]: Named entity EntityPig['Pig'/79235, l='ServerLevel[world]', x=-339.30, y=63.00, z=97.50] died: Pig was slain by suberboy45ds
+[17:05:08] [Server thread/INFO]: suberboy45ds has made the advancement [Diamonds!]
+[17:08:26] [Server thread/INFO]: mingus1 has made the advancement [What a Deal!]
+[17:11:29] [Server thread/INFO]: Named entity EntityPig['Pig'/54278, l='ServerLevel[world]', x=-780.77, y=71.00, z=-88.17] died: Pig was slain by suberboy45ds
+[17:14:34] [Server thread/INFO]: PILLERN issued server command: /acrobatics
+[17:15:59] [Server thread/INFO]: Named entity EntityCow['Cow'/57465, l='ServerLevel[world]', x=-645.45, y=69.00, z=-136.03] died: Cow was slain by PILLERN
+[17:16:35] [Server thread/INFO]: Named entity EntityZombie['Zombie'/83838, l='ServerLevel[world]', x=-794.30, y=64.00, z=-202.70] died: Zombie was slain by mingus1
+[17:18:10] [Server thread/INFO]: Named entity EntityCow['Cow'/59337, l='ServerLevel[world]', x=-776.81, y=72.00, z=-83.52] died: Cow was slain by suberboy45ds
+[17:18:28] [Server thread/INFO]: suberboy45ds has made the advancement [Monster Hunter]
+[17:18:28] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/84379, l='ServerLevel[world]', x=-774.65, y=72.00, z=-70.30] died: Skeleton was slain by suberboy45ds
+[17:19:08] [Server thread/INFO]: Stopping the server
+[17:19:08] [Server thread/INFO]: Stopping server
+[17:19:08] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
+[17:19:08] [Server thread/INFO]: [KeepDeathDrop] Disabled!
+[17:19:08] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
+[17:19:08] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[17:19:08] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (3)
+[17:19:08] [Server thread/INFO]: [mcMMO] Finished save operation for 3 players!
+[17:19:08] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
+[17:19:08] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-4-935
+[17:19:09] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[17:19:09] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[17:19:09] [Server thread/INFO]: [dynmap] Saved 47 pending tile renders in world 'world'
+[17:19:09] [Server thread/INFO]: [dynmap] Disabled
+[17:19:09] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[17:19:09] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:19:09] [Server thread/INFO]: Saving players
+[17:19:09] [Server thread/INFO]: PILLERN lost connection: Server closed
+[17:19:09] [Server thread/INFO]: PILLERN left the game.
+[17:19:09] [Server thread/INFO]: mingus1 lost connection: Server closed
+[17:19:09] [Server thread/INFO]: mingus1 left the game.
+[17:19:09] [Server thread/INFO]: suberboy45ds lost connection: Server closed
+[17:19:09] [Server thread/INFO]: suberboy45ds left the game.
+[17:19:09] [Server thread/INFO]: Saving worlds
+[17:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:19:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:19:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
