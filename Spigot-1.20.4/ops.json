@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "5d27c98d-5e2c-4618-9979-ecda026713cd",
+    "name": "Cerbeuz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

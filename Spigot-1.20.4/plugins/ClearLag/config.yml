@@ -375,11 +375,11 @@ auto-removal:
   remove-entities:
     - Arrow onGround
     - Snowball
-    - Egg
+  #  - Egg
     - Fireball
-    - Boat !isMounted
-    - Minecart !isMounted
-    - MINECART_TNT
+  #  - Boat !isMounted
+  #  - Minecart !isMounted
+  #  - MINECART_TNT
   # - cow <- This mob-type will be REMOVED during removal!
   # - MINECART_MOB_SPAWNER
   # - Pig liveTime=100 <- This mob will be REMOVED if it's been alive for 100 ticks (5 seconds)
