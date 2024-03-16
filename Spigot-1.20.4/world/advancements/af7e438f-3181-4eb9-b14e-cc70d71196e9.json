@@ -7,16 +7,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_ocean": "2024-03-15 17:02:38 +0100",
-      "minecraft:frozen_river": "2024-03-15 16:55:16 +0100",
+      "minecraft:flower_forest": "2024-03-16 01:16:10 +0100",
+      "minecraft:beach": "2024-03-16 01:23:49 +0100",
+      "minecraft:old_growth_pine_taiga": "2024-03-16 01:24:53 +0100",
+      "minecraft:dark_forest": "2024-03-16 01:24:01 +0100",
       "minecraft:forest": "2024-03-15 17:09:58 +0100",
       "minecraft:taiga": "2024-03-15 16:54:30 +0100",
-      "minecraft:windswept_forest": "2024-03-15 17:48:29 +0100",
       "minecraft:river": "2024-03-15 17:51:06 +0100",
       "minecraft:snowy_plains": "2024-03-15 17:02:54 +0100",
-      "minecraft:windswept_gravelly_hills": "2024-03-15 17:03:02 +0100",
       "minecraft:snowy_taiga": "2024-03-15 16:59:22 +0100",
       "minecraft:dripstone_caves": "2024-03-15 18:24:17 +0100",
+      "minecraft:frozen_ocean": "2024-03-15 17:02:38 +0100",
+      "minecraft:frozen_river": "2024-03-15 16:55:16 +0100",
+      "minecraft:windswept_forest": "2024-03-15 17:48:29 +0100",
+      "minecraft:meadow": "2024-03-16 00:52:35 +0100",
+      "minecraft:birch_forest": "2024-03-16 01:23:40 +0100",
+      "minecraft:windswept_gravelly_hills": "2024-03-15 17:03:02 +0100",
+      "minecraft:old_growth_spruce_taiga": "2024-03-16 01:24:10 +0100",
       "minecraft:snowy_beach": "2024-03-15 16:59:48 +0100",
       "minecraft:plains": "2024-03-15 17:03:07 +0100"
     },
@@ -2836,9 +2843,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_ink_sac": "2024-03-16 00:07:32 +0100"
+      "has_redstone_torch": "2024-03-16 00:04:37 +0100"
     },
     "done": true
   },
@@ -2848,9 +2855,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_redstone_torch": "2024-03-16 00:04:37 +0100"
+      "has_ink_sac": "2024-03-16 00:07:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-03-16 01:12:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-03-16 01:05:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-03-16 01:05:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-03-16 01:05:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-03-16 02:52:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-03-16 02:46:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-03-16 01:37:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-03-16 01:20:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-03-16 01:37:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-03-16 02:46:32 +0100"
     },
     "done": true
   },
