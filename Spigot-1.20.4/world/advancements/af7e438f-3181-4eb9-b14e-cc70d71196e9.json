@@ -335,6 +335,7 @@
       "sweet_berries": "2024-03-15 17:33:26 +0100",
       "cooked_beef": "2024-03-15 20:20:38 +0100",
       "baked_potato": "2024-03-15 21:01:33 +0100",
+      "melon_slice": "2024-03-17 21:13:53 +0100",
       "porkchop": "2024-03-15 17:02:15 +0100",
       "golden_carrot": "2024-03-16 23:37:07 +0100",
       "carrot": "2024-03-15 17:08:15 +0100"
@@ -3120,9 +3121,9 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "deflected_projectile": "2024-03-17 00:10:14 +0100"
+      "has_diamond_block": "2024-03-16 23:12:27 +0100"
     },
     "done": true
   },
@@ -3132,27 +3133,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "has_diamond_block": "2024-03-16 23:12:27 +0100"
+      "summoned": "2024-03-16 23:49:25 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_ancient_debris": "2024-03-17 00:29:35 +0100"
+      "has_log": "2024-03-16 23:51:22 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "has_clay_block": "2024-03-17 00:34:43 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
+      "has_stripped_logs": "2024-03-16 23:51:22 +0100"
     },
     "done": true
   },
@@ -3162,9 +3157,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/whos_the_pillager_now": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "kill_pillager": "2024-03-17 00:01:40 +0100"
+      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
     },
     "done": true
   },
@@ -3180,36 +3175,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-03-17 00:29:35 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2024-03-16 23:51:22 +0100"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-03-17 00:29:35 +0100"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2024-03-16 23:49:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-03-16 23:51:22 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
@@ -3222,15 +3187,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2024-03-17 00:01:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-03-17 00:01:40 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
+      "deflected_projectile": "2024-03-17 00:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-03-17 00:29:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-03-17 00:29:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-03-17 00:29:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-03-17 00:34:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-03-17 21:07:03 +0100"
     },
     "done": true
   },
