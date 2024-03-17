@@ -21,6 +21,7 @@
       "minecraft:frozen_ocean": "2024-03-15 17:02:38 +0100",
       "minecraft:frozen_river": "2024-03-15 16:55:16 +0100",
       "minecraft:windswept_forest": "2024-03-15 17:48:29 +0100",
+      "minecraft:swamp": "2024-03-16 23:52:20 +0100",
       "minecraft:meadow": "2024-03-16 00:52:35 +0100",
       "minecraft:birch_forest": "2024-03-16 01:23:40 +0100",
       "minecraft:windswept_gravelly_hills": "2024-03-15 17:03:02 +0100",
@@ -329,11 +330,13 @@
       "cooked_porkchop": "2024-03-15 19:37:15 +0100",
       "mutton": "2024-03-15 17:33:04 +0100",
       "bread": "2024-03-15 20:48:25 +0100",
+      "golden_apple": "2024-03-17 00:00:21 +0100",
       "cooked_mutton": "2024-03-15 18:39:50 +0100",
       "sweet_berries": "2024-03-15 17:33:26 +0100",
       "cooked_beef": "2024-03-15 20:20:38 +0100",
       "baked_potato": "2024-03-15 21:01:33 +0100",
       "porkchop": "2024-03-15 17:02:15 +0100",
+      "golden_carrot": "2024-03-16 23:37:07 +0100",
       "carrot": "2024-03-15 17:08:15 +0100"
     },
     "done": false
@@ -665,9 +668,11 @@
       "minecraft:enderman": "2024-03-15 19:40:08 +0100",
       "minecraft:magma_cube": "2024-03-15 20:46:09 +0100",
       "minecraft:spider": "2024-03-15 18:40:01 +0100",
+      "minecraft:vex": "2024-03-17 00:03:09 +0100",
       "minecraft:zombie": "2024-03-15 18:50:16 +0100",
       "minecraft:creeper": "2024-03-15 18:49:09 +0100",
-      "minecraft:drowned": "2024-03-16 00:07:27 +0100"
+      "minecraft:drowned": "2024-03-16 00:07:27 +0100",
+      "minecraft:zombie_villager": "2024-03-17 02:01:07 +0100"
     },
     "done": false
   },
@@ -3097,12 +3102,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-03-16 21:34:18 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-03-16 21:06:07 +0100"
@@ -3112,6 +3111,126 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-03-16 21:06:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-03-16 21:34:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-03-17 00:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-03-16 23:40:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-03-16 23:12:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-03-17 00:29:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-03-17 00:34:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-03-16 23:52:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2024-03-17 00:01:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-03-17 00:29:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-03-16 23:51:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-03-17 00:29:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-03-16 23:49:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-03-16 23:51:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-03-17 00:01:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-16 23:58:49 +0100"
     },
     "done": true
   },
