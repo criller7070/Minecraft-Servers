@@ -1,914 +1,191 @@
-[00:00:15] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/39033, l='ServerLevel[world]', x=-476.28, y=71.00, z=-433.82] died: Enderman was slain by suberboy45ds
-[00:00:27] [Server thread/INFO]: Named entity EntityEvoker['Evoker'/39806, l='ServerLevel[world]', x=-502.30, y=69.00, z=-421.30] died: Evoker was shot by mingus1
-[00:00:29] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/39804, l='ServerLevel[world]', x=-493.39, y=72.00, z=-422.39] died: Vindicator was slain by PILLERN using [KILLER NIGGER]
-[00:00:32] [Server thread/INFO]: Named entity EntityVex['Vex'/39856, l='ServerLevel[world]', x=-504.67, y=75.83, z=-431.50] died: Vex was shot by mingus1
-[00:00:33] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/39802, l='ServerLevel[world]', x=-484.12, y=71.00, z=-432.88] died: Vindicator was slain by suberboy45ds
-[00:00:35] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/39801, l='ServerLevel[world]', x=-489.49, y=69.00, z=-438.54] died: Vindicator was slain by PILLERN using [KILLER NIGGER]
-[00:00:35] [Server thread/INFO]: Named entity EntityPillager['Pillager'/39812, l='ServerLevel[world]', x=-498.05, y=73.66, z=-428.06] died: Pillager was shot by mingus1
-[00:00:39] [Server thread/INFO]: Named entity EntityPillager['❤❤❤❤❤❤❤❤❤❤'/39810, l='ServerLevel[world]', x=-481.29, y=69.00, z=-442.07] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting PILLERN
-[00:00:40] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/39800, l='ServerLevel[world]', x=-477.53, y=69.00, z=-440.30] died: Vindicator was slain by PILLERN using [KILLER NIGGER]
-[00:00:45] [Server thread/INFO]: Named entity EntityRavager['Ravager'/39811, l='ServerLevel[world]', x=-502.53, y=75.00, z=-429.45] died: Ravager was slain by mingus1
-[00:00:46] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/39803, l='ServerLevel[world]', x=-479.32, y=69.00, z=-443.29] died: Vindicator was slain by PILLERN using [KILLER NIGGER]
-[00:00:51] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/39805, l='ServerLevel[world]', x=-478.12, y=69.94, z=-442.79] died: Vindicator was slain by PILLERN using [KILLER NIGGER]
-[00:00:54] [Server thread/INFO]: Named entity EntityPillager['Pillager'/39809, l='ServerLevel[world]', x=-501.34, y=68.00, z=-451.21] died: Pillager was shot by mingus1
-[00:00:56] [Server thread/INFO]: Named entity EntityPillager['Pillager'/39807, l='ServerLevel[world]', x=-498.09, y=68.00, z=-441.54] died: Pillager was slain by PILLERN using [KILLER NIGGER]
-[00:00:58] [Server thread/INFO]: Named entity EntityVex['Vex'/39857, l='ServerLevel[world]', x=-501.72, y=78.22, z=-424.62] died: Vex was slain by mingus1
-[00:01:04] [Server thread/INFO]: Named entity EntityVex['Vex'/39855, l='ServerLevel[world]', x=-504.83, y=76.22, z=-430.33] died: Vex was killed while trying to hurt mingus1
-[00:01:28] [Server thread/INFO]: Named entity EntityEvoker['❤❤❤❤❤❤❤❤❤❤'/40110, l='ServerLevel[world]', x=-448.28, y=63.00, z=-436.67] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting PILLERN
-[00:01:35] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/40109, l='ServerLevel[world]', x=-460.21, y=68.00, z=-435.62] died: Vindicator was slain by PILLERN using [KILLER NIGGER]
-[00:01:38] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/40108, l='ServerLevel[world]', x=-473.44, y=71.00, z=-430.57] died: Vindicator was shot by mingus1
-[00:01:40] [Server thread/INFO]: suberboy45ds has made the advancement [Ol' Betsy]
-[00:01:40] [Server thread/INFO]: Named entity EntityPillager['Pillager'/40114, l='ServerLevel[world]', x=-469.70, y=68.94, z=-449.24] died: Pillager was shot by suberboy45ds
-[00:01:40] [Server thread/INFO]: suberboy45ds has made the advancement [Who's the Pillager Now?]
-[00:01:41] [Server thread/INFO]: Named entity EntityPillager['Pillager'/40113, l='ServerLevel[world]', x=-465.55, y=69.00, z=-448.65] died: Pillager was slain by PILLERN using [KILLER NIGGER]
-[00:01:43] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/40107, l='ServerLevel[world]', x=-484.74, y=69.00, z=-442.21] died: Vindicator was slain by mingus1
-[00:01:44] [Server thread/INFO]: Named entity EntityPillager['Pillager'/40112, l='ServerLevel[world]', x=-464.25, y=68.00, z=-454.08] died: Pillager was slain by PILLERN using [KILLER NIGGER]
-[00:01:45] [Server thread/INFO]: Named entity EntityPillager['Pillager'/40115, l='ServerLevel[world]', x=-482.30, y=68.00, z=-447.70] died: Pillager was slain by mingus1
-[00:01:57] [Server thread/INFO]: Named entity EntityVex['Vex'/40146, l='ServerLevel[world]', x=-454.65, y=64.35, z=-425.26] died: Vex was slain by PILLERN using [KILLER NIGGER]
-[00:02:02] [Server thread/INFO]: Named entity EntityPillager['Pillager'/40111, l='ServerLevel[world]', x=-484.57, y=69.00, z=-444.06] died: Pillager was slain by mingus1
-[00:02:06] [Server thread/INFO]: Named entity EntityVex['Vex'/40147, l='ServerLevel[world]', x=-457.78, y=66.43, z=-425.84] died: Vex was slain by PILLERN using [KILLER NIGGER]
-[00:02:14] [Server thread/INFO]: Named entity EntityVex['Vex'/40145, l='ServerLevel[world]', x=-467.45, y=73.05, z=-423.85] died: Vex was killed while trying to hurt mingus1
-[00:02:25] [Server thread/INFO]: Named entity EntityVex['Vex'/40489, l='ServerLevel[world]', x=-511.50, y=71.00, z=-419.50] died: Vex was shot by mingus1
-[00:02:29] [Server thread/INFO]: Named entity EntityEvoker['Evoker'/40445, l='ServerLevel[world]', x=-527.70, y=67.00, z=-407.19] died: Evoker was slain by PILLERN using [KILLER NIGGER]
-[00:02:32] [Server thread/INFO]: Named entity EntityEvoker['Evoker'/40450, l='ServerLevel[world]', x=-498.94, y=74.08, z=-427.88] died: Evoker was shot by mingus1
-[00:02:33] [Server thread/INFO]: Named entity EntityPillager['Pillager'/40446, l='ServerLevel[world]', x=-496.43, y=72.00, z=-422.56] died: Pillager was slain by suberboy45ds
-[00:02:35] [Server thread/INFO]: Named entity EntityRavager['Ravager'/40449, l='ServerLevel[world]', x=-501.32, y=74.50, z=-430.98] died: Ravager was shot by mingus1
-[00:02:41] [Server thread/INFO]: Named entity EntityEvoker['Evoker'/40444, l='ServerLevel[world]', x=-495.29, y=69.00, z=-443.50] died: Evoker was slain by PILLERN using [KILLER NIGGER]
-[00:02:49] [Server thread/INFO]: Named entity EntityPillager['Pillager'/40447, l='ServerLevel[world]', x=-482.49, y=69.00, z=-443.75] died: Pillager was slain by PILLERN using [KILLER NIGGER]
-[00:03:00] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/40452, l='ServerLevel[world]', x=-479.01, y=70.66, z=-441.57] died: Vindicator was slain by PILLERN using [KILLER NIGGER]
-[00:03:02] [Server thread/INFO]: Named entity EntityVex['Vex'/40486, l='ServerLevel[world]', x=-503.59, y=75.86, z=-431.33] died: Vex was killed while trying to hurt mingus1
-[00:03:02] [Server thread/INFO]: Named entity EntityRavager['Ravager'/40451, l='ServerLevel[world]', x=-480.92, y=69.00, z=-443.02] died: Ravager was slain by PILLERN using [KILLER NIGGER]
-[00:03:09] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/40441, l='ServerLevel[world]', x=-478.94, y=69.00, z=-441.36] died: Vindicator was slain by PILLERN using [KILLER NIGGER]
-[00:03:09] [Server thread/INFO]: Named entity EntityVex['Vex'/40488, l='ServerLevel[world]', x=-487.11, y=71.11, z=-432.79] died: Vex was slain by suberboy45ds
-[00:03:09] [Server thread/INFO]: Named entity EntityVex['❤❤❤❤❤❤❤'/40491, l='ServerLevel[world]', x=-502.97, y=76.10, z=-430.73] died: ❤❤❤❤❤❤❤ starved to death while fighting mingus1
-[00:03:13] [Server thread/INFO]: Named entity EntityVindicator['❤❤❤❤❤❤❤❤❤❤'/40439, l='ServerLevel[world]', x=-479.54, y=69.00, z=-440.49] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting PILLERN
-[00:03:15] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/40443, l='ServerLevel[world]', x=-485.11, y=69.00, z=-446.44] died: Vindicator was slain by suberboy45ds
-[00:03:22] [Server thread/INFO]: Named entity EntityWitch['Witch'/40448, l='ServerLevel[world]', x=-511.70, y=67.00, z=-425.13] died: Witch was slain by PILLERN using [KILLER NIGGER]
-[00:03:28] [Server thread/INFO]: Named entity EntityVex['Vex'/40487, l='ServerLevel[world]', x=-511.65, y=69.55, z=-425.07] died: Vex was slain by suberboy45ds
-[00:04:02] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/40440, l='ServerLevel[world]', x=-531.73, y=62.05, z=-423.73] died: Vindicator was slain by mingus1
-[00:04:03] [Server thread/INFO]: Named entity EntityVindicator['Vindicator'/40442, l='ServerLevel[world]', x=-529.44, y=63.05, z=-423.70] died: Vindicator was slain by mingus1
-[00:04:29] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/40776, l='ServerLevel[world]', x=-534.86, y=63.00, z=-411.27] died: Skeleton was slain by PILLERN using [KILLER NIGGER]
-[00:10:14] [Server thread/INFO]: suberboy45ds has made the advancement [Not Today, Thank You]
-[00:10:16] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/43159, l='ServerLevel[world_nether]', x=-234.57, y=53.96, z=-80.30] died: Blaze was slain by suberboy45ds
-[00:10:30] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/45290, l='ServerLevel[world_nether]', x=-261.75, y=55.50, z=-89.53] died: Blaze was slain by suberboy45ds
-[00:10:32] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/45289, l='ServerLevel[world_nether]', x=-262.70, y=57.36, z=-86.30] died: Blaze was slain by suberboy45ds
-[00:10:54] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/45816, l='ServerLevel[world_nether]', x=-260.87, y=55.93, z=-89.66] died: Blaze was slain by suberboy45ds
-[00:10:58] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/45817, l='ServerLevel[world_nether]', x=-262.70, y=55.41, z=-91.03] died: Blaze was slain by suberboy45ds
-[00:11:01] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/45818, l='ServerLevel[world_nether]', x=-261.33, y=56.70, z=-92.70] died: Blaze was slain by suberboy45ds
-[00:11:16] [Server thread/WARN]: PILLERN moved wrongly!
-[00:11:22] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/46407, l='ServerLevel[world_nether]', x=-261.64, y=55.36, z=-88.37] died: Blaze was slain by suberboy45ds
-[00:11:43] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) TheWonderWeasel[0;37;22m has reached a Power level of [0;32;1m100[0;37;22m![m
-[00:11:56] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/47593, l='ServerLevel[world_nether]', x=-290.68, y=57.20, z=-83.68] died: Blaze was slain by suberboy45ds
-[00:12:01] [Server thread/INFO]: Named entity EntitySquid['Squid'/44166, l='ServerLevel[world]', x=-705.61, y=60.79, z=-131.38] died: Squid was slain by mingus1
-[00:12:06] [Server thread/INFO]: Named entity EntitySquid['Squid'/46258, l='ServerLevel[world]', x=-701.87, y=55.49, z=-138.43] died: Squid was slain by mingus1
-[00:12:19] [Server thread/INFO]: Named entity EntitySquid['Squid'/46259, l='ServerLevel[world]', x=-710.45, y=60.65, z=-134.69] died: Squid was slain by mingus1
-[00:12:23] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/47718, l='ServerLevel[world_nether]', x=-291.07, y=57.20, z=-79.03] died: Blaze was slain by suberboy45ds
-[00:12:25] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/47717, l='ServerLevel[world_nether]', x=-291.07, y=57.00, z=-83.69] died: Blaze was slain by suberboy45ds
-[00:12:32] [Server thread/INFO]: Named entity EntitySquid['Squid'/46256, l='ServerLevel[world]', x=-692.47, y=61.42, z=-165.00] died: Squid was slain by mingus1
-[00:12:38] [Server thread/INFO]: Named entity EntitySquid['Squid'/46257, l='ServerLevel[world]', x=-672.40, y=56.00, z=-166.86] died: Squid was slain by mingus1
-[00:12:43] [Server thread/INFO]: Named entity EntitySquid['Squid'/47697, l='ServerLevel[world]', x=-650.86, y=60.79, z=-161.47] died: Squid was slain by mingus1
-[00:12:46] [Server thread/INFO]: Named entity EntitySquid['Squid'/47696, l='ServerLevel[world]', x=-652.07, y=62.75, z=-150.19] died: Squid was slain by mingus1
-[00:12:47] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/47917, l='ServerLevel[world_nether]', x=-290.70, y=55.00, z=-83.70] died: Blaze was slain by suberboy45ds
-[00:12:50] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/47919, l='ServerLevel[world_nether]', x=-290.55, y=57.20, z=-78.93] died: Blaze was slain by suberboy45ds
-[00:12:52] [Server thread/INFO]: Named entity EntitySquid['Squid'/47698, l='ServerLevel[world]', x=-657.40, y=59.00, z=-162.84] died: Squid was slain by mingus1
-[00:12:53] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/47918, l='ServerLevel[world_nether]', x=-286.30, y=57.20, z=-82.70] died: Blaze was slain by suberboy45ds
-[00:12:55] [Server thread/INFO]: Named entity EntitySquid['Squid'/47699, l='ServerLevel[world]', x=-651.40, y=60.00, z=-154.40] died: Squid was slain by mingus1
-[00:13:03] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/48063, l='ServerLevel[world_nether]', x=-283.36, y=56.02, z=-81.68] died: Blaze was slain by suberboy45ds
-[00:13:05] [Server thread/INFO]: Named entity EntitySquid['Squid'/48037, l='ServerLevel[world]', x=-696.40, y=58.84, z=-148.09] died: Squid was slain by mingus1
-[00:13:07] [Server thread/INFO]: Named entity EntitySquid['Squid'/48038, l='ServerLevel[world]', x=-697.18, y=59.31, z=-141.67] died: Squid was slain by mingus1
-[00:13:08] [Server thread/INFO]: Named entity EntitySquid['Squid'/48039, l='ServerLevel[world]', x=-695.48, y=59.21, z=-137.02] died: Squid was slain by mingus1
-[00:13:10] [Server thread/INFO]: Named entity EntitySquid['Squid'/48040, l='ServerLevel[world]', x=-689.16, y=62.18, z=-140.62] died: Squid was slain by mingus1
-[00:13:18] [Server thread/INFO]: Named entity EntitySquid['Squid'/48170, l='ServerLevel[world]', x=-706.87, y=58.00, z=-110.58] died: Squid was slain by mingus1
-[00:13:20] [Server thread/INFO]: Named entity EntitySquid['Squid'/48169, l='ServerLevel[world]', x=-711.57, y=60.95, z=-113.44] died: Squid was slain by mingus1
-[00:13:31] [Server thread/INFO]: Named entity EntitySquid['Squid'/48240, l='ServerLevel[world]', x=-694.48, y=62.72, z=-133.17] died: Squid was slain by mingus1
-[00:13:36] [Server thread/INFO]: Named entity EntitySquid['Squid'/48239, l='ServerLevel[world]', x=-691.27, y=58.24, z=-136.88] died: Squid was slain by mingus1
-[00:13:37] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/48395, l='ServerLevel[world_nether]', x=-290.13, y=55.00, z=-82.74] died: Blaze was slain by suberboy45ds
-[00:13:38] [Server thread/INFO]: Named entity EntitySquid['Squid'/48238, l='ServerLevel[world]', x=-694.60, y=57.23, z=-145.43] died: Squid was slain by mingus1
-[00:13:39] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/48396, l='ServerLevel[world_nether]', x=-289.48, y=55.14, z=-79.30] died: Blaze was slain by suberboy45ds
-[00:13:44] [Server thread/INFO]: Named entity EntitySquid['Squid'/48241, l='ServerLevel[world]', x=-708.71, y=54.58, z=-129.60] died: Squid was slain by mingus1
-[00:13:51] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/47587, l='ServerLevel[world_nether]', x=-261.53, y=55.20, z=-91.68] died: Blaze was slain by suberboy45ds
-[00:14:01] [Server thread/INFO]: Named entity EntitySquid['Squid'/48444, l='ServerLevel[world]', x=-712.02, y=62.70, z=-158.73] died: Squid was slain by mingus1
-[00:14:04] [Server thread/INFO]: Named entity EntitySquid['Squid'/48442, l='ServerLevel[world]', x=-712.95, y=57.00, z=-170.35] died: Squid was slain by mingus1
-[00:14:08] [Server thread/INFO]: Named entity EntitySquid['Squid'/48443, l='ServerLevel[world]', x=-717.54, y=62.62, z=-175.64] died: Squid was slain by mingus1
-[00:14:13] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/48468, l='ServerLevel[world_nether]', x=-258.33, y=53.00, z=-81.50] died: Wither Skeleton was slain by suberboy45ds
-[00:14:14] [Server thread/INFO]: Named entity EntitySquid['Squid'/48445, l='ServerLevel[world]', x=-701.05, y=59.00, z=-164.60] died: Squid was slain by mingus1
-[00:14:30] [Server thread/INFO]: Named entity EntitySquid['Squid'/48592, l='ServerLevel[world]', x=-705.85, y=58.83, z=-124.24] died: Squid was slain by mingus1
-[00:14:34] [Server thread/INFO]: Named entity EntitySquid['Squid'/48593, l='ServerLevel[world]', x=-713.25, y=62.81, z=-108.96] died: Squid was slain by mingus1
-[00:14:37] [Server thread/INFO]: Named entity EntitySquid['Squid'/48594, l='ServerLevel[world]', x=-710.48, y=62.53, z=-121.89] died: Squid was slain by mingus1
-[00:14:40] [Server thread/INFO]: Named entity EntityDrowned['Drowned'/47491, l='ServerLevel[world]', x=-708.21, y=59.16, z=-131.71] died: Drowned was killed while trying to hurt mingus1
-[00:14:42] [Server thread/INFO]: Named entity EntitySquid['Squid'/48591, l='ServerLevel[world]', x=-709.88, y=58.43, z=-140.05] died: Squid was slain by mingus1
-[00:14:50] [Server thread/INFO]: Named entity EntitySquid['Squid'/45964, l='ServerLevel[world]', x=-695.71, y=60.00, z=-110.40] died: Squid was slain by mingus1
-[00:14:58] [Server thread/INFO]: Named entity EntitySquid['Squid'/47940, l='ServerLevel[world]', x=-678.26, y=59.77, z=-138.50] died: Squid was slain by mingus1
-[00:14:59] [Server thread/INFO]: Named entity EntitySquid['Squid'/48728, l='ServerLevel[world]', x=-675.08, y=60.00, z=-137.40] died: Squid was slain by mingus1
-[00:15:03] [Server thread/INFO]: Named entity EntitySquid['Squid'/48726, l='ServerLevel[world]', x=-679.61, y=61.45, z=-148.95] died: Squid was slain by mingus1
-[00:15:06] [Server thread/INFO]: Named entity EntitySquid['Squid'/48727, l='ServerLevel[world]', x=-676.40, y=58.55, z=-138.42] died: Squid was slain by mingus1
-[00:15:09] [Server thread/INFO]: Named entity EntitySquid['Squid'/47941, l='ServerLevel[world]', x=-666.11, y=60.91, z=-142.65] died: Squid was slain by mingus1
-[00:15:11] [Server thread/INFO]: Named entity EntitySquid['Squid'/48725, l='ServerLevel[world]', x=-674.42, y=57.41, z=-143.80] died: Squid was slain by mingus1
-[00:15:16] [Server thread/INFO]: Named entity EntitySquid['Squid'/48850, l='ServerLevel[world]', x=-681.42, y=58.10, z=-161.72] died: Squid was slain by mingus1
-[00:15:20] [Server thread/INFO]: Named entity EntitySquid['Squid'/48847, l='ServerLevel[world]', x=-686.47, y=60.01, z=-165.84] died: Squid was slain by mingus1
-[00:15:23] [Async Chat Thread - #10/INFO]: <PILLERN> WZ
-[00:15:24] [Server thread/INFO]: Named entity EntitySquid['Squid'/48846, l='ServerLevel[world]', x=-678.34, y=58.04, z=-164.73] died: Squid was slain by mingus1
-[00:15:27] [Server thread/INFO]: Named entity EntitySquid['Squid'/48848, l='ServerLevel[world]', x=-679.62, y=59.44, z=-176.82] died: Squid was slain by mingus1
-[00:15:33] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/48513, l='ServerLevel[world_nether]', x=-200.72, y=66.00, z=-53.50] died: Wither Skeleton was slain by suberboy45ds
-[00:15:35] [Server thread/INFO]: Named entity EntitySquid['Squid'/48935, l='ServerLevel[world]', x=-689.40, y=56.00, z=-142.20] died: Squid was slain by mingus1
-[00:15:36] [Server thread/INFO]: Named entity EntitySquid['Squid'/48936, l='ServerLevel[world]', x=-691.31, y=62.78, z=-138.18] died: Squid was slain by mingus1
-[00:15:40] [Server thread/INFO]: Named entity EntitySquid['Squid'/48937, l='ServerLevel[world]', x=-708.55, y=60.83, z=-133.54] died: Squid was slain by mingus1
-[00:15:42] [Server thread/INFO]: Named entity EntitySquid['Squid'/48934, l='ServerLevel[world]', x=-710.11, y=58.51, z=-128.58] died: Squid was slain by mingus1
-[00:15:44] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/48672, l='ServerLevel[world_nether]', x=-219.19, y=68.00, z=-44.30] died: Blaze was slain by suberboy45ds
-[00:16:33] [Server thread/INFO]: Named entity EntitySpider['Spider'/48700, l='ServerLevel[world]', x=-619.30, y=71.40, z=-140.24] died: Spider was slain by PILLERN using [KILLER NIGGER]
-[00:16:42] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/48598, l='ServerLevel[world]', x=-625.67, y=68.00, z=-161.36] died: Creeper was shot by PILLERN
-[00:16:48] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/48664, l='ServerLevel[world]', x=-629.11, y=68.00, z=-162.16] died: Creeper was shot by PILLERN
-[00:17:28] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/49711, l='ServerLevel[world_nether]', x=-111.18, y=44.88, z=-205.99] died: Skeleton was slain by suberboy45ds
-[00:17:37] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/49712, l='ServerLevel[world_nether]', x=-118.70, y=43.00, z=-226.01] died: Skeleton was slain by suberboy45ds
-[00:17:43] [Server thread/INFO]: Named entity EntityGhast['Ghast'/50016, l='ServerLevel[world_nether]', x=-92.29, y=70.49, z=-240.02] died: Ghast was fireballed by suberboy45ds
-[00:17:48] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/49759, l='ServerLevel[world_nether]', x=-114.57, y=40.88, z=-237.13] died: Skeleton was slain by suberboy45ds
-[00:17:59] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/49748, l='ServerLevel[world_nether]', x=-93.36, y=44.00, z=-230.58] died: Skeleton was slain by suberboy45ds
-[00:18:17] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/49747, l='ServerLevel[world_nether]', x=-88.38, y=45.00, z=-211.38] died: Enderman was slain by suberboy45ds
-[00:20:19] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/50427, l='ServerLevel[world_nether]', x=-31.21, y=68.00, z=-168.35] died: Piglin was slain by suberboy45ds
-[00:21:03] [Server thread/INFO]: Named entity EntityGhast['Ghast'/50544, l='ServerLevel[world_nether]', x=-15.97, y=64.48, z=-114.02] died: Ghast was fireballed by suberboy45ds
-[00:22:09] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/51997, l='ServerLevel[world_nether]', x=35.45, y=92.00, z=-212.48] died: Piglin was slain by suberboy45ds
-[00:25:20] [Server thread/INFO]: Named entity EntitySquid['Squid'/54801, l='ServerLevel[world]', x=-680.40, y=61.83, z=-166.75] died: Squid was slain by mingus1
-[00:25:21] [Server thread/INFO]: Named entity EntitySquid['Squid'/54800, l='ServerLevel[world]', x=-678.30, y=59.59, z=-172.40] died: Squid was slain by mingus1
-[00:25:23] [Server thread/INFO]: Named entity EntitySquid['Squid'/53151, l='ServerLevel[world]', x=-670.13, y=60.65, z=-177.44] died: Squid was slain by mingus1
-[00:25:25] [Server thread/INFO]: Named entity EntitySquid['Squid'/54798, l='ServerLevel[world]', x=-666.80, y=61.01, z=-185.67] died: Squid was slain by mingus1
-[00:25:29] [Server thread/INFO]: Named entity EntitySquid['Squid'/54799, l='ServerLevel[world]', x=-669.39, y=59.79, z=-171.60] died: Squid was slain by mingus1
-[00:25:41] [Server thread/INFO]: Named entity EntitySquid['Squid'/55859, l='ServerLevel[world]', x=-684.39, y=59.77, z=-129.56] died: Squid was slain by mingus1
-[00:25:43] [Server thread/INFO]: Named entity EntitySquid['Squid'/55858, l='ServerLevel[world]', x=-687.98, y=62.57, z=-122.13] died: Squid was slain by mingus1
-[00:25:46] [Server thread/INFO]: Named entity EntitySquid['Squid'/55856, l='ServerLevel[world]', x=-692.55, y=56.05, z=-131.17] died: Squid was slain by mingus1
-[00:25:48] [Server thread/INFO]: Villager EntityVillager['Villager'/1638, l='ServerLevel[world]', x=-740.16, y=65.04, z=-111.70] died, message: 'Villager was squished too much'
-[00:25:52] [Server thread/INFO]: Named entity EntitySquid['Squid'/55739, l='ServerLevel[world]', x=-720.47, y=58.84, z=-124.23] died: Squid was slain by mingus1
-[00:25:55] [Server thread/INFO]: Named entity EntitySquid['Squid'/55738, l='ServerLevel[world]', x=-717.40, y=62.71, z=-131.59] died: Squid was slain by mingus1
-[00:25:59] [Server thread/INFO]: Named entity EntitySquid['Squid'/55741, l='ServerLevel[world]', x=-717.56, y=54.88, z=-139.61] died: Squid was slain by mingus1
-[00:26:03] [Server thread/INFO]: Named entity EntitySquid['Squid'/55740, l='ServerLevel[world]', x=-724.02, y=62.35, z=-145.42] died: Squid was slain by mingus1
-[00:26:13] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/55912, l='ServerLevel[world_nether]', x=6.37, y=85.00, z=-104.90] died: Piglin was slain by suberboy45ds
-[00:26:14] [Server thread/INFO]: Named entity EntitySquid['Squid'/55857, l='ServerLevel[world]', x=-683.56, y=59.56, z=-121.44] died: Squid was slain by mingus1
-[00:26:23] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/55911, l='ServerLevel[world_nether]', x=11.88, y=84.00, z=-114.63] died: Piglin was slain by suberboy45ds
-[00:26:24] [Server thread/INFO]: Named entity EntitySquid['Squid'/56436, l='ServerLevel[world]', x=-680.00, y=61.70, z=-165.74] died: Squid was slain by mingus1
-[00:26:25] [Server thread/INFO]: Named entity EntitySquid['Squid'/56437, l='ServerLevel[world]', x=-676.94, y=62.67, z=-171.20] died: Squid was slain by mingus1
-[00:26:27] [Server thread/INFO]: Named entity EntitySquid['Squid'/56433, l='ServerLevel[world]', x=-670.40, y=58.00, z=-170.22] died: Squid was slain by mingus1
-[00:26:28] [Server thread/INFO]: Named entity EntitySquid['Squid'/56435, l='ServerLevel[world]', x=-668.31, y=59.68, z=-167.23] died: Squid was slain by mingus1
-[00:26:33] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/55913, l='ServerLevel[world_nether]', x=-4.07, y=86.00, z=-102.07] died: Piglin was slain by suberboy45ds
-[00:27:32] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/56100, l='ServerLevel[world_nether]', x=-17.28, y=80.48, z=-72.60] died: Magma Cube was slain by suberboy45ds
-[00:27:57] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) PILLERN[0;37;22m has reached a Power level of [0;32;1m1,300[0;37;22m![m
-[00:29:35] [Server thread/INFO]: suberboy45ds has made the advancement [Hidden in the Depths]
-[00:30:20] [Server thread/INFO]: suberboy45ds issued server command: /luck
-[00:36:48] [Server thread/WARN]: TheWonderWeasel moved too quickly! 3.1727820735503656,-0.3015347236627832,9.745228988888812
-[00:37:20] [Server thread/INFO]: Villager EntityVillager['Villager'/68743, l='ServerLevel[world]', x=38.63, y=64.00, z=-1004.72] died, message: 'Villager suffocated in a wall'
-[00:39:36] [Server thread/INFO]: Named entity EntityZombie['Zombie'/70454, l='ServerLevel[world]', x=-747.04, y=62.00, z=-178.63] died: Zombie was slain by mingus1
-[00:39:46] [Server thread/INFO]: Named entity EntityCreeper['❤❤❤❤❤❤❤❤❤❤'/70456, l='ServerLevel[world]', x=-743.40, y=65.00, z=-162.97] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting mingus1
-[00:40:23] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/70397, l='ServerLevel[world]', x=-732.50, y=71.00, z=-191.88] died: Creeper was shot by mingus1
-[00:41:59] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/71942, l='ServerLevel[world_nether]', x=-77.14, y=52.00, z=-32.76] died: Magma Cube was slain by mingus1
-[00:46:44] [Server thread/INFO]: Villager EntityVillager['Villager'/8718, l='ServerLevel[world]', x=-740.26, y=65.05, z=-111.30] died, message: 'Villager was squished too much'
-[00:46:55] [Server thread/INFO]: Villager EntityVillager['Villager'/49182, l='ServerLevel[world]', x=-740.15, y=65.03, z=-111.30] died, message: 'Villager was squished too much'
-[00:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
-[00:47:31] [Server thread/INFO]: Named entity EntityCow['Cow'/1284, l='ServerLevel[world]', x=-630.70, y=68.00, z=-162.15] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:31] [Server thread/INFO]: Named entity EntityCow['Cow'/1244, l='ServerLevel[world]', x=-629.20, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:31] [Server thread/INFO]: Named entity EntityCow['Cow'/1248, l='ServerLevel[world]', x=-630.23, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:31] [Server thread/INFO]: Named entity EntityCow['Cow'/1254, l='ServerLevel[world]', x=-630.18, y=68.00, z=-163.04] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:31] [Server thread/INFO]: Named entity EntityCow['Cow'/1269, l='ServerLevel[world]', x=-632.19, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:31] [Server thread/INFO]: Named entity EntityCow['Cow'/1277, l='ServerLevel[world]', x=-631.05, y=68.00, z=-162.81] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:31] [Server thread/INFO]: Named entity EntityCow['Cow'/31804, l='ServerLevel[world]', x=-632.15, y=68.00, z=-162.05] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:31] [Server thread/INFO]: Named entity EntityCow['Cow'/31819, l='ServerLevel[world]', x=-631.12, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/1293, l='ServerLevel[world]', x=-630.87, y=68.00, z=-161.53] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/1252, l='ServerLevel[world]', x=-631.20, y=68.00, z=-162.45] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/1263, l='ServerLevel[world]', x=-629.87, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/1275, l='ServerLevel[world]', x=-629.79, y=68.00, z=-162.15] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/1285, l='ServerLevel[world]', x=-631.92, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/1288, l='ServerLevel[world]', x=-631.48, y=68.00, z=-161.47] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/1291, l='ServerLevel[world]', x=-631.29, y=68.00, z=-162.41] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/1294, l='ServerLevel[world]', x=-630.92, y=68.00, z=-161.60] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/31747, l='ServerLevel[world]', x=-632.37, y=68.00, z=-161.73] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/31795, l='ServerLevel[world]', x=-631.96, y=68.00, z=-161.17] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:32] [Server thread/INFO]: Named entity EntityCow['Cow'/31821, l='ServerLevel[world]', x=-630.07, y=68.00, z=-161.30] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:34] [Server thread/INFO]: Named entity EntityCow['Cow'/31797, l='ServerLevel[world]', x=-631.27, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:34] [Server thread/INFO]: Named entity EntityCow['Cow'/1247, l='ServerLevel[world]', x=-631.97, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:34] [Server thread/INFO]: Named entity EntityCow['Cow'/1276, l='ServerLevel[world]', x=-629.69, y=68.00, z=-161.88] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:44] [Server thread/INFO]: Named entity EntityCow['Cow'/1267, l='ServerLevel[world]', x=-629.93, y=68.00, z=-161.07] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:44] [Server thread/INFO]: Named entity EntityCow['Cow'/1255, l='ServerLevel[world]', x=-628.07, y=68.00, z=-161.45] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:44] [Server thread/INFO]: Named entity EntityCow['Cow'/1258, l='ServerLevel[world]', x=-629.15, y=68.00, z=-162.17] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:44] [Server thread/INFO]: Named entity EntityCow['Cow'/1280, l='ServerLevel[world]', x=-628.07, y=68.00, z=-161.45] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:44] [Server thread/INFO]: Named entity EntityCow['Cow'/31751, l='ServerLevel[world]', x=-630.09, y=68.00, z=-162.04] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:44] [Server thread/INFO]: Named entity EntityCow['Cow'/31776, l='ServerLevel[world]', x=-630.05, y=68.00, z=-162.12] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:44] [Server thread/INFO]: Named entity EntityCow['Cow'/31809, l='ServerLevel[world]', x=-628.96, y=68.00, z=-161.11] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:44] [Server thread/INFO]: Named entity EntityCow['Cow'/31897, l='ServerLevel[world]', x=-628.07, y=68.00, z=-162.33] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/1290, l='ServerLevel[world]', x=-628.94, y=68.00, z=-162.17] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/1253, l='ServerLevel[world]', x=-628.11, y=68.00, z=-162.81] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/1265, l='ServerLevel[world]', x=-628.07, y=68.00, z=-161.45] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/1274, l='ServerLevel[world]', x=-630.33, y=68.00, z=-162.65] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/1278, l='ServerLevel[world]', x=-628.94, y=68.00, z=-164.02] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/1281, l='ServerLevel[world]', x=-628.96, y=68.00, z=-161.14] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/1287, l='ServerLevel[world]', x=-630.33, y=68.00, z=-163.92] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/1289, l='ServerLevel[world]', x=-630.12, y=68.00, z=-161.76] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:47:48] [Server thread/INFO]: Named entity EntityCow['Cow'/31843, l='ServerLevel[world]', x=-629.56, y=68.00, z=-163.99] died: Cow was slain by PILLERN using [KILLER NIGGER]
-[00:48:17] [Server thread/INFO]: Villager EntityVillager['Villager'/8701, l='ServerLevel[world]', x=-740.26, y=65.04, z=-111.70] died, message: 'Villager was squished too much'
-[00:49:00] [Server thread/INFO]: Named entity EntitySquid['Squid'/75463, l='ServerLevel[world]', x=-700.40, y=57.32, z=-145.53] died: Squid was slain by mingus1
-[00:49:02] [Server thread/INFO]: Named entity EntitySquid['Squid'/75464, l='ServerLevel[world]', x=-693.56, y=58.25, z=-145.16] died: Squid was slain by mingus1
-[00:49:07] [Server thread/INFO]: Named entity EntitySquid['Squid'/75710, l='ServerLevel[world]', x=-704.55, y=57.00, z=-154.20] died: Squid was slain by mingus1
-[00:49:13] [Server thread/INFO]: Named entity EntitySquid['Squid'/76172, l='ServerLevel[world]', x=-713.03, y=55.12, z=-129.72] died: Squid was slain by mingus1
-[00:49:15] [Server thread/INFO]: Named entity EntitySquid['Squid'/76171, l='ServerLevel[world]', x=-717.17, y=56.38, z=-121.17] died: Squid was slain by mingus1
-[00:49:17] [Server thread/INFO]: Named entity EntitySquid['Squid'/76170, l='ServerLevel[world]', x=-715.65, y=61.65, z=-110.82] died: Squid was slain by mingus1
-[00:49:20] [Server thread/INFO]: Named entity EntitySquid['Squid'/76173, l='ServerLevel[world]', x=-713.70, y=62.67, z=-121.38] died: Squid was slain by mingus1
-[00:49:30] [Server thread/INFO]: Named entity EntitySquid['Squid'/76282, l='ServerLevel[world]', x=-700.19, y=59.39, z=-148.28] died: Squid was slain by mingus1
-[00:49:32] [Server thread/INFO]: Named entity EntitySquid['Squid'/76283, l='ServerLevel[world]', x=-698.46, y=58.51, z=-150.21] died: Squid was slain by mingus1
-[00:49:36] [Server thread/INFO]: Named entity EntitySquid['Squid'/76281, l='ServerLevel[world]', x=-699.35, y=59.12, z=-159.37] died: Squid was slain by mingus1
-[00:49:39] [Server thread/INFO]: Named entity EntitySquid['Squid'/75712, l='ServerLevel[world]', x=-698.99, y=62.88, z=-163.71] died: Squid was slain by mingus1
-[00:49:42] [Server thread/INFO]: Named entity EntitySquid['Squid'/76280, l='ServerLevel[world]', x=-704.42, y=60.14, z=-175.16] died: Squid was slain by mingus1
-[00:49:50] [Server thread/INFO]: Named entity EntitySquid['Squid'/76447, l='ServerLevel[world]', x=-701.85, y=57.71, z=-141.85] died: Squid was slain by mingus1
-[00:49:52] [Server thread/INFO]: Named entity EntitySquid['Squid'/76445, l='ServerLevel[world]', x=-701.12, y=61.58, z=-134.51] died: Squid was slain by mingus1
-[00:49:55] [Server thread/INFO]: Named entity EntitySquid['Squid'/76446, l='ServerLevel[world]', x=-707.79, y=56.22, z=-142.60] died: Squid was slain by mingus1
-[00:49:56] [Server thread/INFO]: Named entity EntitySquid['Squid'/76444, l='ServerLevel[world]', x=-714.36, y=59.96, z=-138.76] died: Squid was slain by mingus1
-[00:50:07] [Server thread/INFO]: Named entity EntitySquid['Squid'/76561, l='ServerLevel[world]', x=-699.47, y=59.24, z=-113.74] died: Squid was slain by mingus1
-[00:50:09] [Server thread/INFO]: Named entity EntitySquid['Squid'/76560, l='ServerLevel[world]', x=-692.40, y=58.59, z=-121.42] died: Squid was slain by mingus1
-[00:50:14] [Server thread/INFO]: Named entity EntitySquid['Squid'/76426, l='ServerLevel[world]', x=-710.01, y=59.43, z=-132.94] died: Squid was slain by mingus1
-[00:50:23] [Server thread/INFO]: Named entity EntitySquid['Squid'/76659, l='ServerLevel[world]', x=-723.86, y=56.09, z=-143.97] died: Squid was slain by mingus1
-[00:50:26] [Server thread/INFO]: Named entity EntitySquid['Squid'/76656, l='ServerLevel[world]', x=-720.20, y=60.44, z=-143.32] died: Squid was slain by mingus1
-[00:50:28] [Server thread/INFO]: Named entity EntitySquid['Squid'/76658, l='ServerLevel[world]', x=-722.88, y=56.14, z=-139.35] died: Squid was slain by mingus1
-[00:50:33] [Server thread/INFO]: Named entity EntitySquid['Squid'/76657, l='ServerLevel[world]', x=-716.60, y=56.88, z=-149.35] died: Squid was slain by mingus1
-[00:50:40] [Server thread/INFO]: Named entity EntitySquid['Squid'/75961, l='ServerLevel[world]', x=-698.60, y=59.94, z=-163.56] died: Squid was slain by mingus1
-[00:50:45] [Server thread/INFO]: Named entity EntitySquid['Squid'/76776, l='ServerLevel[world]', x=-689.21, y=62.75, z=-174.52] died: Squid was slain by mingus1
-[00:50:51] [Server thread/INFO]: Named entity EntitySquid['Squid'/76775, l='ServerLevel[world]', x=-688.42, y=56.00, z=-165.52] died: Squid was slain by mingus1
-[00:50:57] [Server thread/INFO]: Named entity EntitySquid['Squid'/76873, l='ServerLevel[world]', x=-679.70, y=62.02, z=-139.54] died: Squid was slain by mingus1
-[00:50:59] [Server thread/INFO]: Named entity EntitySquid['Squid'/76874, l='ServerLevel[world]', x=-677.56, y=61.61, z=-141.42] died: Squid was slain by mingus1
-[00:51:02] [Server thread/INFO]: Named entity EntitySquid['Squid'/76872, l='ServerLevel[world]', x=-670.21, y=60.86, z=-146.78] died: Squid was slain by mingus1
-[00:51:04] [Server thread/INFO]: Named entity EntitySquid['Squid'/76871, l='ServerLevel[world]', x=-666.78, y=60.24, z=-158.27] died: Squid was slain by mingus1
-[00:51:13] [Server thread/INFO]: Named entity EntitySquid['Squid'/76777, l='ServerLevel[world]', x=-707.60, y=57.00, z=-160.40] died: Squid was slain by mingus1
-[00:51:19] [Server thread/INFO]: Named entity EntitySquid['Squid'/76778, l='ServerLevel[world]', x=-693.00, y=61.47, z=-145.39] died: Squid was slain by mingus1
-[00:51:24] [Server thread/INFO]: Named entity EntitySquid['Squid'/76944, l='ServerLevel[world]', x=-698.96, y=62.80, z=-123.26] died: Squid was slain by mingus1
-[00:51:26] [Server thread/INFO]: Named entity EntitySquid['Squid'/76941, l='ServerLevel[world]', x=-701.43, y=61.71, z=-118.32] died: Squid was slain by mingus1
-[00:51:27] [Server thread/INFO]: Named entity EntitySquid['Squid'/76942, l='ServerLevel[world]', x=-706.74, y=62.13, z=-118.66] died: Squid was slain by mingus1
-[00:52:30] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/77119, l='ServerLevel[world_nether]', x=-57.70, y=12.00, z=-143.30] died: Piglin was slain by PILLERN using [KILLER NIGGER]
-[00:52:31] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/77118, l='ServerLevel[world_nether]', x=-50.30, y=12.00, z=-142.70] died: Piglin was slain by PILLERN using [KILLER NIGGER]
-[00:58:42] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/79257, l='ServerLevel[world_nether]', x=-76.11, y=52.00, z=-36.21] died: Magma Cube was slain by mingus1
-[00:58:44] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80224, l='ServerLevel[world_nether]', x=-77.27, y=53.15, z=-37.51] died: Magma Cube was slain by mingus1
-[00:58:45] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80226, l='ServerLevel[world_nether]', x=-77.56, y=52.00, z=-35.88] died: Magma Cube was slain by mingus1
-[00:58:46] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80225, l='ServerLevel[world_nether]', x=-76.97, y=52.00, z=-37.41] died: Magma Cube was slain by mingus1
-[00:58:48] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80227, l='ServerLevel[world_nether]', x=-77.09, y=52.00, z=-35.34] died: Magma Cube was slain by mingus1
-[00:58:48] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80239, l='ServerLevel[world_nether]', x=-76.70, y=52.00, z=-36.82] died: Magma Cube was slain by mingus1
-[00:58:48] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80253, l='ServerLevel[world_nether]', x=-76.08, y=52.00, z=-36.76] died: Magma Cube was slain by mingus1
-[00:58:48] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80237, l='ServerLevel[world_nether]', x=-76.51, y=52.00, z=-38.09] died: Magma Cube was slain by mingus1
-[00:58:48] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80238, l='ServerLevel[world_nether]', x=-75.99, y=52.00, z=-38.42] died: Magma Cube was slain by mingus1
-[00:58:48] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80257, l='ServerLevel[world_nether]', x=-76.88, y=52.00, z=-39.09] died: Magma Cube was slain by mingus1
-[00:58:48] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80258, l='ServerLevel[world_nether]', x=-75.97, y=52.00, z=-39.53] died: Magma Cube was slain by mingus1
-[00:58:49] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80255, l='ServerLevel[world_nether]', x=-75.83, y=52.00, z=-36.20] died: Magma Cube was slain by mingus1
-[00:58:49] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80240, l='ServerLevel[world_nether]', x=-76.50, y=52.00, z=-35.48] died: Magma Cube was slain by mingus1
-[00:58:49] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80254, l='ServerLevel[world_nether]', x=-75.26, y=52.00, z=-36.39] died: Magma Cube was slain by mingus1
-[00:58:49] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80278, l='ServerLevel[world_nether]', x=-76.77, y=52.50, z=-34.78] died: Magma Cube was slain by mingus1
-[00:58:49] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80279, l='ServerLevel[world_nether]', x=-76.26, y=52.50, z=-34.77] died: Magma Cube was slain by mingus1
-[00:58:50] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/80280, l='ServerLevel[world_nether]', x=-76.79, y=52.00, z=-34.41] died: Magma Cube was slain by mingus1
-[01:05:16] [Server thread/INFO]: Villager EntityVillager['Villager'/8727, l='ServerLevel[world]', x=-740.16, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
-[01:09:47] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/87011, l='ServerLevel[world]', x=-606.75, y=69.94, z=-137.86] died: Skeleton was slain by TheWonderWeasel
-[01:10:44] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/88705, l='ServerLevel[world]', x=-736.52, y=60.00, z=-101.70] died: Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:10:48] [Server thread/INFO]: Named entity EntityZombie['Zombie'/88722, l='ServerLevel[world]', x=-736.56, y=60.00, z=-100.76] died: Zombie was slain by PILLERN using [KILLER NIGGER]
-[01:14:49] [Server thread/INFO]: Named entity EntitySpider['Spider'/88865, l='ServerLevel[world]', x=-760.42, y=61.00, z=-183.97] died: Spider was slain by suberboy45ds
-[01:15:45] [Server thread/INFO]: Villager EntityVillager['Villager'/8732, l='ServerLevel[world]', x=-740.16, y=65.02, z=-111.70] died, message: 'Villager was squished too much'
-[01:16:40] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/91698, l='ServerLevel[world_nether]', x=-51.49, y=60.00, z=-88.52] died: Piglin was slain by PILLERN using [KILLER NIGGER]
-[01:17:29] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/91994, l='ServerLevel[world_nether]', x=-68.62, y=75.88, z=-180.26] died: Piglin was slain by PILLERN using [KILLER NIGGER]
-[01:17:33] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/92590, l='ServerLevel[world_nether]', x=-80.00, y=78.88, z=-188.86] died: Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:17:51] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/92713, l='ServerLevel[world_nether]', x=-50.27, y=76.80, z=-208.31] died: Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:17:54] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/92574, l='ServerLevel[world_nether]', x=-65.71, y=78.00, z=-204.50] died: Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:18:32] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/88855, l='ServerLevel[world]', x=-767.94, y=68.00, z=-148.70] died: Creeper was slain by suberboy45ds
-[01:18:34] [Server thread/INFO]: TheWonderWeasel has made the advancement [Hot Stuff]
-[01:19:05] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/93321, l='ServerLevel[world_nether]', x=-163.97, y=48.88, z=-270.30] died: Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:20:21] [Server thread/INFO]: Villager EntityVillager['Villager'/63957, l='ServerLevel[world]', x=-740.13, y=65.00, z=-111.30] died, message: 'Villager was squished too much'
-[01:21:03] [Server thread/INFO]: Named entity EntitySkeleton['❤❤❤❤❤❤❤❤❤❤'/94532, l='ServerLevel[world_nether]', x=-218.61, y=41.88, z=-399.82] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting PILLERN
-[01:21:10] [Server thread/INFO]: Named entity EntityGhast['Ghast'/94556, l='ServerLevel[world_nether]', x=-182.76, y=39.73, z=-387.81] died: Ghast was fireballed by PILLERN using [KILLER NIGGER]
-[01:21:15] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/94448, l='ServerLevel[world_nether]', x=-208.75, y=41.81, z=-411.56] died: Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:21:32] [Server thread/INFO]: Villager EntityVillager['Villager'/25560, l='ServerLevel[world]', x=-740.14, y=65.05, z=-111.30] died, message: 'Villager was squished too much'
-[01:21:55] [Server thread/INFO]: Villager EntityVillager['Villager'/31062, l='ServerLevel[world]', x=-740.14, y=65.01, z=-111.30] died, message: 'Villager was squished too much'
-[01:22:13] [Server thread/INFO]: Villager EntityVillager['Villager'/37028, l='ServerLevel[world]', x=-740.12, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
-[01:23:46] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/96419, l='ServerLevel[world_nether]', x=-225.87, y=61.38, z=-588.32] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:23:56] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/96420, l='ServerLevel[world_nether]', x=-232.70, y=65.71, z=-601.70] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:24:06] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/96580, l='ServerLevel[world_nether]', x=-251.70, y=67.00, z=-588.70] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:24:07] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/97102, l='ServerLevel[world_nether]', x=-251.70, y=67.00, z=-588.70] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:24:13] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/97101, l='ServerLevel[world_nether]', x=-246.31, y=66.70, z=-583.48] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:24:15] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/97103, l='ServerLevel[world_nether]', x=-249.73, y=65.18, z=-583.42] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:24:19] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/96579, l='ServerLevel[world_nether]', x=-246.30, y=61.71, z=-587.70] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:24:33] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/96923, l='ServerLevel[world_nether]', x=-248.50, y=60.00, z=-598.36] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:24:34] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/96924, l='ServerLevel[world_nether]', x=-248.48, y=60.00, z=-597.49] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:24:41] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/97262, l='ServerLevel[world_nether]', x=-253.72, y=60.00, z=-609.66] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:24:45] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/96926, l='ServerLevel[world_nether]', x=-251.69, y=60.00, z=-612.47] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:24:48] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/96925, l='ServerLevel[world_nether]', x=-253.49, y=60.00, z=-606.94] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:25:00] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/97008, l='ServerLevel[world_nether]', x=-249.71, y=54.00, z=-635.68] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:25:07] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/97706, l='ServerLevel[world_nether]', x=-249.30, y=54.60, z=-656.60] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:25:10] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/97708, l='ServerLevel[world_nether]', x=-251.11, y=52.88, z=-653.42] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:25:10] [Server thread/INFO]: Villager EntityVillager['Villager'/1640, l='ServerLevel[world]', x=-740.26, y=65.04, z=-111.30] died, message: 'Villager was squished too much'
-[01:25:11] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/97707, l='ServerLevel[world_nether]', x=-249.93, y=54.00, z=-652.02] died: Wither Skeleton was killed by [KILLER NIGGER] while trying to hurt PILLERN
-[01:25:16] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/97790, l='ServerLevel[world_nether]', x=-252.52, y=61.00, z=-673.04] died: Magma Cube was slain by PILLERN using [KILLER NIGGER]
-[01:25:22] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/98091, l='ServerLevel[world_nether]', x=-253.62, y=61.00, z=-668.80] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:25:24] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/98090, l='ServerLevel[world_nether]', x=-252.86, y=61.00, z=-672.29] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:25:27] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/99236, l='ServerLevel[world_nether]', x=-253.17, y=61.00, z=-679.83] died: Magma Cube was slain by PILLERN using [KILLER NIGGER]
-[01:25:28] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/99238, l='ServerLevel[world_nether]', x=-252.78, y=61.00, z=-678.95] died: Magma Cube was slain by PILLERN using [KILLER NIGGER]
-[01:25:29] [Server thread/INFO]: Named entity EntityMagmaCube['Magma Cube'/99237, l='ServerLevel[world_nether]', x=-252.26, y=61.00, z=-682.24] died: Magma Cube was slain by PILLERN using [KILLER NIGGER]
-[01:25:29] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/98092, l='ServerLevel[world_nether]', x=-254.70, y=61.00, z=-684.70] died: Blaze was slain by PILLERN using [KILLER NIGGER]
-[01:25:58] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/97029, l='ServerLevel[world_nether]', x=-253.92, y=53.00, z=-625.18] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:26:00] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/98025, l='ServerLevel[world_nether]', x=-253.49, y=53.00, z=-623.28] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:26:00] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/98027, l='ServerLevel[world_nether]', x=-252.61, y=53.00, z=-622.53] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:26:02] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/98026, l='ServerLevel[world_nether]', x=-253.51, y=53.00, z=-624.85] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:26:04] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/96991, l='ServerLevel[world_nether]', x=-252.94, y=53.00, z=-626.53] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:26:19] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/96992, l='ServerLevel[world_nether]', x=-252.00, y=61.00, z=-627.36] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:26:35] [Server thread/INFO]: Named entity EntityZombie['Zombie'/99826, l='ServerLevel[world]', x=-738.68, y=63.56, z=-116.61] died: Zombie was slain by suberboy45ds
-[01:26:42] [Server thread/INFO]: Named entity EntityZombie['Zombie'/99827, l='ServerLevel[world]', x=-733.30, y=63.00, z=-113.86] died: Zombie was slain by suberboy45ds
-[01:26:44] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/97113, l='ServerLevel[world_nether]', x=-257.69, y=61.00, z=-633.74] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:26:58] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/99883, l='ServerLevel[world_nether]', x=-259.47, y=58.00, z=-662.46] died: Wither Skeleton was slain by PILLERN using [KILLER NIGGER]
-[01:27:15] [Server thread/INFO]: Named entity EntitySpider['Spider'/99873, l='ServerLevel[world]', x=-695.87, y=63.00, z=-100.59] died: Spider was slain by TheWonderWeasel
-[01:28:08] [Server thread/INFO]: Named entity EntityZombie['Zombie'/97171, l='ServerLevel[world]', x=-765.53, y=60.00, z=-168.51] died: Zombie was slain by suberboy45ds
-[01:28:11] [Server thread/INFO]: Villager EntityVillager['Villager'/8726, l='ServerLevel[world]', x=-740.15, y=65.05, z=-111.30] died, message: 'Villager was squished too much'
-[01:28:32] [Server thread/INFO]: TheWonderWeasel was slain by Zombie
-[01:28:43] [Server thread/INFO]: Named entity EntityZombie['Zombie'/102054, l='ServerLevel[world]', x=-748.40, y=63.00, z=-122.83] died: Zombie was slain by suberboy45ds
-[01:28:44] [Server thread/INFO]: Named entity EntityZombie['Zombie'/102053, l='ServerLevel[world]', x=-747.48, y=63.00, z=-124.20] died: Zombie was slain by suberboy45ds
-[01:29:35] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/99630, l='ServerLevel[world]', x=-754.24, y=63.00, z=-127.51] died: Creeper was slain by suberboy45ds
-[01:31:38] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/103075, l='ServerLevel[world]', x=-764.51, y=61.00, z=-187.44] died: Creeper was slain by suberboy45ds
-[01:37:53] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/112411, l='ServerLevel[world_nether]', x=-77.70, y=49.00, z=-67.88] died: Piglin was slain by mingus1
-[01:37:57] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/112410, l='ServerLevel[world_nether]', x=-83.29, y=47.00, z=-59.59] died: Piglin was slain by mingus1
-[01:40:06] [Server thread/INFO]: Unknown game mode: Pillern
-[01:40:06] [Server thread/INFO]: ...de Pillern spectator<--[HERE]
-[01:41:54] [Server thread/INFO]: TheWonderWeasel has made the advancement [Best Friends Forever]
-[01:43:33] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/116984, l='ServerLevel[world]', x=-593.56, y=69.94, z=-144.81] died: Creeper was slain by TheWonderWeasel
-[01:45:18] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) mingus1[0;37;22m has reached a Power level of [0;32;1m1,300[0;37;22m![m
-[01:46:22] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) mingus1[0;37;22m has reached level [0;32;1m100[0;37;22m in [0;36;22mExcavation[0;37;22m![m
-[01:46:47] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/119455, l='ServerLevel[world_nether]', x=-768.52, y=33.88, z=-773.22] died: Enderman was slain by PILLERN using [KILLER NIGGER]
-[01:50:40] [Server thread/INFO]: PILLERN has made the advancement [Those Were the Days]
-[01:51:05] [Server thread/INFO]: Named entity EntityHoglin['Hoglin'/120940, l='ServerLevel[world_nether]', x=-1087.30, y=44.50, z=-618.30] died: Hoglin was slain by PILLERN using [KILLER NIGGER]
-[01:51:50] [Server thread/INFO]: Named entity EntityHoglin['Hoglin'/121239, l='ServerLevel[world_nether]', x=-1091.96, y=39.27, z=-640.68] died: Hoglin was slain by PILLERN using [KILLER NIGGER]
-[01:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3240ms or 64 ticks behind
-[01:57:24] [Server thread/INFO]: PILLERN lost connection: Disconnected
-[01:57:24] [Server thread/INFO]: PILLERN left the game
-[01:58:35] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/126823, l='ServerLevel[world]', x=-749.22, y=64.00, z=-153.78] died: Creeper was slain by mingus1
-[01:59:57] [User Authenticator #12/INFO]: UUID of player PILLERN is 23a1de55-1627-4d51-b046-447cf62ee674
-[01:59:57] [Server thread/INFO]: PILLERN joined the game
-[01:59:57] [Server thread/INFO]: PILLERN[/26.48.63.4:64714] logged in with entity id 127679 at ([world_nether]-1426.6996016135736, 53.0, -923.8519843951367)
-[02:00:57] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/127829, l='ServerLevel[world]', x=-747.33, y=64.00, z=-155.71] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
-[02:01:05] [Server thread/INFO]: Named entity EntityChicken['Chicken'/127831, l='ServerLevel[world]', x=-749.60, y=64.00, z=-165.21] died: Chicken was slain by suberboy45ds using [Don's Knife #1]
-[02:01:07] [Server thread/INFO]: Named entity EntityZombieVillager['Zombie Villager'/127830, l='ServerLevel[world]', x=-749.77, y=64.00, z=-163.00] died: Zombie Villager was slain by suberboy45ds using [Don's Knife #1]
-[02:01:11] [Server thread/INFO]: Named entity EntityZombie['Zombie'/127785, l='ServerLevel[world]', x=-749.87, y=61.00, z=-175.65] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:06:57] [Server thread/INFO]: Named entity EntityGhast['Ghast'/131510, l='ServerLevel[world_nether]', x=-926.94, y=43.20, z=-446.88] died: Ghast was fireballed by PILLERN using [KILLER NIGGER]
-[02:07:01] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/131259, l='ServerLevel[world_nether]', x=-966.44, y=44.88, z=-451.42] died: Skeleton was slain by PILLERN using [KILLER NIGGER]
-[02:09:31] [Server thread/INFO]: Named entity EntityHoglin['Hoglin'/132308, l='ServerLevel[world_nether]', x=-746.35, y=43.00, z=-407.00] died: Hoglin was slain by PILLERN using [KILLER NIGGER]
-[02:09:32] [Server thread/INFO]: Named entity EntityHoglin['Hoglin'/132307, l='ServerLevel[world_nether]', x=-745.26, y=43.00, z=-406.29] died: Hoglin was slain by PILLERN using [KILLER NIGGER]
-[02:11:15] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/132437, l='ServerLevel[world_nether]', x=-641.78, y=72.00, z=-384.22] died: Piglin was killed while trying to hurt PILLERN
-[02:13:30] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/134210, l='ServerLevel[world_nether]', x=-570.70, y=40.00, z=-200.30] died: Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:13:32] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/132815, l='ServerLevel[world_nether]', x=-567.26, y=39.00, z=-206.70] died: Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:13:49] [Server thread/INFO]: PILLERN has made the advancement [War Pigs]
-[02:14:28] [Server thread/INFO]: Named entity EntityPiglinBrute['Piglin Brute'/132786, l='ServerLevel[world_nether]', x=-543.41, y=50.50, z=-226.44] died: Piglin Brute was slain by PILLERN using [KILLER NIGGER]
-[02:15:49] [Server thread/INFO]: TheWonderWeasel lost connection: Disconnected
-[02:15:50] [Server thread/INFO]: TheWonderWeasel left the game
-[02:16:19] [Server thread/INFO]: Named entity EntityPiglinBrute['❤❤❤❤❤❤❤❤❤❤'/132945, l='ServerLevel[world_nether]', x=-530.70, y=57.00, z=-195.35] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting PILLERN
-[02:16:44] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/134473, l='ServerLevel[world_nether]', x=-529.06, y=54.00, z=-195.47] died: Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:16:44] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/132944, l='ServerLevel[world_nether]', x=-529.08, y=54.00, z=-196.31] died: Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:16:48] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134474, l='ServerLevel[world_nether]', x=-529.91, y=53.00, z=-199.89] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:16:50] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) suberboy45ds[0;37;22m has reached a Power level of [0;32;1m700[0;37;22m![m
-[02:16:51] [Server thread/INFO]: Named entity EntityPiglinBrute['Piglin Brute'/132942, l='ServerLevel[world_nether]', x=-530.23, y=53.00, z=-196.77] died: Piglin Brute was slain by PILLERN using [KILLER NIGGER]
-[02:16:57] [Server thread/INFO]: Named entity EntityPiglinBrute['Piglin Brute'/132943, l='ServerLevel[world_nether]', x=-535.28, y=49.05, z=-200.63] died: Piglin Brute was slain by PILLERN using [KILLER NIGGER]
-[02:17:10] [Server thread/WARN]: suberboy45ds moved too quickly! 15.576641545261282,-1.1523351868505571,0.13381706555549044
-[02:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3636ms or 72 ticks behind
-[02:17:28] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134949, l='ServerLevel[world_nether]', x=-531.36, y=36.00, z=-176.25] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:35] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134312, l='ServerLevel[world_nether]', x=-532.13, y=35.00, z=-182.12] died: Zombified Piglin was killed by [KILLER NIGGER] while trying to hurt PILLERN
-[02:17:37] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/135472, l='ServerLevel[world_nether]', x=-533.41, y=35.00, z=-183.08] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:37] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/135001, l='ServerLevel[world_nether]', x=-534.25, y=35.00, z=-183.79] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:37] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134946, l='ServerLevel[world_nether]', x=-534.02, y=35.00, z=-183.07] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:37] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134310, l='ServerLevel[world_nether]', x=-534.28, y=35.00, z=-183.29] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:37] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134947, l='ServerLevel[world_nether]', x=-533.06, y=35.00, z=-183.19] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:38] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134209, l='ServerLevel[world_nether]', x=-533.66, y=35.00, z=-182.30] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:38] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134853, l='ServerLevel[world_nether]', x=-532.24, y=35.00, z=-182.65] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:42] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/134852, l='ServerLevel[world_nether]', x=-530.05, y=36.00, z=-177.18] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:17:47] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/135599, l='ServerLevel[world_nether]', x=-524.74, y=35.00, z=-160.78] died: Zombified Piglin was slain by PILLERN using [KILLER NIGGER]
-[02:19:17] [Server thread/INFO]: Named entity EntitySquid['Squid'/135971, l='ServerLevel[world]', x=-703.49, y=57.88, z=-157.66] died: Squid was slain by mingus1
-[02:19:19] [Server thread/INFO]: Named entity EntitySquid['Squid'/135970, l='ServerLevel[world]', x=-705.40, y=56.00, z=-166.60] died: Squid was slain by mingus1
-[02:19:27] [Server thread/INFO]: Named entity EntitySquid['Squid'/136224, l='ServerLevel[world]', x=-681.28, y=61.86, z=-138.33] died: Squid was slain by mingus1
-[02:19:29] [Server thread/INFO]: Named entity EntitySquid['Squid'/136223, l='ServerLevel[world]', x=-670.57, y=58.44, z=-139.40] died: Squid was slain by mingus1
-[02:19:30] [Server thread/INFO]: Named entity EntitySquid['Squid'/136221, l='ServerLevel[world]', x=-663.52, y=62.60, z=-137.56] died: Squid was slain by mingus1
-[02:19:34] [Server thread/INFO]: Named entity EntitySquid['Squid'/135880, l='ServerLevel[world]', x=-659.08, y=62.66, z=-152.88] died: Squid was slain by mingus1
-[02:19:37] [Server thread/INFO]: Named entity EntitySquid['Squid'/135879, l='ServerLevel[world]', x=-666.15, y=57.01, z=-155.98] died: Squid was slain by mingus1
-[02:19:38] [Server thread/INFO]: Named entity EntitySquid['Squid'/136573, l='ServerLevel[world]', x=-671.43, y=58.50, z=-161.86] died: Squid was slain by mingus1
-[02:19:40] [Server thread/INFO]: Named entity EntitySquid['Squid'/136575, l='ServerLevel[world]', x=-675.99, y=58.55, z=-163.19] died: Squid was slain by mingus1
-[02:19:44] [Server thread/INFO]: Named entity EntitySquid['Squid'/136222, l='ServerLevel[world]', x=-679.92, y=57.11, z=-151.66] died: Squid was slain by mingus1
-[02:19:55] [Server thread/INFO]: Named entity EntitySquid['Squid'/136574, l='ServerLevel[world]', x=-691.58, y=62.07, z=-178.60] died: Squid was slain by mingus1
-[02:20:03] [Server thread/INFO]: Named entity EntitySquid['Squid'/136572, l='ServerLevel[world]', x=-658.66, y=62.17, z=-170.47] died: Squid was slain by mingus1
-[02:20:19] [Server thread/INFO]: Named entity EntitySquid['Squid'/136608, l='ServerLevel[world]', x=-710.51, y=55.39, z=-115.79] died: Squid was slain by mingus1
-[02:20:21] [Server thread/INFO]: Named entity EntitySquid['Squid'/136606, l='ServerLevel[world]', x=-715.40, y=58.42, z=-108.40] died: Squid was slain by mingus1
-[02:20:23] [Server thread/INFO]: Named entity EntitySquid['Squid'/136609, l='ServerLevel[world]', x=-720.37, y=58.54, z=-115.69] died: Squid was slain by mingus1
-[02:20:28] [Server thread/INFO]: Named entity EntitySquid['Squid'/136852, l='ServerLevel[world]', x=-716.98, y=58.81, z=-128.67] died: Squid was slain by mingus1
-[02:20:30] [Server thread/INFO]: Named entity EntitySquid['Squid'/136607, l='ServerLevel[world]', x=-725.96, y=62.19, z=-128.36] died: Squid was slain by mingus1
-[02:20:33] [Server thread/INFO]: Named entity EntitySquid['Squid'/136851, l='ServerLevel[world]', x=-732.83, y=61.14, z=-140.09] died: Squid was slain by mingus1
-[02:20:34] [Server thread/INFO]: Named entity EntitySquid['Squid'/136558, l='ServerLevel[world]', x=-730.36, y=59.59, z=-146.00] died: Squid was slain by mingus1
-[02:20:36] [Server thread/INFO]: Named entity EntitySquid['Squid'/136897, l='ServerLevel[world]', x=-730.20, y=60.89, z=-149.60] died: Squid was slain by mingus1
-[02:20:39] [Server thread/INFO]: Named entity EntitySquid['Squid'/136895, l='ServerLevel[world]', x=-718.32, y=60.96, z=-152.42] died: Squid was slain by mingus1
-[02:20:42] [Server thread/INFO]: Named entity EntitySquid['Squid'/136898, l='ServerLevel[world]', x=-709.84, y=58.13, z=-137.26] died: Squid was slain by mingus1
-[02:20:44] [Server thread/INFO]: Named entity EntitySquid['Squid'/136975, l='ServerLevel[world]', x=-711.21, y=57.47, z=-127.76] died: Squid was slain by mingus1
-[02:20:47] [Server thread/INFO]: Named entity EntitySquid['Squid'/136974, l='ServerLevel[world]', x=-695.35, y=57.62, z=-122.29] died: Squid was slain by mingus1
-[02:20:49] [Server thread/INFO]: Named entity EntitySquid['Squid'/137042, l='ServerLevel[world]', x=-694.15, y=59.53, z=-116.85] died: Squid was slain by mingus1
-[02:20:49] [User Authenticator #13/INFO]: UUID of player TheWonderWeasel is 83e1edce-0597-49cd-b157-7bd1a0da3a4f
-[02:20:49] [Server thread/INFO]: TheWonderWeasel joined the game
-[02:20:49] [Server thread/INFO]: TheWonderWeasel[/26.119.217.192:53892] logged in with entity id 137100 at ([world]-624.0749999880791, 72.0, -131.30326585536815)
-[02:26:16] [Server thread/INFO]: Named entity EntityZombie['Zombie'/138941, l='ServerLevel[world]', x=-751.56, y=62.00, z=-170.07] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:26:22] [Server thread/INFO]: Named entity EntitySpider['Spider'/138903, l='ServerLevel[world]', x=-648.40, y=67.14, z=-117.80] died: Spider was slain by PILLERN using [KILLER NIGGER]
-[02:26:27] [Server thread/INFO]: Named entity EntitySpider['Spider'/138942, l='ServerLevel[world]', x=-726.93, y=64.12, z=-170.03] died: Spider was killed while trying to hurt mingus1
-[02:27:35] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/139262, l='ServerLevel[world]', x=-746.42, y=65.00, z=-165.51] died: Creeper was shot by mingus1
-[02:27:38] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/139261, l='ServerLevel[world]', x=-740.38, y=65.00, z=-163.62] died: Creeper was shot by mingus1
-[02:27:40] [Async Chat Thread - #14/INFO]: <suberboy45ds> 17
-[02:27:45] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/138935, l='ServerLevel[world]', x=-762.44, y=65.00, z=-136.79] died: Creeper was shot by mingus1
-[02:27:46] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/138936, l='ServerLevel[world]', x=-764.79, y=65.00, z=-138.86] died: Creeper was shot by mingus1
-[02:27:53] [Async Chat Thread - #13/INFO]: <suberboy45ds> 19
-[02:28:11] [Server thread/INFO]: Named entity EntityZombie['Zombie'/139305, l='ServerLevel[world]', x=-592.59, y=69.94, z=-129.65] died: Zombie was slain by PILLERN using [KILLER NIGGER]
-[02:28:12] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/138862, l='ServerLevel[world]', x=-789.81, y=75.00, z=-175.65] died: Skeleton was shot by mingus1
-[02:29:05] [Server thread/INFO]: Named entity EntityZombie['Zombie'/139573, l='ServerLevel[world]', x=-764.55, y=60.00, z=-184.55] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:29:17] [Server thread/INFO]: Named entity EntityZombie['Zombie'/139453, l='ServerLevel[world]', x=-600.93, y=69.94, z=-135.43] died: Zombie was slain by PILLERN using [KILLER NIGGER]
-[02:29:32] [Server thread/INFO]: Named entity EntityZombie['Zombie'/139306, l='ServerLevel[world]', x=-593.92, y=69.94, z=-134.87] died: Zombie was slain by PILLERN using [KILLER NIGGER]
-[02:29:33] [Server thread/INFO]: Named entity EntityZombie['Zombie'/139408, l='ServerLevel[world]', x=-593.51, y=69.94, z=-134.92] died: Zombie was slain by PILLERN using [KILLER NIGGER]
-[02:29:33] [Server thread/INFO]: Named entity EntityZombie['❤❤❤❤❤❤❤❤❤❤'/139445, l='ServerLevel[world]', x=-596.26, y=69.94, z=-132.48] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting PILLERN
-[02:31:33] [Server thread/INFO]: PILLERN has completed the challenge [Cover Me in Debris]
-[02:31:55] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/140299, l='ServerLevel[world]', x=-717.50, y=63.00, z=-85.50] died: Creeper was shot by mingus1
-[02:31:57] [Server thread/INFO]: Named entity EntityCreeper['❤❤❤❤❤❤❤❤❤❤'/140298, l='ServerLevel[world]', x=-726.79, y=64.00, z=-92.40] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting mingus1
-[02:31:59] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/140141, l='ServerLevel[world]', x=-712.15, y=63.00, z=-88.37] died: Creeper was shot by mingus1
-[02:32:01] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/139619, l='ServerLevel[world]', x=-709.61, y=63.00, z=-87.61] died: Creeper was shot by mingus1
-[02:32:02] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/140300, l='ServerLevel[world]', x=-714.86, y=63.00, z=-83.86] died: Creeper was shot by mingus1
-[02:32:30] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/139856, l='ServerLevel[world]', x=-653.54, y=68.00, z=-125.00] died: Creeper was shot by mingus1
-[02:34:14] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/140412, l='ServerLevel[world]', x=-592.99, y=69.94, z=-147.53] died: Skeleton was slain by mingus1
-[02:34:58] [Server thread/INFO]: Named entity EntityZombie['Zombie'/140411, l='ServerLevel[world]', x=-596.17, y=69.94, z=-144.23] died: Zombie was slain by mingus1
-[02:35:44] [Server thread/INFO]: Named entity EntitySpider['Spider'/140180, l='ServerLevel[world]', x=-701.85, y=66.00, z=-204.30] died: Spider was slain by mingus1
-[02:40:18] [Server thread/INFO]: suberboy45ds lost connection: Disconnected
-[02:40:18] [Server thread/INFO]: suberboy45ds left the game
-[02:40:48] [Server thread/INFO]: PILLERN has reached the goal [Beaconator]
-[02:40:48] [Server thread/INFO]: PILLERN has made the advancement [Bring Home the Beacon]
-[02:45:43] [Server thread/INFO]: TheWonderWeasel lost connection: Disconnected
-[02:45:43] [Server thread/INFO]: TheWonderWeasel left the game
-[02:47:32] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/144092, l='ServerLevel[world]', x=-706.17, y=64.00, z=-191.76] died: Creeper was shot by mingus1
-[02:47:33] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/144090, l='ServerLevel[world]', x=-696.50, y=65.00, z=-193.50] died: Creeper was shot by mingus1
-[02:47:39] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/144091, l='ServerLevel[world]', x=-697.47, y=65.00, z=-189.70] died: Creeper was shot by mingus1
-[02:47:48] [Server thread/INFO]: Named entity EntityCreeper['❤❤❤❤❤❤❤❤❤❤'/144143, l='ServerLevel[world]', x=-737.00, y=66.00, z=-171.19] died: ❤❤❤❤❤❤❤❤❤❤ was burned to a crisp while fighting mingus1
-[02:48:19] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/144187, l='ServerLevel[world]', x=-713.78, y=72.00, z=-228.50] died: Creeper was shot by mingus1
-[02:48:26] [Server thread/INFO]: Named entity EntityZombie['Zombie'/144055, l='ServerLevel[world]', x=-707.01, y=72.00, z=-236.03] died: Zombie was shot by mingus1
-[02:48:30] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/144186, l='ServerLevel[world]', x=-702.97, y=71.00, z=-238.32] died: Creeper was shot by mingus1
-[02:48:37] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/144441, l='ServerLevel[world]', x=-698.50, y=64.00, z=-206.50] died: Creeper was shot by mingus1
-[02:48:44] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/144442, l='ServerLevel[world]', x=-703.98, y=64.00, z=-193.83] died: Creeper was shot by mingus1
-[02:49:04] [Server thread/INFO]: PILLERN lost connection: Disconnected
-[02:49:04] [Server thread/INFO]: PILLERN left the game
-[02:49:12] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/144302, l='ServerLevel[world]', x=-775.49, y=62.00, z=-188.29] died: Creeper was shot by mingus1
-[02:50:07] [Server thread/INFO]: mingus1 lost connection: Disconnected
-[02:50:09] [Server thread/INFO]: mingus1 left the game
-[02:50:11] [Server thread/INFO]: Stopping the server
-[02:50:11] [Server thread/INFO]: Stopping server
-[02:50:11] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
-[02:50:11] [Server thread/INFO]: [KeepDeathDrop] Disabled!
-[02:50:11] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
-[02:50:11] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
-[02:50:11] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
-[02:50:11] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
-[02:50:13] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
-[02:50:13] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[02:50:13] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[02:50:13] [Server thread/INFO]: Saving players
-[02:50:13] [Server thread/INFO]: Saving worlds
-[02:50:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:51:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
-[02:51:18] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
-[02:51:18] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
-[02:51:18] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Spigot version: 4061-Spigot-e9ec548-366c3ca (MC: 1.20.4)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 47 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:221)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.CompletableFuture$Signaller.block(CompletableFuture.java:1864)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3744)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3689)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.CompletableFuture.waitingGet(CompletableFuture.java:1898)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2117)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.EntityStorage.a(SourceFile:125)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.PersistentEntitySectionManager.c(PersistentEntitySectionManager.java:350)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer.a(WorldServer.java:945)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.a(MinecraftServer.java:824)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.t(MinecraftServer.java:936)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.t(DedicatedServer.java:697)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1087)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$6047/0x0000000801a615b0.run(Unknown Source)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 8 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.Reference.processPendingReferences(Reference.java:245)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:207)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 9 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Object.wait0(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Object.wait(Object.java:366)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Object.wait(Object.java:339)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.NativeReferenceQueue.await(NativeReferenceQueue.java:48)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:158)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.NativeReferenceQueue.remove(NativeReferenceQueue.java:89)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:173)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 10 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Attach Listener
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 11 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Notification Thread
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Common-Cleaner
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1759)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:186)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: JNA Cleaner
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3744)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3689)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1625)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:67)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:158)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:234)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		com.sun.jna.internal.Cleaner$1.run(Cleaner.java:58)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer hack thread
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.sleep0(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.sleep(Thread.java:465)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.SystemUtils$9.run(SourceFile:833)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Yggdrasil Key Fetcher
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-1
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1890)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1807)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-2
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1890)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1807)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-3
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 42 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1890)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1807)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-4
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:449)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1888)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1807)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-6
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 45 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1890)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1807)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-7
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1890)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1807)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: NonBlockingInputStreamThread
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 49 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Object.wait0(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Object.wait(Object.java:366)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 47 | Suspended: false | Native: false | State: WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:221)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.CompletableFuture$Signaller.block(CompletableFuture.java:1864)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3744)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3689)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.CompletableFuture.waitingGet(CompletableFuture.java:1898)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2117)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.EntityStorage.a(SourceFile:125)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.PersistentEntitySectionManager.c(PersistentEntitySectionManager.java:350)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer.a(WorldServer.java:945)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.a(MinecraftServer.java:824)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.t(MinecraftServer.java:936)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.t(DedicatedServer.java:697)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1087)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$6047/0x0000000801a615b0.run(Unknown Source)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: TerminalConsoleWriter
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 52 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.FillConsoleOutputCharacterW(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.WindowsAnsiOutputStream.processEraseLine(WindowsAnsiOutputStream.java:173)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.AnsiOutputStream.processEscapeCommand(AnsiOutputStream.java:253)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.AnsiOutputStream.write(AnsiOutputStream.java:125)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:313)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:409)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:414)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.cs.StreamEncoder.lockedFlush(StreamEncoder.java:218)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:205)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.io.OutputStreamWriter.flush(OutputStreamWriter.java:263)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.console.ConsoleReader.flush(ConsoleReader.java:976)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:39)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Server console handler
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 51 | Suspended: false | Native: true | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:jline.internal.InputStreamReader.read(InputStreamReader.java:261)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:jline.internal.InputStreamReader.read(InputStreamReader.java:198)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.ReadConsoleInputW(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.readConsoleInputHelper(Kernel32.java:761)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.readConsoleKeyInput(Kernel32.java:794)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.WindowsSupport.readConsoleInput(WindowsSupport.java:97)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.WindowsTerminal.readConsoleInput(WindowsTerminal.java:215)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.WindowsTerminal.access$000(WindowsTerminal.java:55)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.WindowsTerminal$1.read(WindowsTerminal.java:157)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.internal.InputStreamReader.read(InputStreamReader.java:261)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.internal.InputStreamReader.read(InputStreamReader.java:198)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:117)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 53 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.management@19.0.1/sun.management.ThreadImpl.dumpThreads0(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.management@19.0.1/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:541)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.management@19.0.1/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:90)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 54 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Object.wait0(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Object.wait(Object.java:366)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.TimerThread.mainLoop(Timer.java:563)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.TimerThread.run(Timer.java:516)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #0
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 55 | Suspended: false | Native: true | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.WEPoll.wait(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:146)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: bStats-Metrics
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 69 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: bStats-Metrics
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 72 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #1
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 74 | Suspended: false | Native: true | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.WEPoll.wait(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:146)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #2
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 80 | Suspended: false | Native: true | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.WEPoll.wait(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:146)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #3
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 84 | Suspended: false | Native: true | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.WEPoll.wait(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:146)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: IO-Worker-109
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 274 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: IO-Worker-125
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 306 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: IO-Worker-127
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 310 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:1001)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.world.level.chunk.storage.RegionFile.a(RegionFile.java:333)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.FileDispatcherImpl.pwrite0(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.FileDispatcherImpl.pwrite(FileDispatcherImpl.java:74)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:134)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.IOUtil.write(IOUtil.java:80)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.IOUtil.write(IOUtil.java:71)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:1020)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:1001)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFile.d(RegionFile.java:380)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFile.a(RegionFile.java:333)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFile$ChunkBuffer.close(RegionFile.java:439)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:249)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:156)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:260)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:250)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$6255/0x0000000801bf6e90.run(Unknown Source)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: IO-Worker-128
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 314 | Suspended: false | Native: false | State: RUNNABLE
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@19.0.1/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:1001)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.world.level.chunk.storage.RegionFile.a(RegionFile.java:328)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.FileDispatcherImpl.pwrite0(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.FileDispatcherImpl.pwrite(FileDispatcherImpl.java:74)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:134)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.IOUtil.write(IOUtil.java:101)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.IOUtil.write(IOUtil.java:71)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:1020)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:1001)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFile.a(RegionFile.java:328)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFile$ChunkBuffer.close(RegionFile.java:439)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:249)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:156)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:260)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:250)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$6255/0x0000000801bf6e90.run(Unknown Source)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:18] [Spigot Watchdog Thread/ERROR]: Current Thread: IO-Worker-129
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	PID: 315 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: 		java.base@19.0.1/java.lang.Thread.run(Thread.java:1589)
-[02:51:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[02:51:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:51:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:51:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:51:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:51:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:57:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:57:33] [ServerMain/INFO]: Loaded 7 recipes
+[02:57:34] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[02:57:34] [Server thread/INFO]: Loading properties
+[02:57:34] [Server thread/INFO]: This server is running CraftBukkit version 4061-Spigot-e9ec548-366c3ca (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[02:57:34] [Server thread/INFO]: Debug logging is disabled
+[02:57:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:57:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:57:34] [Server thread/INFO]: Default game type: SURVIVAL
+[02:57:34] [Server thread/INFO]: Generating keypair
+[02:57:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:57:34] [Server thread/INFO]: Using default channel type
+[02:57:35] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[02:57:35] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.2
+[02:57:35] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.231
+[02:57:35] [Server thread/INFO]: [KeepDeathDrop] Loading KeepDeathDrop v1.0.7
+[02:57:35] [Server thread/INFO]: Preparing level "world"
+[02:57:35] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:57:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:57:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:57:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:57:35] [Server thread/INFO]: View Distance: 10
+[02:57:35] [Server thread/INFO]: Simulation Distance: 10
+[02:57:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:57:35] [Server thread/INFO]: Mob Spawn Range: 6
+[02:57:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02:57:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02:57:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02:57:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02:57:35] [Server thread/INFO]: Max TNT Explosions: 100
+[02:57:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:57:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:57:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:57:35] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:57:35] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[02:57:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:57:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:57:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:57:35] [Server thread/INFO]: View Distance: 10
+[02:57:35] [Server thread/INFO]: Simulation Distance: 10
+[02:57:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:57:35] [Server thread/INFO]: Mob Spawn Range: 6
+[02:57:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[02:57:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02:57:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02:57:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02:57:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02:57:35] [Server thread/INFO]: Max TNT Explosions: 100
+[02:57:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:57:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:57:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:57:35] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:57:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[02:57:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:57:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:57:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:57:36] [Server thread/INFO]: View Distance: 10
+[02:57:36] [Server thread/INFO]: Simulation Distance: 10
+[02:57:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:57:36] [Server thread/INFO]: Mob Spawn Range: 6
+[02:57:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[02:57:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02:57:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02:57:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02:57:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02:57:36] [Server thread/INFO]: Max TNT Explosions: 100
+[02:57:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:57:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:57:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:57:36] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:57:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:57:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:57:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[02:57:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[02:57:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:57:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[02:57:39] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[02:57:39] [Worker-Main-7/INFO]: Preparing spawn area: 23%
+[02:57:39] [Server thread/INFO]: Time elapsed: 3146 ms
+[02:57:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:57:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:57:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:57:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:57:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:57:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[02:57:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[02:57:42] [Worker-Main-6/INFO]: Preparing spawn area: 56%
+[02:57:42] [Server thread/INFO]: Time elapsed: 3171 ms
+[02:57:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:57:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:57:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:57:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[02:57:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[02:57:44] [Worker-Main-3/INFO]: Preparing spawn area: 11%
+[02:57:45] [Server thread/INFO]: Time elapsed: 2418 ms
+[02:57:45] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[02:57:45] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[02:57:45] [Server thread/INFO]: [ClearLag] Loading modules...
+[02:57:45] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R3.MinecraftServer)
+[02:57:45] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[02:57:45] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[02:57:45] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[02:57:45] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.2
+[02:57:45] [Thread-9/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
+[02:57:45] [Server thread/INFO]: [OnePlayerSleep] Thank you for using the OnePlayerSleep plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
+[02:57:45] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.231
+[02:57:45] [Thread-9/INFO]: [ClearLag] No updates found!
+[02:57:46] [Server thread/INFO]: [KeepDeathDrop] Enabling KeepDeathDrop v1.0.7
+[02:57:46] [Server thread/INFO]: [KeepDeathDrop] Enabled!
+[02:57:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:57:46] [Server thread/INFO]: Done (11.615s)! For help, type "help"
+[02:58:27] [User Authenticator #1/INFO]: UUID of player PILLERN is 23a1de55-1627-4d51-b046-447cf62ee674
+[02:58:28] [Server thread/INFO]: PILLERN joined the game
+[02:58:28] [Server thread/INFO]: PILLERN[/26.48.63.4:51946] logged in with entity id 171 at ([world]-628.9216562843434, 71.0, -104.1189513148103)
+[02:58:44] [Server thread/INFO]: PILLERN lost connection: Disconnected
+[02:58:45] [Server thread/INFO]: PILLERN left the game
+[02:58:59] [Server thread/INFO]: Stopping the server
+[02:58:59] [Server thread/INFO]: Stopping server
+[02:58:59] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
+[02:58:59] [Server thread/INFO]: [KeepDeathDrop] Disabled!
+[02:58:59] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
+[02:58:59] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[02:58:59] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
+[02:58:59] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
+[02:58:59] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
+[02:58:59] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[02:58:59] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[02:58:59] [Server thread/INFO]: Saving players
+[02:58:59] [Server thread/INFO]: Saving worlds
+[02:59:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:59:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:59:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
