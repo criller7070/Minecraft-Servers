@@ -404,8 +404,10 @@
       "baked_potato": "2024-03-16 01:14:26 +0100",
       "melon_slice": "2024-03-16 23:09:04 +0100",
       "porkchop": "2024-03-13 10:29:25 +0100",
+      "golden_carrot": "2024-03-17 23:22:01 +0100",
       "apple": "2024-03-15 22:26:02 +0100",
       "cooked_chicken": "2024-03-16 02:06:03 +0100",
+      "cod": "2024-03-18 00:41:50 +0100",
       "pumpkin_pie": "2024-03-15 16:03:22 +0100",
       "carrot": "2024-03-16 00:20:57 +0100"
     },
@@ -3848,6 +3850,78 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-03-17 20:46:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-03-17 23:44:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-03-18 01:05:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2024-03-18 00:11:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-03-18 00:41:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-03-17 23:44:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-03-17 23:44:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-03-18 01:15:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-03-18 00:41:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-03-17 23:44:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-03-18 00:41:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-03-18 01:15:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-03-17 23:44:26 +0100"
     },
     "done": true
   },
