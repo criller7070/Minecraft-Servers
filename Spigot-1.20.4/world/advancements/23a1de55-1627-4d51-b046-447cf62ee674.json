@@ -3859,9 +3859,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
-      "has_ink_sac": "2024-03-18 01:05:41 +0100"
+      "has_minecart": "2024-03-17 23:44:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-03-17 23:44:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-03-17 23:44:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-03-17 23:44:26 +0100"
     },
     "done": true
   },
@@ -3877,33 +3895,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2024-03-17 23:44:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2024-03-17 23:44:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2024-03-18 01:15:30 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-03-18 00:41:44 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2024-03-17 23:44:26 +0100"
     },
     "done": true
   },
@@ -3913,15 +3907,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-03-18 01:05:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-03-18 01:15:30 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_minecart": "2024-03-17 23:44:26 +0100"
+      "has_honeycomb": "2024-03-18 01:15:30 +0100"
     },
     "done": true
   },
