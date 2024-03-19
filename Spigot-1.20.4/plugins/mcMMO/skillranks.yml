@@ -578,24 +578,25 @@ Unarmed:
         Standard:
             Rank_1: 1
             Rank_2: 10
-            Rank_3: 15
-            Rank_4: 20
-            Rank_5: 25
-            Rank_6: 30
-            Rank_7: 35
-            Rank_8: 40
-            Rank_9: 45
-            Rank_10: 50
-            Rank_11: 55
-            Rank_12: 60
-            Rank_13: 65
-            Rank_14: 70
-            Rank_15: 75
-            Rank_16: 80
-            Rank_17: 85
-            Rank_18: 90
-            Rank_19: 95
-            Rank_20: 100
+            Rank_3: 25
+            Rank_4: 50
+            Rank_5: 100
+            Rank_6: 150
+            Rank_7: 200
+            Rank_8: 250
+            Rank_9: 300
+            Rank_10: 350
+            Rank_11: 400
+            Rank_12: 500
+            Rank_13: 600
+            Rank_14: 800
+            Rank_15: 1000
+            Rank_16: 1200
+            Rank_17: 1400
+            Rank_18: 1600
+            Rank_19: 1800
+            Rank_20: 2000
+        
         RetroMode:
             Rank_1: 1
             Rank_2: 100

@@ -596,9 +596,10 @@ Skills:
                 Rank_15: 8.0
                 Rank_16: 8.5
                 Rank_17: 9.0
-                Rank_18: 10.5
-                Rank_19: 12.0
-                Rank_20: 13.5
+                Rank_18: 10
+                Rank_19: 10.5
+                Rank_20: 20
+    
     #
     #  Settings for Woodcutting
     # ##

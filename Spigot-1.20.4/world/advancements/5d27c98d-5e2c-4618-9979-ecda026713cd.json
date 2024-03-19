@@ -171,6 +171,7 @@
       "minecraft:phantom": "2024-03-17 20:39:17 +0100",
       "minecraft:vindicator": "2024-03-15 23:34:39 +0100",
       "minecraft:zombified_piglin": "2024-03-18 10:55:07 +0100",
+      "minecraft:enderman": "2024-03-19 16:24:17 +0100",
       "minecraft:magma_cube": "2024-03-17 20:22:10 +0100",
       "minecraft:spider": "2024-03-13 10:40:21 +0100",
       "minecraft:vex": "2024-03-15 23:38:27 +0100",
@@ -190,6 +191,7 @@
     "criteria": {
       "cooked_porkchop": "2024-03-13 10:37:53 +0100",
       "bread": "2024-03-13 10:49:59 +0100",
+      "golden_apple": "2024-03-19 21:52:09 +0100",
       "cooked_mutton": "2024-03-13 12:05:29 +0100",
       "glow_berries": "2024-03-13 10:35:28 +0100",
       "sweet_berries": "2024-03-15 23:38:40 +0100",
@@ -201,6 +203,7 @@
       "golden_carrot": "2024-03-18 11:48:09 +0100",
       "apple": "2024-03-13 21:18:22 +0100",
       "cooked_chicken": "2024-03-13 10:38:53 +0100",
+      "enchanted_golden_apple": "2024-03-19 21:52:28 +0100",
       "carrot": "2024-03-13 10:54:57 +0100"
     },
     "done": false
@@ -3480,6 +3483,36 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-03-18 20:23:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-19 18:51:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-03-19 18:51:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-03-19 20:04:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-03-19 20:04:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-03-19 21:52:26 +0100"
     },
     "done": true
   },
