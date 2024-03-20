@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2024-03-15 23:10:33 +0100",
       "minecraft:flower_forest": "2024-03-15 22:34:17 +0100",
       "minecraft:beach": "2024-03-15 22:51:22 +0100",
+      "minecraft:old_growth_pine_taiga": "2024-03-20 00:58:11 +0100",
       "minecraft:forest": "2024-03-13 11:27:23 +0100",
       "minecraft:taiga": "2024-03-13 10:20:42 +0100",
       "minecraft:river": "2024-03-13 11:36:43 +0100",
@@ -3923,6 +3924,36 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2024-03-18 01:15:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-19 23:50:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-03-20 00:13:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-03-19 23:41:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-03-20 00:45:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-03-19 23:50:03 +0100"
     },
     "done": true
   },

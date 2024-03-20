@@ -315,6 +315,7 @@
       "minecraft:spider": "2024-03-15 14:18:53 +0100",
       "minecraft:piglin_brute": "2024-03-16 13:48:29 +0100",
       "minecraft:creeper": "2024-03-15 14:17:38 +0100",
+      "minecraft:wither": "2024-03-19 23:37:28 +0100",
       "minecraft:evoker": "2024-03-15 23:24:41 +0100",
       "minecraft:slime": "2024-03-17 18:40:09 +0100",
       "minecraft:phantom": "2024-03-17 23:31:51 +0100",
@@ -3893,6 +3894,36 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-03-19 22:27:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-03-19 23:44:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-03-19 23:44:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-03-20 00:13:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-03-20 00:22:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-03-20 00:22:41 +0100"
     },
     "done": true
   },
