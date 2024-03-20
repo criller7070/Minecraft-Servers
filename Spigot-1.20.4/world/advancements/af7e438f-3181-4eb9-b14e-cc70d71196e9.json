@@ -18,9 +18,12 @@
       "minecraft:lush_caves": "2024-03-16 22:09:53 +0100",
       "minecraft:snowy_taiga": "2024-03-15 16:59:22 +0100",
       "minecraft:dripstone_caves": "2024-03-15 18:24:17 +0100",
+      "minecraft:old_growth_birch_forest": "2024-03-20 21:08:27 +0100",
       "minecraft:frozen_ocean": "2024-03-15 17:02:38 +0100",
       "minecraft:frozen_river": "2024-03-15 16:55:16 +0100",
       "minecraft:windswept_forest": "2024-03-15 17:48:29 +0100",
+      "minecraft:deep_dark": "2024-03-20 20:18:49 +0100",
+      "minecraft:sunflower_plains": "2024-03-20 20:02:11 +0100",
       "minecraft:swamp": "2024-03-16 23:52:20 +0100",
       "minecraft:meadow": "2024-03-16 00:52:35 +0100",
       "minecraft:birch_forest": "2024-03-16 01:23:40 +0100",
@@ -665,6 +668,7 @@
       "minecraft:wither_skeleton": "2024-03-15 20:38:27 +0100",
       "minecraft:ravager": "2024-03-15 23:36:24 +0100",
       "minecraft:ghast": "2024-03-15 20:29:07 +0100",
+      "minecraft:cave_spider": "2024-03-20 19:50:54 +0100",
       "minecraft:piglin": "2024-03-15 20:24:58 +0100",
       "minecraft:vindicator": "2024-03-15 23:36:30 +0100",
       "minecraft:enderman": "2024-03-15 19:40:08 +0100",
@@ -3528,6 +3532,18 @@
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "tropical_fish_bucket": "2024-03-20 01:05:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-03-20 20:57:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-03-20 20:20:44 +0100"
     },
     "done": true
   },
