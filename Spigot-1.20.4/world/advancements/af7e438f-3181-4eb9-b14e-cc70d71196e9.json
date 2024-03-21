@@ -341,6 +341,7 @@
       "melon_slice": "2024-03-17 21:13:53 +0100",
       "porkchop": "2024-03-15 17:02:15 +0100",
       "golden_carrot": "2024-03-16 23:37:07 +0100",
+      "cooked_cod": "2024-03-21 02:21:29 +0100",
       "carrot": "2024-03-15 17:08:15 +0100"
     },
     "done": false
@@ -3535,15 +3536,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-03-20 20:20:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-03-20 20:57:28 +0100"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
-      "avoid_vibration": "2024-03-20 20:20:44 +0100"
+      "has_moss_block": "2024-03-20 22:56:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-03-20 22:41:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-03-20 22:56:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-03-20 22:56:30 +0100"
     },
     "done": true
   },
