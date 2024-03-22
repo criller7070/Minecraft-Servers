@@ -1,101 +1,87 @@
-[00:02:35] [Server thread/INFO]: PILLERN lost connection: Disconnected
-[00:02:35] [Server thread/INFO]: PILLERN left the game
-[00:19:39] [User Authenticator #3/INFO]: UUID of player PILLERN is 23a1de55-1627-4d51-b046-447cf62ee674
-[00:19:39] [Server thread/INFO]: PILLERN joined the game
-[00:19:39] [Server thread/INFO]: PILLERN[/26.48.63.4:58779] logged in with entity id 37877 at ([world]-644.0861746258456, 66.0, -102.70236125862048)
-[00:21:09] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/38246, l='ServerLevel[world]', x=-689.50, y=66.00, z=-85.76] died: Creeper was shot by PILLERN using [BITCH NIGGA]
-[00:25:21] [Server thread/INFO]: Villager EntityVillager['Villager'/234, l='ServerLevel[world]', x=-740.17, y=65.04, z=-111.69] died, message: 'Villager was squished too much'
-[00:27:47] [Server thread/INFO]: Villager EntityVillager['Villager'/237, l='ServerLevel[world]', x=-740.15, y=65.05, z=-111.55] died, message: 'Villager was squished too much'
-[00:30:35] [Server thread/INFO]: suberboy45ds issued server command: /unarmed
-[00:32:06] [Server thread/INFO]: Villager EntityVillager['Villager'/247, l='ServerLevel[world]', x=-740.16, y=65.04, z=-111.69] died, message: 'Villager was squished too much'
-[00:33:25] [Server thread/INFO]: Villager EntityVillager['Villager'/17195, l='ServerLevel[world]', x=-740.21, y=65.02, z=-111.70] died, message: 'Villager was squished too much'
-[00:35:32] [Server thread/INFO]: Villager EntityVillager['Villager'/235, l='ServerLevel[world]', x=-740.17, y=65.04, z=-111.70] died, message: 'Villager was squished too much'
-[00:38:19] [Server thread/INFO]: Villager EntityVillager['Villager'/6117, l='ServerLevel[world]', x=-740.18, y=65.04, z=-111.46] died, message: 'Villager was squished too much'
-[00:40:44] [Server thread/INFO]: Named entity EntityZombie['Zombie'/42422, l='ServerLevel[world]', x=-750.61, y=64.00, z=-117.26] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[00:41:07] [Server thread/INFO]: Named entity EntityZombie['Zombie'/42374, l='ServerLevel[world]', x=-752.85, y=64.00, z=-117.54] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[00:41:26] [Server thread/INFO]: Named entity EntityZombie['Zombie'/42373, l='ServerLevel[world]', x=-745.60, y=63.00, z=-109.52] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[00:41:30] [Server thread/INFO]: Named entity EntityZombie['Zombie'/42412, l='ServerLevel[world]', x=-749.57, y=63.00, z=-122.88] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:00:21] [Server thread/INFO]: Villager EntityVillager['Villager'/229, l='ServerLevel[world]', x=-740.14, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
-[01:01:50] [Server thread/INFO]: Villager EntityVillager['Villager'/9656, l='ServerLevel[world]', x=-740.16, y=65.01, z=-111.69] died, message: 'Villager was squished too much'
-[01:05:54] [Server thread/INFO]: PILLERN lost connection: Disconnected
-[01:05:54] [Server thread/INFO]: PILLERN left the game
-[01:07:03] [Server thread/INFO]: Villager EntityVillager['Villager'/36593, l='ServerLevel[world]', x=-740.17, y=65.05, z=-111.46] died, message: 'Villager was squished too much'
-[01:12:57] [Server thread/INFO]: Villager EntityVillager['Villager'/233, l='ServerLevel[world]', x=-740.16, y=65.05, z=-111.51] died, message: 'Villager was squished too much'
-[01:16:46] [Server thread/INFO]: Villager EntityVillager['Villager'/231, l='ServerLevel[world]', x=-740.15, y=65.04, z=-111.66] died, message: 'Villager was squished too much'
-[01:17:12] [Async Chat Thread - #3/INFO]: <suberboy45ds> 2
-[01:17:13] [Async Chat Thread - #4/INFO]: <suberboy45ds> 7
-[01:17:25] [Server thread/INFO]: Named entity EntitySpider['Spider'/50141, l='ServerLevel[world]', x=-751.45, y=65.00, z=-88.03] died: Spider was slain by suberboy45ds using [Don's Knife #1]
-[01:17:26] [Server thread/INFO]: Named entity EntityZombie['Zombie'/50142, l='ServerLevel[world]', x=-751.43, y=65.00, z=-88.61] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:21:34] [Server thread/INFO]: Villager EntityVillager['Villager'/19056, l='ServerLevel[world]', x=-740.26, y=65.04, z=-111.56] died, message: 'Villager was squished too much'
-[01:21:47] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/50899, l='ServerLevel[world]', x=-762.87, y=63.00, z=-86.72] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
-[01:23:02] [Server thread/INFO]: Named entity EntityZombie['Zombie'/51505, l='ServerLevel[world]', x=-740.37, y=63.00, z=-100.26] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:23:02] [Server thread/INFO]: Named entity EntitySkeleton['??????????'/51636, l='ServerLevel[world]', x=-740.68, y=63.00, z=-97.47] died: ?????????? was burned to a crisp while fighting suberboy45ds
-[01:23:12] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/51637, l='ServerLevel[world]', x=-727.62, y=62.92, z=-113.79] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
-[01:23:46] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/51635, l='ServerLevel[world]', x=-736.16, y=63.00, z=-102.04] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
-[01:23:50] [Server thread/INFO]: Named entity EntityZombie['Zombie'/51579, l='ServerLevel[world]', x=-745.61, y=63.00, z=-93.18] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:27:28] [Server thread/INFO]: Villager EntityVillager['Villager'/238, l='ServerLevel[world]', x=-740.12, y=65.04, z=-111.63] died, message: 'Villager was squished too much'
-[01:27:34] [Server thread/INFO]: Villager EntityVillager['Villager'/33858, l='ServerLevel[world]', x=-740.11, y=65.04, z=-111.61] died, message: 'Villager was squished too much'
-[01:41:08] [Server thread/INFO]: Named entity EntityZombie['Zombie'/56930, l='ServerLevel[world]', x=-753.30, y=65.00, z=-104.70] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:41:55] [Server thread/INFO]: Named entity EntityZombie['Zombie'/57045, l='ServerLevel[world]', x=-780.62, y=63.00, z=-116.71] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:41:58] [Server thread/INFO]: Named entity EntityZombie['Zombie'/57044, l='ServerLevel[world]', x=-780.35, y=63.00, z=-117.92] died: Zombie was slain by suberboy45ds using [Don´s Grave Ni...Digger]
-[01:43:15] [Server thread/INFO]: Villager EntityVillager['Villager'/1642, l='ServerLevel[world]', x=-740.20, y=65.03, z=-111.68] died, message: 'Villager was squished too much'
-[01:45:10] [Server thread/INFO]: Named entity EntityZombie['Zombie'/57167, l='ServerLevel[world]', x=-747.68, y=63.00, z=-100.38] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:45:11] [Server thread/INFO]: Named entity EntitySpider['Spider'/56750, l='ServerLevel[world]', x=-747.21, y=63.00, z=-102.67] died: Spider was slain by suberboy45ds using [Don's Knife #1]
-[01:45:38] [Server thread/INFO]: Named entity EntityZombie['Zombie'/57345, l='ServerLevel[world]', x=-750.41, y=64.00, z=-135.85] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:56:54] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) suberboy45ds[0;37;22m has reached a Power level of [0;32;1m2,000[0;37;22m![m
-[01:57:17] [Server thread/INFO]: Named entity EntityZombie['Zombie'/60788, l='ServerLevel[world]', x=-642.92, y=69.00, z=-13.38] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:58:05] [Server thread/INFO]: Named entity EntityZombie['Zombie'/61257, l='ServerLevel[world]', x=-704.89, y=64.00, z=-69.80] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:59:14] [Server thread/INFO]: Named entity EntityZombie['Zombie'/61088, l='ServerLevel[world]', x=-642.59, y=66.00, z=-105.87] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[01:59:59] [Server thread/INFO]: Villager EntityVillager['Villager'/35152, l='ServerLevel[world]', x=-740.12, y=65.04, z=-111.61] died, message: 'Villager was squished too much'
-[02:11:25] [Server thread/INFO]: Villager EntityVillager['Villager'/244, l='ServerLevel[world]', x=-740.17, y=65.04, z=-111.69] died, message: 'Villager was squished too much'
-[02:17:01] [Server thread/INFO]: Villager EntityVillager['Villager'/4710, l='ServerLevel[world]', x=-740.10, y=65.05, z=-111.61] died, message: 'Villager was squished too much'
-[02:18:37] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67059, l='ServerLevel[world]', x=-736.04, y=63.88, z=-120.08] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:41] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67058, l='ServerLevel[world]', x=-733.30, y=63.00, z=-111.67] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:43] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67062, l='ServerLevel[world]', x=-730.84, y=63.00, z=-109.79] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:43] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67064, l='ServerLevel[world]', x=-731.05, y=63.00, z=-110.63] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:44] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67063, l='ServerLevel[world]', x=-731.08, y=63.00, z=-109.78] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:45] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67050, l='ServerLevel[world]', x=-731.80, y=63.00, z=-108.88] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:46] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67060, l='ServerLevel[world]', x=-731.65, y=63.00, z=-105.40] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:46] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67057, l='ServerLevel[world]', x=-731.57, y=63.00, z=-106.21] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:52] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67049, l='ServerLevel[world]', x=-727.50, y=63.00, z=-107.09] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:54] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67052, l='ServerLevel[world]', x=-726.45, y=63.00, z=-110.31] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:55] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67053, l='ServerLevel[world]', x=-726.50, y=62.77, z=-110.55] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:57] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67054, l='ServerLevel[world]', x=-727.53, y=63.00, z=-110.46] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:59] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67065, l='ServerLevel[world]', x=-726.73, y=62.00, z=-111.64] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:18:59] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67056, l='ServerLevel[world]', x=-727.68, y=62.00, z=-111.74] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:19:02] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67066, l='ServerLevel[world]', x=-727.70, y=63.47, z=-111.34] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:19:03] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67123, l='ServerLevel[world]', x=-729.10, y=63.00, z=-112.67] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:19:05] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67166, l='ServerLevel[world]', x=-728.57, y=63.00, z=-106.71] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:19:45] [Server thread/INFO]: Named entity EntityZombie['Zombie'/67262, l='ServerLevel[world]', x=-731.06, y=63.00, z=-101.67] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:30:11] [Server thread/INFO]: Villager EntityVillager['Villager'/40049, l='ServerLevel[world]', x=-740.21, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
-[02:36:22] [Server thread/INFO]: Named entity EntityPhantom['Phantom'/71366, l='ServerLevel[world]', x=-765.24, y=73.37, z=-110.78] died: Phantom was slain by suberboy45ds using [Don's Knife #1]
-[02:36:33] [Server thread/INFO]: Named entity EntityPhantom['Phantom'/71367, l='ServerLevel[world]', x=-762.86, y=74.02, z=-108.78] died: Phantom was slain by suberboy45ds using [Don's Knife #1]
-[02:36:56] [Server thread/INFO]: Named entity EntityPhantom['Phantom'/71368, l='ServerLevel[world]', x=-760.99, y=79.78, z=-117.68] died: Phantom was shot by suberboy45ds using [Don´s Glock]
-[02:51:06] [Server thread/INFO]: Villager EntityVillager['Villager'/41174, l='ServerLevel[world]', x=-740.19, y=65.04, z=-111.64] died, message: 'Villager was squished too much'
-[02:53:21] [Server thread/INFO]: Villager EntityVillager['Villager'/31830, l='ServerLevel[world]', x=-740.15, y=65.03, z=-111.67] died, message: 'Villager was squished too much'
-[03:01:04] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/77691, l='ServerLevel[world]', x=-751.40, y=63.00, z=-116.33] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
-[03:02:33] [Server thread/INFO]: Named entity EntityPhantom['Phantom'/77907, l='ServerLevel[world]', x=-742.35, y=69.10, z=-126.43] died: Phantom was shot by suberboy45ds using [Don´s Glock]
-[03:03:19] [Server thread/INFO]: Villager EntityVillager['Villager'/45140, l='ServerLevel[world]', x=-740.12, y=65.04, z=-111.69] died, message: 'Villager was squished too much'
-[03:04:04] [Server thread/INFO]: Named entity EntityDrowned['Drowned'/77881, l='ServerLevel[world]', x=-735.43, y=60.15, z=-127.69] died: Drowned was slain by suberboy45ds using [Don's Knife #1]
-[03:05:30] [Server thread/INFO]: suberboy45ds lost connection: Disconnected
-[03:05:30] [Server thread/INFO]: suberboy45ds left the game
-[03:05:40] [Server thread/INFO]: Stopping the server
-[03:05:40] [Server thread/INFO]: Stopping server
-[03:05:40] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
-[03:05:40] [Server thread/INFO]: [KeepDeathDrop] Disabled!
-[03:05:40] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
-[03:05:40] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
-[03:05:40] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
-[03:05:40] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
-[03:05:40] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
-[03:05:40] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[03:05:40] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[03:05:40] [Server thread/INFO]: Saving players
-[03:05:40] [Server thread/INFO]: Saving worlds
-[03:05:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:05:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:05:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:05:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:05:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:05:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:05:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:08:23] [Server thread/INFO]: Villager EntityVillager['Farmer'/215, l='ServerLevel[world]', x=-751.24, y=61.00, z=-180.49] died, message: 'Farmer suffocated in a wall'
+[00:08:39] [Server thread/INFO]: Villager EntityVillager['Farmer'/212, l='ServerLevel[world]', x=-751.30, y=61.00, z=-182.70] died, message: 'Farmer was shot by PILLERN using [BITCH NIGGA]'
+[00:08:39] [Server thread/INFO]: Named entity EntityVillager['Farmer'/212, l='ServerLevel[world]', x=-751.30, y=61.00, z=-182.70] died: Farmer was shot by PILLERN using [BITCH NIGGA]
+[00:11:30] [Server thread/INFO]: Villager EntityVillager['Farmer'/214, l='ServerLevel[world]', x=-746.51, y=63.06, z=-126.50] died, message: 'Farmer was slain by suberboy45ds using [Don´s Axe Body Spray]'
+[00:11:30] [Server thread/INFO]: Named entity EntityVillager['Farmer'/214, l='ServerLevel[world]', x=-746.51, y=63.06, z=-126.50] died: Farmer was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:18:07] [Server thread/INFO]: Villager EntityVillager['Farmer'/221, l='ServerLevel[world]', x=-745.79, y=63.00, z=-126.55] died, message: 'Farmer was slain by suberboy45ds using [Don´s Axe Body Spray]'
+[00:18:07] [Server thread/INFO]: Named entity EntityVillager['Farmer'/221, l='ServerLevel[world]', x=-745.79, y=63.00, z=-126.55] died: Farmer was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:18:40] [Server thread/INFO]: Villager EntityVillager['Farmer'/218, l='ServerLevel[world]', x=-746.70, y=63.00, z=-126.70] died, message: 'Farmer was slain by suberboy45ds using [Don´s Axe Body Spray]'
+[00:18:40] [Server thread/INFO]: Named entity EntityVillager['Farmer'/218, l='ServerLevel[world]', x=-746.70, y=63.00, z=-126.70] died: Farmer was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:36:20] [Server thread/INFO]: Named entity EntityZombie['Zombie'/16711, l='ServerLevel[world]', x=-742.51, y=63.00, z=-120.09] died: Zombie was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:36:23] [Server thread/INFO]: Named entity EntityZombie['Zombie'/16709, l='ServerLevel[world]', x=-742.70, y=63.93, z=-119.10] died: Zombie was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:36:26] [Server thread/INFO]: Named entity EntityZombie['Zombie'/16710, l='ServerLevel[world]', x=-740.55, y=61.00, z=-118.30] died: Zombie was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:36:30] [Server thread/INFO]: Named entity EntityZombie['Zombie'/16708, l='ServerLevel[world]', x=-737.25, y=64.00, z=-120.50] died: Zombie was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:39:09] [Server thread/INFO]: Villager EntityVillager['Farmer'/5420, l='ServerLevel[world]', x=-751.30, y=60.54, z=-172.70] died, message: 'Farmer was slain by Bende #2'
+[00:39:09] [Server thread/INFO]: Named entity EntityVillager['Farmer'/5420, l='ServerLevel[world]', x=-751.30, y=60.54, z=-172.70] died: Farmer was slain by Bende #2
+[00:40:50] [Server thread/INFO]: Villager EntityVillager['Farmer'/223, l='ServerLevel[world]', x=-751.30, y=60.00, z=-174.50] died, message: 'Farmer was slain by Bende #2'
+[00:49:41] [Server thread/INFO]: Villager EntityVillager['Villager'/6821, l='ServerLevel[world]', x=-740.50, y=63.00, z=-118.15] died, message: 'Villager was slain by suberboy45ds using [Don´s Axe Body Spray]'
+[00:49:41] [Server thread/INFO]: Named entity EntityVillager['Villager'/6821, l='ServerLevel[world]', x=-740.50, y=63.00, z=-118.15] died: Villager was slain by suberboy45ds using [Don´s Axe Body Spray]
+[01:03:21] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/72, l='ServerLevel[world_nether]', x=-66.76, y=128.00, z=-16.27] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:04:46] [Server thread/INFO]: PILLERN lost connection: Disconnected
+[01:04:46] [Server thread/INFO]: PILLERN left the game
+[01:11:24] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/25295, l='ServerLevel[world_nether]', x=-77.24, y=68.25, z=-344.50] died: Piglin was slain by suberboy45ds using [Don's Knife #1]
+[01:11:27] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/25474, l='ServerLevel[world_nether]', x=-75.95, y=68.00, z=-344.55] died: Piglin was slain by suberboy45ds using [Don's Knife #1]
+[01:14:33] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/26069, l='ServerLevel[world_nether]', x=-87.01, y=59.00, z=-410.45] died: Piglin was slain by suberboy45ds using [Don's Knife #1]
+[01:18:16] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/27112, l='ServerLevel[world_nether]', x=-93.79, y=51.00, z=-387.23] died: Enderman was slain by suberboy45ds using [Don's Knife #1]
+[01:18:28] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/27105, l='ServerLevel[world_nether]', x=-80.30, y=53.00, z=-395.30] died: Piglin was slain by suberboy45ds using [Don's Knife #1]
+[01:19:50] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/27419, l='ServerLevel[world_nether]', x=-74.81, y=68.00, z=-351.53] died: Piglin was slain by suberboy45ds using [Don's Knife #1]
+[01:20:52] [Server thread/INFO]: Named entity EntityPiglin['Piglin'/27459, l='ServerLevel[world_nether]', x=-58.02, y=41.00, z=-283.28] died: Piglin was slain by suberboy45ds using [Don's Knife #1]
+[01:26:29] [Server thread/INFO]: Named entity EntityGhast['Ghast'/29579, l='ServerLevel[world_nether]', x=-73.10, y=83.67, z=-212.34] died: Ghast was fireballed by suberboy45ds using [Don's Knife #1]
+[01:27:05] [Server thread/INFO]: Named entity EntityGhast['Ghast'/29723, l='ServerLevel[world_nether]', x=-76.41, y=46.39, z=-306.87] died: Ghast was fireballed by suberboy45ds using [Don's Knife #1]
+[01:28:32] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/29986, l='ServerLevel[world_nether]', x=-132.06, y=43.00, z=-206.33] died: Skeleton was slain by suberboy45ds using [Don´s Axe Body Spray]
+[01:29:03] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/30181, l='ServerLevel[world_nether]', x=-164.46, y=62.00, z=-157.80] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:29:05] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/30180, l='ServerLevel[world_nether]', x=-164.59, y=62.77, z=-157.95] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:29:10] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/30118, l='ServerLevel[world_nether]', x=-166.37, y=62.00, z=-147.91] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:29:19] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/30117, l='ServerLevel[world_nether]', x=-165.29, y=62.00, z=-131.61] died: Blaze was slain by suberboy45ds using [Don's Knife #1]
+[01:29:20] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/30115, l='ServerLevel[world_nether]', x=-166.70, y=64.20, z=-124.47] died: Blaze was slain by suberboy45ds using [Don's Knife #1]
+[01:29:50] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/30326, l='ServerLevel[world_nether]', x=-165.28, y=68.00, z=-102.31] died: Blaze was slain by suberboy45ds using [Don's Knife #1]
+[01:31:34] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/30444, l='ServerLevel[world_nether]', x=-280.29, y=53.00, z=-81.69] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:31:37] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/30445, l='ServerLevel[world_nether]', x=-279.86, y=53.00, z=-81.63] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:32:06] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/30644, l='ServerLevel[world_nether]', x=-179.86, y=52.00, z=-128.37] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:33:16] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/30802, l='ServerLevel[world_nether]', x=-188.47, y=53.00, z=-113.00] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:33:23] [Server thread/INFO]: Named entity EntitySkeleton['??????????'/30462, l='ServerLevel[world_nether]', x=-188.61, y=53.00, z=-151.89] died: ?????????? was burned to a crisp while fighting suberboy45ds
+[01:33:25] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/30789, l='ServerLevel[world_nether]', x=-189.40, y=53.00, z=-148.46] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:33:25] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/30788, l='ServerLevel[world_nether]', x=-189.35, y=53.00, z=-149.35] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:35:06] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/31101, l='ServerLevel[world_nether]', x=-210.78, y=72.20, z=-9.30] died: Blaze was slain by suberboy45ds using [Don's Knife #1]
+[02:11:34] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/43126, l='ServerLevel[world_nether]', x=-143.27, y=71.00, z=-10.51] died: Zombified Piglin was slain by suberboy45ds using [Don's Knife #1]
+[02:12:38] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/43203, l='ServerLevel[world_nether]', x=-184.79, y=63.57, z=-66.66] died: Blaze was slain by suberboy45ds using [Don's Knife #1]
+[02:12:43] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/43205, l='ServerLevel[world_nether]', x=-182.41, y=63.12, z=-72.70] died: Blaze was slain by suberboy45ds using [Don´s Axe Body Spray]
+[02:12:45] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/43202, l='ServerLevel[world_nether]', x=-179.60, y=61.14, z=-70.48] died: Blaze was slain by suberboy45ds using [Don´s Axe Body Spray]
+[02:12:49] [Server thread/INFO]: Named entity EntityBlaze['Blaze'/43204, l='ServerLevel[world_nether]', x=-167.84, y=61.00, z=-68.27] died: Blaze was slain by suberboy45ds using [Don´s Axe Body Spray]
+[02:13:27] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/43533, l='ServerLevel[world_nether]', x=-267.09, y=53.00, z=-82.64] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[02:13:30] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/43534, l='ServerLevel[world_nether]', x=-266.54, y=53.00, z=-81.86] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[02:15:13] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton'/43879, l='ServerLevel[world_nether]', x=-260.26, y=53.00, z=-80.24] died: Wither Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[02:15:44] [Server thread/INFO]: Named entity EntityPigZombie['Zombified Piglin'/44092, l='ServerLevel[world_nether]', x=-174.30, y=53.00, z=-134.19] died: Zombified Piglin was slain by suberboy45ds using [Don's Knife #1]
+[02:16:43] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/44186, l='ServerLevel[world_nether]', x=-193.90, y=61.00, z=-42.70] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[02:27:41] [Server thread/INFO]: Villager EntityVillager['Farmer'/44787, l='ServerLevel[world]', x=-751.30, y=60.00, z=-180.50] died, message: 'Farmer was slain by Bende #2'
+[02:28:00] [Server thread/INFO]: Villager EntityVillager['Farmer'/44789, l='ServerLevel[world]', x=-751.30, y=60.00, z=-176.50] died, message: 'Farmer was slain by Bende #2'
+[02:28:25] [Server thread/INFO]: Villager EntityVillager['Farmer'/44788, l='ServerLevel[world]', x=-751.30, y=60.00, z=-178.50] died, message: 'Farmer was slain by Bende #2'
+[02:29:25] [Server thread/INFO]: Villager EntityVillager['Farmer'/44785, l='ServerLevel[world]', x=-751.30, y=60.00, z=-184.50] died, message: 'Farmer was slain by Bende #2'
+[02:29:39] [Server thread/INFO]: Villager EntityVillager['Farmer'/44786, l='ServerLevel[world]', x=-751.30, y=60.00, z=-182.50] died, message: 'Farmer was slain by Bende #2'
+[02:30:09] [Server thread/INFO]: Villager EntityVillager['Farmer'/44784, l='ServerLevel[world]', x=-751.30, y=60.00, z=-186.50] died, message: 'Farmer was slain by Bende #2'
+[02:30:51] [Server thread/INFO]: Villager EntityVillager['Farmer'/44782, l='ServerLevel[world]', x=-751.30, y=60.00, z=-188.50] died, message: 'Farmer was slain by Bende #2'
+[02:31:21] [Server thread/INFO]: Villager EntityVillager['Farmer'/44783, l='ServerLevel[world]', x=-751.30, y=60.00, z=-190.50] died, message: 'Farmer was slain by Bende #2'
+[02:33:11] [Server thread/INFO]: Named entity EntityZombie['Zombie'/48693, l='ServerLevel[world]', x=-749.82, y=64.00, z=-132.84] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:55:39] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/54568, l='ServerLevel[world]', x=-767.54, y=60.00, z=-180.97] died: Enderman was slain by suberboy45ds using [Don's Knife #1]
+[03:02:43] [Server thread/INFO]: suberboy45ds lost connection: Disconnected
+[03:02:43] [Server thread/INFO]: suberboy45ds left the game
+[03:02:50] [Server thread/INFO]: Stopping the server
+[03:02:50] [Server thread/INFO]: Stopping server
+[03:02:50] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
+[03:02:50] [Server thread/INFO]: [KeepDeathDrop] Disabled!
+[03:02:50] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
+[03:02:50] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[03:02:50] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
+[03:02:50] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
+[03:02:50] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
+[03:02:50] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[03:02:50] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[03:02:50] [Server thread/INFO]: Saving players
+[03:02:50] [Server thread/INFO]: Saving worlds
+[03:02:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:02:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:02:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
