@@ -7,29 +7,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2024-03-16 01:16:10 +0100",
-      "minecraft:beach": "2024-03-16 01:23:49 +0100",
+      "minecraft:cold_ocean": "2024-03-26 22:43:43 +0100",
       "minecraft:old_growth_pine_taiga": "2024-03-16 01:24:53 +0100",
-      "minecraft:dark_forest": "2024-03-16 01:24:01 +0100",
       "minecraft:forest": "2024-03-15 17:09:58 +0100",
       "minecraft:taiga": "2024-03-15 16:54:30 +0100",
-      "minecraft:river": "2024-03-15 17:51:06 +0100",
-      "minecraft:snowy_plains": "2024-03-15 17:02:54 +0100",
       "minecraft:lush_caves": "2024-03-16 22:09:53 +0100",
-      "minecraft:snowy_taiga": "2024-03-15 16:59:22 +0100",
-      "minecraft:dripstone_caves": "2024-03-15 18:24:17 +0100",
-      "minecraft:old_growth_birch_forest": "2024-03-20 21:08:27 +0100",
       "minecraft:frozen_ocean": "2024-03-15 17:02:38 +0100",
       "minecraft:frozen_river": "2024-03-15 16:55:16 +0100",
       "minecraft:windswept_forest": "2024-03-15 17:48:29 +0100",
-      "minecraft:deep_dark": "2024-03-20 20:18:49 +0100",
+      "minecraft:ocean": "2024-03-26 22:43:51 +0100",
       "minecraft:sunflower_plains": "2024-03-20 20:02:11 +0100",
-      "minecraft:swamp": "2024-03-16 23:52:20 +0100",
-      "minecraft:meadow": "2024-03-16 00:52:35 +0100",
       "minecraft:birch_forest": "2024-03-16 01:23:40 +0100",
-      "minecraft:windswept_gravelly_hills": "2024-03-15 17:03:02 +0100",
       "minecraft:old_growth_spruce_taiga": "2024-03-16 01:24:10 +0100",
       "minecraft:snowy_beach": "2024-03-15 16:59:48 +0100",
+      "minecraft:flower_forest": "2024-03-16 01:16:10 +0100",
+      "minecraft:beach": "2024-03-16 01:23:49 +0100",
+      "minecraft:dark_forest": "2024-03-16 01:24:01 +0100",
+      "minecraft:river": "2024-03-15 17:51:06 +0100",
+      "minecraft:snowy_plains": "2024-03-15 17:02:54 +0100",
+      "minecraft:snowy_taiga": "2024-03-15 16:59:22 +0100",
+      "minecraft:dripstone_caves": "2024-03-15 18:24:17 +0100",
+      "minecraft:old_growth_birch_forest": "2024-03-20 21:08:27 +0100",
+      "minecraft:deep_dark": "2024-03-20 20:18:49 +0100",
+      "minecraft:swamp": "2024-03-16 23:52:20 +0100",
+      "minecraft:meadow": "2024-03-16 00:52:35 +0100",
+      "minecraft:windswept_gravelly_hills": "2024-03-15 17:03:02 +0100",
       "minecraft:plains": "2024-03-15 17:03:07 +0100"
     },
     "done": false
@@ -3873,6 +3875,174 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-03-26 14:43:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-26 22:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-03-26 22:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-26 22:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-26 22:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-03-26 22:44:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-03-26 22:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-03-26 22:56:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-03-26 23:03:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-03-26 23:28:09 +0100"
     },
     "done": true
   },
