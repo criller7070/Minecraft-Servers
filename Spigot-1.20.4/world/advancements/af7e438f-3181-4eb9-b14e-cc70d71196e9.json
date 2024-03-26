@@ -682,7 +682,8 @@
       "minecraft:zombie": "2024-03-15 18:50:16 +0100",
       "minecraft:creeper": "2024-03-15 18:49:09 +0100",
       "minecraft:drowned": "2024-03-16 00:07:27 +0100",
-      "minecraft:zombie_villager": "2024-03-17 02:01:07 +0100"
+      "minecraft:zombie_villager": "2024-03-17 02:01:07 +0100",
+      "minecraft:slime": "2024-03-26 14:43:51 +0100"
     },
     "done": false
   },
@@ -3761,6 +3762,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-03-25 21:21:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-03-25 21:21:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-03-25 21:21:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2024-03-25 21:21:26 +0100"
@@ -3776,12 +3795,6 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2024-03-25 21:21:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2024-03-25 21:21:21 +0100"
     },
     "done": true
   },
@@ -3803,15 +3816,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
-      "has_brick": "2024-03-25 21:21:21 +0100"
+      "has_needed_dye": "2024-03-26 14:09:05 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
+  "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
-      "has_brick": "2024-03-25 21:21:21 +0100"
+      "has_needed_dye": "2024-03-26 14:09:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-03-26 14:09:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-03-26 14:09:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-03-26 14:09:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-03-26 14:09:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-26 14:09:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-03-26 14:43:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-03-26 14:43:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-03-26 14:43:57 +0100"
     },
     "done": true
   },
