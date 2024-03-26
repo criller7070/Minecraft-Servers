@@ -1,194 +1,148 @@
-[00:00:56] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/3341, l='ServerLevel[world_the_end]', x=45.30, y=60.00, z=3.30] died: Enderman was slain by suberboy45ds
-[00:01:03] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/11402, l='ServerLevel[world_the_end]', x=22.76, y=61.00, z=10.35] died: Enderman was slain by suberboy45ds
-[00:01:39] [Server thread/INFO]: suberboy45ds has made the advancement [Remote Getaway]
-[00:02:31] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/11568, l='ServerLevel[world_the_end]', x=-588.61, y=66.00, z=-898.45] died: Enderman was slain by suberboy45ds
-[00:02:37] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/11509, l='ServerLevel[world_the_end]', x=-587.95, y=66.00, z=-899.52] died: Enderman was slain by suberboy45ds
-[00:04:17] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/11792, l='ServerLevel[world_the_end]', x=-303.38, y=60.30, z=-1016.10] died: Enderman was slain by suberboy45ds
-[00:04:52] [Server thread/INFO]: suberboy45ds has made the advancement [The City at the End of the Game]
-[00:04:57] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11544, l='ServerLevel[world_the_end]', x=-270.50, y=63.00, z=-1201.50] died: Shulker was slain by suberboy45ds
-[00:05:14] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11543, l='ServerLevel[world_the_end]', x=-264.50, y=63.00, z=-1197.50] died: Shulker was slain by suberboy45ds
-[00:06:21] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11537, l='ServerLevel[world_the_end]', x=-264.50, y=91.00, z=-1195.50] died: Shulker was slain by suberboy45ds
-[00:06:40] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11541, l='ServerLevel[world_the_end]', x=-268.50, y=103.00, z=-1191.50] died: Shulker was slain by suberboy45ds
-[00:06:45] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11540, l='ServerLevel[world_the_end]', x=-268.50, y=106.00, z=-1191.50] died: Shulker was slain by suberboy45ds
-[00:07:32] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11538, l='ServerLevel[world_the_end]', x=-268.50, y=95.00, z=-1191.50] died: Shulker was slain by suberboy45ds
-[00:07:37] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11542, l='ServerLevel[world_the_end]', x=-265.50, y=100.00, z=-1193.50] died: Shulker was slain by suberboy45ds
-[00:07:42] [Server thread/INFO]: Named entity EntityShulker['Shulker'/12169, l='ServerLevel[world_the_end]', x=-272.50, y=99.00, z=-1195.50] died: Shulker was slain by suberboy45ds
-[00:07:59] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11539, l='ServerLevel[world_the_end]', x=-271.50, y=90.00, z=-1198.50] died: Shulker was slain by suberboy45ds
-[00:09:00] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11535, l='ServerLevel[world_the_end]', x=-265.50, y=106.00, z=-1199.50] died: Shulker was slain by suberboy45ds
-[00:09:30] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11574, l='ServerLevel[world_the_end]', x=-195.50, y=104.00, z=-1197.50] died: Shulker was slain by suberboy45ds
-[00:09:41] [Server thread/INFO]: suberboy45ds has reached the goal [Sky's the Limit]
-[00:09:57] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11560, l='ServerLevel[world_the_end]', x=-214.50, y=111.00, z=-1199.50] died: Shulker was shot by suberboy45ds
-[00:11:11] [Server thread/INFO]: Named entity EntityShulker['Shulker'/11559, l='ServerLevel[world_the_end]', x=-214.50, y=106.00, z=-1195.50] died: Shulker was slain by suberboy45ds
-[00:11:44] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/12441, l='ServerLevel[world_the_end]', x=-255.39, y=62.00, z=-1182.36] died: Enderman was slain by suberboy45ds
-[00:14:36] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13663, l='ServerLevel[world_the_end]', x=-625.50, y=62.00, z=-3477.50] died: Shulker was slain by suberboy45ds
-[00:15:38] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13668, l='ServerLevel[world_the_end]', x=-602.50, y=82.00, z=-3476.50] died: Shulker was slain by suberboy45ds
-[00:15:45] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13669, l='ServerLevel[world_the_end]', x=-598.50, y=85.00, z=-3475.50] died: Shulker was slain by suberboy45ds
-[00:15:53] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13667, l='ServerLevel[world_the_end]', x=-594.50, y=88.00, z=-3475.50] died: Shulker was slain by suberboy45ds
-[00:16:01] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13670, l='ServerLevel[world_the_end]', x=-593.50, y=89.00, z=-3482.50] died: Shulker was slain by suberboy45ds
-[00:16:11] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13671, l='ServerLevel[world_the_end]', x=-593.50, y=89.00, z=-3473.50] died: Shulker was slain by suberboy45ds
-[00:17:05] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13662, l='ServerLevel[world_the_end]', x=-619.50, y=87.00, z=-3477.50] died: Shulker was slain by suberboy45ds
-[00:18:07] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13672, l='ServerLevel[world_the_end]', x=-596.50, y=110.00, z=-3483.50] died: Shulker was slain by suberboy45ds
-[00:18:11] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13675, l='ServerLevel[world_the_end]', x=-600.50, y=114.00, z=-3479.50] died: Shulker was slain by suberboy45ds
-[00:18:44] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13676, l='ServerLevel[world_the_end]', x=-596.50, y=112.00, z=-3485.50] died: Shulker was slain by suberboy45ds
-[00:19:11] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13674, l='ServerLevel[world_the_end]', x=-596.50, y=109.00, z=-3485.50] died: Shulker was slain by suberboy45ds
-[00:19:45] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13681, l='ServerLevel[world_the_end]', x=-596.50, y=126.00, z=-3475.50] died: Shulker was slain by suberboy45ds
-[00:19:51] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13682, l='ServerLevel[world_the_end]', x=-592.50, y=130.00, z=-3479.50] died: Shulker was slain by suberboy45ds
-[00:20:24] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13679, l='ServerLevel[world_the_end]', x=-595.50, y=122.00, z=-3483.50] died: Shulker was slain by suberboy45ds
-[00:22:19] [Server thread/INFO]: Named entity EntityShulker['Shulker'/14574, l='ServerLevel[world_the_end]', x=-592.50, y=122.00, z=-3479.50] died: Shulker was slain by suberboy45ds
-[00:22:39] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13677, l='ServerLevel[world_the_end]', x=-592.50, y=114.00, z=-3475.50] died: Shulker was slain by Shulker
-[00:22:43] [Server thread/INFO]: Named entity EntityShulker['Shulker'/14805, l='ServerLevel[world_the_end]', x=-594.50, y=131.00, z=-3478.50] died: Shulker was slain by suberboy45ds
-[00:22:55] [Server thread/INFO]: Named entity EntityShulker['Shulker'/14619, l='ServerLevel[world_the_end]', x=-597.50, y=134.00, z=-3474.50] died: Shulker was slain by suberboy45ds
-[00:23:16] [Server thread/INFO]: Named entity EntityShulker['Shulker'/14546, l='ServerLevel[world_the_end]', x=-593.50, y=116.00, z=-3482.50] died: Shulker was slain by suberboy45ds
-[00:23:35] [Server thread/INFO]: Named entity EntityShulker['Shulker'/14766, l='ServerLevel[world_the_end]', x=-583.50, y=119.00, z=-3478.50] died: Shulker was slain by suberboy45ds
-[00:23:59] [Server thread/INFO]: Named entity EntityShulker['Shulker'/14777, l='ServerLevel[world_the_end]', x=-585.50, y=118.00, z=-3478.50] died: Shulker was slain by suberboy45ds
-[00:24:37] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13680, l='ServerLevel[world_the_end]', x=-604.50, y=117.00, z=-3478.50] died: Shulker was slain by suberboy45ds
-[00:24:51] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13685, l='ServerLevel[world_the_end]', x=-572.50, y=134.00, z=-3478.50] died: Shulker was slain by suberboy45ds
-[00:24:56] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13684, l='ServerLevel[world_the_end]', x=-568.50, y=139.00, z=-3481.50] died: Shulker was slain by suberboy45ds
-[00:25:00] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13686, l='ServerLevel[world_the_end]', x=-568.50, y=137.00, z=-3477.50] died: Shulker was slain by suberboy45ds
-[00:25:44] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13666, l='ServerLevel[world_the_end]', x=-624.50, y=130.00, z=-3480.50] died: Shulker was slain by suberboy45ds
-[00:26:02] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13665, l='ServerLevel[world_the_end]', x=-630.50, y=133.00, z=-3481.50] died: Shulker was slain by suberboy45ds
-[00:27:11] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13831, l='ServerLevel[world_the_end]', x=-525.50, y=123.00, z=-3478.50] died: Shulker was slain by suberboy45ds
-[00:29:13] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13660, l='ServerLevel[world_the_end]', x=-537.50, y=129.00, z=-3476.50] died: Shulker was slain by suberboy45ds
-[00:29:21] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13661, l='ServerLevel[world_the_end]', x=-540.50, y=127.00, z=-3473.50] died: Shulker was slain by Shulker
-[00:29:47] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15485, l='ServerLevel[world_the_end]', x=-544.50, y=125.00, z=-3476.50] died: Shulker was slain by suberboy45ds
-[00:30:38] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15746, l='ServerLevel[world_the_end]', x=-321.50, y=62.00, z=-3109.50] died: Shulker was slain by suberboy45ds
-[00:31:28] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13896, l='ServerLevel[world_the_end]', x=-323.50, y=61.00, z=-3110.50] died: Shulker was slain by suberboy45ds
-[00:31:56] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15751, l='ServerLevel[world_the_end]', x=-316.50, y=63.00, z=-3103.50] died: Shulker was slain by suberboy45ds
-[00:32:15] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13897, l='ServerLevel[world_the_end]', x=-320.50, y=71.00, z=-3101.50] died: Shulker was slain by Shulker
-[00:33:08] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13904, l='ServerLevel[world_the_end]', x=-316.50, y=95.00, z=-3109.50] died: Shulker was slain by suberboy45ds
-[00:33:27] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13910, l='ServerLevel[world_the_end]', x=-291.50, y=94.00, z=-3108.50] died: Shulker was slain by suberboy45ds
-[00:34:28] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/15912, l='ServerLevel[world_the_end]', x=-298.08, y=63.00, z=-3102.96] died: Enderman was slain by suberboy45ds
-[00:34:42] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/15913, l='ServerLevel[world_the_end]', x=-296.46, y=63.00, z=-3118.69] died: Enderman was slain by suberboy45ds
-[00:34:47] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/15925, l='ServerLevel[world_the_end]', x=-278.92, y=61.00, z=-3117.91] died: Enderman was slain by suberboy45ds
-[00:35:09] [Server thread/INFO]: Named entity EntityShulker['Shulker'/13909, l='ServerLevel[world_the_end]', x=-293.50, y=91.00, z=-3111.50] died: Shulker was slain by suberboy45ds
-[00:36:19] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15636, l='ServerLevel[world_the_end]', x=52.50, y=62.00, z=-3169.50] died: Shulker was slain by suberboy45ds
-[00:36:23] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15637, l='ServerLevel[world_the_end]', x=49.50, y=62.00, z=-3169.50] died: Shulker was slain by suberboy45ds
-[00:36:27] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/16117, l='ServerLevel[world_the_end]', x=50.43, y=61.00, z=-3168.39] died: Enderman was slain by suberboy45ds
-[00:37:04] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15640, l='ServerLevel[world_the_end]', x=54.50, y=85.00, z=-3180.50] died: Shulker was slain by suberboy45ds
-[00:37:30] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15641, l='ServerLevel[world_the_end]', x=52.50, y=111.00, z=-3180.50] died: Shulker was slain by suberboy45ds
-[00:38:02] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15584, l='ServerLevel[world_the_end]', x=31.50, y=82.00, z=-3164.50] died: Shulker was slain by suberboy45ds
-[00:38:10] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15585, l='ServerLevel[world_the_end]', x=27.50, y=85.00, z=-3165.50] died: Shulker was slain by suberboy45ds
-[00:38:28] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15583, l='ServerLevel[world_the_end]', x=25.50, y=83.00, z=-3165.50] died: Shulker was slain by suberboy45ds
-[00:39:06] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15587, l='ServerLevel[world_the_end]', x=27.50, y=106.00, z=-3167.50] died: Shulker was slain by suberboy45ds
-[00:39:12] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15588, l='ServerLevel[world_the_end]', x=23.50, y=110.00, z=-3163.50] died: Shulker was slain by suberboy45ds
-[00:39:21] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15592, l='ServerLevel[world_the_end]', x=26.50, y=123.00, z=-3159.50] died: Shulker was shot by suberboy45ds
-[00:40:00] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15590, l='ServerLevel[world_the_end]', x=24.50, y=120.00, z=-3161.50] died: Shulker was slain by suberboy45ds
-[00:40:06] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15586, l='ServerLevel[world_the_end]', x=27.50, y=106.00, z=-3159.50] died: Shulker was slain by suberboy45ds
-[00:40:13] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15589, l='ServerLevel[world_the_end]', x=31.50, y=110.00, z=-3163.50] died: Shulker was slain by suberboy45ds
-[00:40:28] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15593, l='ServerLevel[world_the_end]', x=31.50, y=123.00, z=-3167.50] died: Shulker was slain by suberboy45ds
-[00:40:39] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15591, l='ServerLevel[world_the_end]', x=27.50, y=120.00, z=-3162.50] died: Shulker was slain by suberboy45ds
-[00:42:17] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15595, l='ServerLevel[world_the_end]', x=26.50, y=118.00, z=-3143.50] died: Shulker was slain by suberboy45ds
-[00:42:27] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15596, l='ServerLevel[world_the_end]', x=25.50, y=121.00, z=-3139.50] died: Shulker was slain by suberboy45ds
-[00:42:34] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15604, l='ServerLevel[world_the_end]', x=32.50, y=125.00, z=-3134.50] died: Shulker was slain by suberboy45ds
-[00:42:45] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15598, l='ServerLevel[world_the_end]', x=23.50, y=125.00, z=-3134.50] died: Shulker was slain by suberboy45ds
-[00:43:37] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15597, l='ServerLevel[world_the_end]', x=29.50, y=143.00, z=-3137.50] died: Shulker was slain by suberboy45ds
-[00:44:21] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15581, l='ServerLevel[world_the_end]', x=27.50, y=101.00, z=-3182.50] died: Shulker was slain by suberboy45ds
-[00:44:35] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15579, l='ServerLevel[world_the_end]', x=24.50, y=100.00, z=-3180.50] died: Shulker was slain by suberboy45ds
-[00:44:42] [Server thread/INFO]: Named entity EntityShulker['Shulker'/16356, l='ServerLevel[world_the_end]', x=29.50, y=101.00, z=-3174.50] died: Shulker was slain by Shulker
-[00:44:59] [Server thread/INFO]: Named entity EntityShulker['Shulker'/16812, l='ServerLevel[world_the_end]', x=27.50, y=105.00, z=-3181.50] died: Shulker was slain by suberboy45ds
-[00:45:54] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15582, l='ServerLevel[world_the_end]', x=27.50, y=127.00, z=-3180.50] died: Shulker was slain by suberboy45ds
-[00:47:39] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15667, l='ServerLevel[world_the_end]', x=116.50, y=83.00, z=-3166.50] died: Shulker was slain by suberboy45ds
-[00:48:08] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15661, l='ServerLevel[world_the_end]', x=97.50, y=90.00, z=-3168.50] died: Shulker was slain by suberboy45ds
-[00:48:46] [Server thread/INFO]: Named entity EntityShulker['Shulker'/17078, l='ServerLevel[world_the_end]', x=97.50, y=85.00, z=-3164.50] died: Shulker was slain by suberboy45ds
-[00:48:54] [Server thread/INFO]: Named entity EntityShulker['Shulker'/15660, l='ServerLevel[world_the_end]', x=102.50, y=87.00, z=-3161.50] died: Shulker was slain by suberboy45ds
-[01:00:35] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/20352, l='ServerLevel[world_the_end]', x=474.41, y=63.00, z=-976.84] died: Enderman was slain by suberboy45ds
-[01:00:37] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/20353, l='ServerLevel[world_the_end]', x=472.81, y=62.00, z=-986.29] died: Enderman was slain by suberboy45ds
-[01:00:48] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/20350, l='ServerLevel[world_the_end]', x=493.73, y=61.00, z=-966.59] died: Enderman was slain by suberboy45ds
-[01:00:48] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/20349, l='ServerLevel[world_the_end]', x=491.38, y=61.00, z=-965.93] died: Enderman was slain by suberboy45ds
-[01:04:56] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/22228, l='ServerLevel[world_the_end]', x=-949.23, y=62.00, z=-1356.62] died: Enderman was slain by suberboy45ds
-[01:05:02] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/22221, l='ServerLevel[world_the_end]', x=-939.41, y=62.00, z=-1370.21] died: Enderman was slain by suberboy45ds
-[01:16:56] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25978, l='ServerLevel[world_the_end]', x=30.50, y=62.00, z=-5698.50] died: Shulker was slain by suberboy45ds
-[01:17:00] [Server thread/INFO]: Named entity EntityShulker['Shulker'/26315, l='ServerLevel[world_the_end]', x=30.50, y=62.00, z=-5701.50] died: Shulker was slain by suberboy45ds
-[01:17:15] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25977, l='ServerLevel[world_the_end]', x=29.50, y=61.00, z=-5695.50] died: Shulker was slain by suberboy45ds
-[01:17:44] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25980, l='ServerLevel[world_the_end]', x=61.50, y=82.00, z=-5699.50] died: Shulker was slain by suberboy45ds
-[01:17:54] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25983, l='ServerLevel[world_the_end]', x=65.50, y=85.00, z=-5698.50] died: Shulker was slain by Shulker
-[01:18:05] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25979, l='ServerLevel[world_the_end]', x=64.50, y=84.00, z=-5698.50] died: Shulker was slain by suberboy45ds
-[01:18:39] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25984, l='ServerLevel[world_the_end]', x=66.50, y=114.00, z=-5705.50] died: Shulker was slain by suberboy45ds
-[01:18:45] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25986, l='ServerLevel[world_the_end]', x=70.50, y=118.00, z=-5701.50] died: Shulker was slain by suberboy45ds
-[01:19:23] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25985, l='ServerLevel[world_the_end]', x=66.50, y=114.00, z=-5697.50] died: Shulker was slain by suberboy45ds
-[01:19:31] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25981, l='ServerLevel[world_the_end]', x=62.50, y=118.00, z=-5701.50] died: Shulker was slain by suberboy45ds
-[01:20:30] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25908, l='ServerLevel[world_the_end]', x=35.50, y=82.00, z=-5679.50] died: Shulker was slain by suberboy45ds
-[01:20:39] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25907, l='ServerLevel[world_the_end]', x=35.50, y=82.00, z=-5677.50] died: Shulker was slain by Shulker
-[01:21:00] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25911, l='ServerLevel[world_the_end]', x=32.50, y=89.00, z=-5670.50] died: Shulker was slain by suberboy45ds
-[01:21:52] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25909, l='ServerLevel[world_the_end]', x=32.50, y=87.00, z=-5681.50] died: Shulker was slain by Shulker
-[01:22:13] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25910, l='ServerLevel[world_the_end]', x=41.50, y=93.00, z=-5670.50] died: Shulker was slain by Shulker
-[01:23:33] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25912, l='ServerLevel[world_the_end]', x=42.50, y=118.00, z=-5673.50] died: Shulker was slain by suberboy45ds
-[01:24:20] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25913, l='ServerLevel[world_the_end]', x=34.50, y=118.00, z=-5673.50] died: Shulker was slain by suberboy45ds
-[01:24:34] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25914, l='ServerLevel[world_the_end]', x=38.50, y=122.00, z=-5669.50] died: Shulker was slain by suberboy45ds
-[01:24:46] [Server thread/INFO]: Named entity EntityShulker['Shulker'/25915, l='ServerLevel[world_the_end]', x=40.50, y=122.00, z=-5670.50] died: Shulker was slain by suberboy45ds
-[01:26:00] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/27400, l='ServerLevel[world_the_end]', x=-708.41, y=58.00, z=-5584.82] died: Enderman was slain by suberboy45ds
-[01:26:41] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/27487, l='ServerLevel[world_the_end]', x=-744.70, y=60.00, z=-5634.38] died: Enderman was slain by suberboy45ds
-[01:28:12] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27457, l='ServerLevel[world_the_end]', x=-1227.50, y=63.00, z=-5377.50] died: Shulker was slain by Shulker
-[01:28:29] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27458, l='ServerLevel[world_the_end]', x=-1230.50, y=63.00, z=-5377.50] died: Shulker was slain by suberboy45ds
-[01:29:05] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27459, l='ServerLevel[world_the_end]', x=-1228.50, y=92.00, z=-5372.50] died: Shulker was slain by suberboy45ds
-[01:30:13] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27430, l='ServerLevel[world_the_end]', x=-1195.50, y=91.00, z=-5371.50] died: Shulker was slain by suberboy45ds
-[01:31:20] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27429, l='ServerLevel[world_the_end]', x=-1194.50, y=88.00, z=-5372.50] died: Shulker was slain by suberboy45ds
-[01:31:58] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27454, l='ServerLevel[world_the_end]', x=-1227.50, y=87.00, z=-5401.50] died: Shulker was slain by suberboy45ds
-[01:32:07] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27455, l='ServerLevel[world_the_end]', x=-1226.50, y=90.00, z=-5405.50] died: Shulker was slain by suberboy45ds
-[01:32:17] [Server thread/INFO]: Named entity EntityEndermite['Endermite'/28331, l='ServerLevel[world_the_end]', x=-1231.03, y=86.00, z=-5407.44] died: Endermite was slain by suberboy45ds
-[01:33:31] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27453, l='ServerLevel[world_the_end]', x=-1229.50, y=81.00, z=-5397.50] died: Shulker was slain by suberboy45ds
-[01:34:20] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27456, l='ServerLevel[world_the_end]', x=-1229.50, y=116.00, z=-5406.50] died: Shulker was slain by suberboy45ds
-[01:34:40] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27439, l='ServerLevel[world_the_end]', x=-1204.50, y=107.00, z=-5405.50] died: Shulker was slain by suberboy45ds
-[01:34:52] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27440, l='ServerLevel[world_the_end]', x=-1200.50, y=110.00, z=-5404.50] died: Shulker was slain by suberboy45ds
-[01:35:11] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27438, l='ServerLevel[world_the_end]', x=-1198.50, y=106.00, z=-5407.50] died: Shulker was slain by suberboy45ds
-[01:35:38] [Server thread/INFO]: Named entity EntityShulker['Shulker'/27441, l='ServerLevel[world_the_end]', x=-1200.50, y=132.00, z=-5407.50] died: Shulker was slain by suberboy45ds
-[01:37:25] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/29068, l='ServerLevel[world_the_end]', x=-2044.16, y=59.00, z=-5478.59] died: Enderman was slain by suberboy45ds
-[01:37:32] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/29070, l='ServerLevel[world_the_end]', x=-2041.10, y=61.00, z=-5491.95] died: Enderman was slain by suberboy45ds
-[01:37:35] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/29088, l='ServerLevel[world_the_end]', x=-2036.99, y=62.00, z=-5501.50] died: Enderman was slain by suberboy45ds
-[01:38:24] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28883, l='ServerLevel[world_the_end]', x=-2159.50, y=66.00, z=-5659.50] died: Shulker was slain by suberboy45ds
-[01:38:27] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28884, l='ServerLevel[world_the_end]', x=-2159.50, y=66.00, z=-5662.50] died: Shulker was slain by suberboy45ds
-[01:39:38] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28905, l='ServerLevel[world_the_end]', x=-2164.50, y=95.00, z=-5659.50] died: Shulker was slain by suberboy45ds
-[01:39:58] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28913, l='ServerLevel[world_the_end]', x=-2181.50, y=86.00, z=-5660.50] died: Shulker was slain by suberboy45ds
-[01:40:04] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28914, l='ServerLevel[world_the_end]', x=-2185.50, y=89.00, z=-5661.50] died: Shulker was slain by suberboy45ds
-[01:40:40] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28916, l='ServerLevel[world_the_end]', x=-2185.50, y=110.00, z=-5663.50] died: Shulker was slain by suberboy45ds
-[01:41:14] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28926, l='ServerLevel[world_the_end]', x=-2188.50, y=137.00, z=-5665.50] died: Shulker was slain by suberboy45ds
-[01:41:28] [Server thread/INFO]: Named entity EntityEndermite['Endermite'/29453, l='ServerLevel[world_the_end]', x=-2183.24, y=137.00, z=-5665.91] died: Endermite was slain by suberboy45ds
-[01:43:07] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28925, l='ServerLevel[world_the_end]', x=-2189.50, y=133.00, z=-5664.50] died: Shulker was slain by suberboy45ds
-[01:43:30] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28922, l='ServerLevel[world_the_end]', x=-2181.50, y=122.00, z=-5659.50] died: Shulker was slain by suberboy45ds
-[01:43:42] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28924, l='ServerLevel[world_the_end]', x=-2185.50, y=126.00, z=-5663.50] died: Shulker was slain by suberboy45ds
-[01:43:59] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28917, l='ServerLevel[world_the_end]', x=-2187.50, y=111.00, z=-5656.50] died: Shulker was slain by suberboy45ds
-[01:44:02] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28915, l='ServerLevel[world_the_end]', x=-2185.50, y=110.00, z=-5655.50] died: Shulker was slain by suberboy45ds
-[01:44:12] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28920, l='ServerLevel[world_the_end]', x=-2188.50, y=117.00, z=-5657.50] died: Shulker was slain by suberboy45ds
-[01:45:17] [Server thread/INFO]: Named entity EntityShulker['Shulker'/29562, l='ServerLevel[world_the_end]', x=-2187.50, y=130.00, z=-5662.50] died: Shulker was slain by suberboy45ds
-[01:45:42] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28923, l='ServerLevel[world_the_end]', x=-2186.50, y=117.00, z=-5666.50] died: Shulker was slain by suberboy45ds
-[01:46:11] [Server thread/INFO]: Named entity EntityShulker['Shulker'/29757, l='ServerLevel[world_the_end]', x=-2183.50, y=112.00, z=-5664.50] died: Shulker was slain by suberboy45ds
-[01:46:13] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28918, l='ServerLevel[world_the_end]', x=-2180.50, y=109.00, z=-5662.50] died: Shulker was slain by suberboy45ds
-[01:47:29] [Server thread/INFO]: Named entity EntityShulker['Shulker'/29868, l='ServerLevel[world_the_end]', x=-2190.50, y=106.00, z=-5656.50] died: Shulker was slain by suberboy45ds
-[01:47:43] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28919, l='ServerLevel[world_the_end]', x=-2188.50, y=119.00, z=-5654.50] died: Shulker was slain by suberboy45ds
-[01:47:55] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28928, l='ServerLevel[world_the_end]', x=-2186.50, y=122.00, z=-5635.50] died: Shulker was slain by suberboy45ds
-[01:48:13] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28929, l='ServerLevel[world_the_end]', x=-2190.50, y=127.00, z=-5631.50] died: Shulker was slain by suberboy45ds
-[01:48:25] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28927, l='ServerLevel[world_the_end]', x=-2187.50, y=129.00, z=-5634.50] died: Shulker was slain by suberboy45ds
-[01:49:06] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28862, l='ServerLevel[world_the_end]', x=-2120.50, y=125.00, z=-5661.50] died: Shulker was slain by suberboy45ds
-[01:49:25] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28856, l='ServerLevel[world_the_end]', x=-2101.50, y=123.00, z=-5663.50] died: Shulker was slain by suberboy45ds
-[01:49:45] [Server thread/INFO]: Named entity EntityShulker['Shulker'/28863, l='ServerLevel[world_the_end]', x=-2120.50, y=130.00, z=-5665.50] died: Shulker was slain by suberboy45ds
-[01:51:21] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/30636, l='ServerLevel[world_the_end]', x=72.30, y=57.00, z=15.70] died: Enderman was slain by suberboy45ds
-[01:51:27] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/30595, l='ServerLevel[world_the_end]', x=57.12, y=58.00, z=28.54] died: Enderman was slain by suberboy45ds
-[01:51:29] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/30638, l='ServerLevel[world_the_end]', x=51.84, y=59.00, z=28.42] died: Enderman was slain by suberboy45ds
-[02:04:15] [Server thread/INFO]: [0;33;22m([0;32;1mmcMMO[0;33;22m) suberboy45ds[0;37;22m has reached a Power level of [0;32;1m2,100[0;37;22m![m
-[02:06:22] [Server thread/INFO]: Named entity EntityZombie['Zombie'/35240, l='ServerLevel[world]', x=-736.68, y=63.00, z=-116.43] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
-[02:21:02] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/36244, l='ServerLevel[world]', x=-746.88, y=174.50, z=-108.98] died: Creeper was slain by suberboy45ds using [Don's Pickaxe #2]
-[02:21:03] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/36245, l='ServerLevel[world]', x=-746.96, y=174.50, z=-109.64] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
-[02:21:04] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/36246, l='ServerLevel[world]', x=-747.70, y=174.50, z=-109.60] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
-[02:39:44] [Server thread/INFO]: Named entity EntityDrowned['Drowned'/43269, l='ServerLevel[world]', x=-725.07, y=61.52, z=-120.15] died: Drowned was slain by suberboy45ds using [Don's Knife #1]
-[02:45:14] [Server thread/INFO]: suberboy45ds lost connection: Disconnected
-[02:45:14] [Server thread/INFO]: suberboy45ds left the game
-[02:45:21] [Server thread/INFO]: Stopping the server
-[02:45:21] [Server thread/INFO]: Stopping server
-[02:45:21] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
-[02:45:21] [Server thread/INFO]: [KeepDeathDrop] Disabled!
-[02:45:21] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
-[02:45:21] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
-[02:45:21] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
-[02:45:21] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
-[02:45:21] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
-[02:45:21] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[02:45:21] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[02:45:21] [Server thread/INFO]: Saving players
-[02:45:22] [Server thread/INFO]: Saving worlds
-[02:45:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:45:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:45:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:45:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:45:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:45:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:16] [Server thread/INFO]: Named entity EntityCreeper['??????????'/63944, l='ServerLevel[world]', x=-761.10, y=68.00, z=-86.94] died: ?????????? was burned to a crisp while fighting suberboy45ds
+[00:01:03] [Server thread/INFO]: Villager EntityVillager['Mason'/23762, l='ServerLevel[world]', x=-744.66, y=63.00, z=-122.59] died, message: 'Mason was slain by Zombie'
+[00:02:14] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/64371, l='ServerLevel[world]', x=-734.96, y=63.00, z=-134.22] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[00:16:01] [Server thread/INFO]: Villager EntityVillager['Mason'/23759, l='ServerLevel[world]', x=-740.70, y=63.00, z=-132.70] died, message: 'Mason was slain by Zombie'
+[00:16:47] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/69200, l='ServerLevel[world]', x=-772.60, y=63.00, z=-128.96] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[00:16:56] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/69857, l='ServerLevel[world]', x=-744.71, y=63.00, z=-134.49] died: Skeleton was shot by suberboy45ds using [Don's Knife #1]
+[00:17:15] [Server thread/INFO]: Named entity EntitySpider['Spider'/69738, l='ServerLevel[world]', x=-732.22, y=63.00, z=-120.45] died: Spider was slain by suberboy45ds using [Don's Knife #1]
+[00:19:10] [Server thread/INFO]: Named entity EntitySpider['Spider'/70650, l='ServerLevel[world]', x=-728.00, y=80.42, z=-129.04] died: Spider was killed by [Don's Knife #1] while trying to hurt suberboy45ds
+[00:20:43] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/71382, l='ServerLevel[world]', x=-764.34, y=68.00, z=-91.34] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[00:21:11] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/71074, l='ServerLevel[world]', x=-774.77, y=68.00, z=-102.78] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[00:21:14] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/71073, l='ServerLevel[world]', x=-769.73, y=68.00, z=-103.11] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[00:21:22] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/70950, l='ServerLevel[world]', x=-732.79, y=63.00, z=-88.27] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[00:21:25] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/70951, l='ServerLevel[world]', x=-735.60, y=63.00, z=-97.21] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[00:21:30] [Server thread/INFO]: Named entity EntityZombie['Zombie'/71395, l='ServerLevel[world]', x=-735.49, y=63.00, z=-99.49] died: Zombie was shot by Skeleton
+[00:21:34] [Server thread/INFO]: Named entity EntityZombie['Zombie'/70649, l='ServerLevel[world]', x=-740.77, y=63.00, z=-96.64] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[00:21:37] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/70953, l='ServerLevel[world]', x=-737.91, y=63.00, z=-104.88] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[00:21:38] [Server thread/INFO]: Named entity EntityZombie['Zombie'/71396, l='ServerLevel[world]', x=-737.84, y=63.00, z=-100.29] died: Zombie was shot by suberboy45ds using [Don´s Glock]
+[00:21:40] [Server thread/INFO]: Named entity EntityZombie['Zombie'/71394, l='ServerLevel[world]', x=-741.50, y=63.00, z=-97.60] died: Zombie was shot by suberboy45ds using [Don´s Glock]
+[00:21:47] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/70952, l='ServerLevel[world]', x=-736.67, y=63.00, z=-134.41] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[00:22:32] [Server thread/INFO]: Named entity EntityZombie['Zombie'/72024, l='ServerLevel[world]', x=-755.19, y=67.00, z=-176.52] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[00:23:36] [Server thread/INFO]: Named entity EntityZombie['Zombie'/70893, l='ServerLevel[world]', x=-760.60, y=64.00, z=-143.39] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[00:40:03] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/78400, l='ServerLevel[world]', x=-748.67, y=83.00, z=-128.55] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[00:45:33] [Server thread/INFO]: Villager EntityVillager['Villager'/43957, l='ServerLevel[world]', x=-740.12, y=65.05, z=-111.30] died, message: 'Villager was squished too much'
+[00:45:59] [Server thread/INFO]: Villager EntityVillager['Villager'/23750, l='ServerLevel[world]', x=-740.34, y=65.01, z=-111.70] died, message: 'Villager was squished too much'
+[00:46:23] [Server thread/INFO]: Villager EntityVillager['Villager'/65270, l='ServerLevel[world]', x=-740.16, y=65.00, z=-111.70] died, message: 'Villager was squished too much'
+[00:46:26] [Server thread/INFO]: Villager EntityVillager['Villager'/23789, l='ServerLevel[world]', x=-740.18, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
+[00:46:33] [Server thread/INFO]: Villager EntityVillager['Villager'/23788, l='ServerLevel[world]', x=-740.12, y=65.05, z=-111.30] died, message: 'Villager was squished too much'
+[00:49:35] [Server thread/INFO]: Villager EntityVillager['Villager'/23795, l='ServerLevel[world]', x=-740.22, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
+[00:51:11] [Server thread/INFO]: Villager EntityVillager['Villager'/23801, l='ServerLevel[world]', x=-740.12, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
+[00:51:54] [Server thread/INFO]: Villager EntityVillager['Villager'/23753, l='ServerLevel[world]', x=-740.11, y=65.05, z=-111.30] died, message: 'Villager was squished too much'
+[00:54:46] [Server thread/INFO]: Named entity EntityZombie['Zombie'/82748, l='ServerLevel[world]', x=-783.30, y=64.00, z=-23.14] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[00:55:15] [Server thread/INFO]: Named entity EntityZombie['Zombie'/82747, l='ServerLevel[world]', x=-778.19, y=68.00, z=1.76] died: Zombie was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:55:47] [Server thread/INFO]: Named entity EntitySpider['Spider'/82749, l='ServerLevel[world]', x=-798.42, y=65.09, z=-37.69] died: Spider was slain by suberboy45ds using [Don´s Axe Body Spray]
+[00:56:49] [Server thread/INFO]: Named entity EntityWitch['Witch'/83592, l='ServerLevel[world]', x=-812.70, y=63.00, z=-62.53] died: Witch was slain by suberboy45ds using [Don's Knife #1]
+[00:57:28] [Server thread/INFO]: Named entity EntityEnderman['Enderman'/83623, l='ServerLevel[world]', x=-770.96, y=66.00, z=-39.30] died: Enderman was slain by suberboy45ds using [Don's Knife #1]
+[00:57:34] [Server thread/INFO]: Villager EntityVillager['Villager'/27820, l='ServerLevel[world]', x=-740.10, y=65.04, z=-111.70] died, message: 'Villager was squished too much'
+[00:59:30] [Server thread/INFO]: Villager EntityVillager['Villager'/23802, l='ServerLevel[world]', x=-740.15, y=65.00, z=-111.70] died, message: 'Villager was squished too much'
+[00:59:41] [Server thread/INFO]: Named entity EntityCreeper['??????????'/83888, l='ServerLevel[world]', x=-755.97, y=83.00, z=-106.53] died: ?????????? was burned to a crisp while fighting suberboy45ds
+[00:59:46] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/83889, l='ServerLevel[world]', x=-737.62, y=83.00, z=-109.91] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[00:59:50] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/83946, l='ServerLevel[world]', x=-731.70, y=81.00, z=-87.74] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[00:59:53] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/83886, l='ServerLevel[world]', x=-741.24, y=81.00, z=-85.41] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[00:59:56] [Server thread/INFO]: Named entity EntitySpider['Spider'/84010, l='ServerLevel[world]', x=-741.36, y=83.00, z=-88.99] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[00:59:57] [Server thread/INFO]: Named entity EntitySpider['Spider'/83947, l='ServerLevel[world]', x=-736.93, y=81.00, z=-85.00] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[00:59:59] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/83606, l='ServerLevel[world]', x=-750.35, y=83.00, z=-106.96] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:00:05] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/83887, l='ServerLevel[world]', x=-763.40, y=83.00, z=-115.83] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:00:06] [Server thread/INFO]: Named entity EntityZombie['??????????'/84685, l='ServerLevel[world]', x=-755.86, y=83.00, z=-89.20] died: ?????????? was burned to a crisp while fighting suberboy45ds
+[01:00:20] [Server thread/INFO]: Named entity EntityZombie['Zombie'/84784, l='ServerLevel[world]', x=-763.83, y=83.00, z=-121.64] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[01:00:33] [Server thread/INFO]: Named entity EntitySpider['Spider'/84012, l='ServerLevel[world]', x=-755.19, y=83.94, z=-108.86] died: Spider was slain by suberboy45ds using [Don's Knife #1]
+[01:02:04] [Server thread/INFO]: Villager EntityVillager['Mason'/66831, l='ServerLevel[world]', x=-745.70, y=63.00, z=-122.30] died, message: 'Mason was slain by Zombie'
+[01:07:46] [Server thread/INFO]: Villager EntityVillager['Villager'/23803, l='ServerLevel[world]', x=-740.18, y=65.04, z=-111.30] died, message: 'Villager was squished too much'
+[01:08:56] [Server thread/INFO]: Named entity EntityZombie['Zombie'/85188, l='ServerLevel[world]', x=-744.68, y=63.00, z=-122.70] died: Zombie was slain by suberboy45ds using [Don´s Axe Body Spray]
+[01:09:06] [Server thread/INFO]: Named entity EntityZombie['Zombie'/86732, l='ServerLevel[world]', x=-743.32, y=63.00, z=-119.20] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[01:13:23] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/89355, l='ServerLevel[world]', x=-744.19, y=84.00, z=-107.70] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:13:24] [Server thread/INFO]: Named entity EntitySpider['Spider'/89354, l='ServerLevel[world]', x=-743.85, y=85.17, z=-110.70] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[01:13:27] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/89356, l='ServerLevel[world]', x=-739.85, y=83.00, z=-112.34] died: Creeper was shot by suberboy45ds using [Don´s Glock]
+[01:13:29] [Server thread/INFO]: Named entity EntitySpider['Spider'/89340, l='ServerLevel[world]', x=-744.50, y=83.00, z=-129.50] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[01:14:52] [Server thread/INFO]: Villager EntityVillager['Villager'/23794, l='ServerLevel[world]', x=-740.23, y=65.04, z=-111.70] died, message: 'Villager was squished too much'
+[01:16:13] [Server thread/INFO]: Villager EntityVillager['Villager'/54118, l='ServerLevel[world]', x=-740.11, y=65.05, z=-111.66] died, message: 'Villager was squished too much'
+[01:23:25] [Server thread/INFO]: Named entity EntitySpider['Spider'/90721, l='ServerLevel[world]', x=-756.00, y=81.00, z=-135.00] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[01:32:49] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/95829, l='ServerLevel[world]', x=-789.66, y=75.00, z=-164.04] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:32:50] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/95830, l='ServerLevel[world]', x=-785.63, y=75.00, z=-161.70] died: Skeleton was slain by suberboy45ds using [Don's Knife #1]
+[01:33:27] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/95509, l='ServerLevel[world]', x=-738.79, y=60.00, z=-144.49] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:33:30] [Server thread/INFO]: Named entity EntityZombie['Zombie'/95854, l='ServerLevel[world]', x=-750.20, y=64.00, z=-139.70] died: Zombie was shot by suberboy45ds using [Don´s Glock]
+[01:36:08] [Server thread/INFO]: Villager EntityVillager['Mason'/74943, l='ServerLevel[world]', x=-740.70, y=63.00, z=-132.30] died, message: 'Mason was slain by Zombie'
+[01:36:24] [Server thread/INFO]: Named entity EntityZombie['Zombie'/96644, l='ServerLevel[world]', x=-774.41, y=67.54, z=-138.50] died: Zombie was shot by suberboy45ds using [Don´s Glock]
+[01:42:09] [Server thread/INFO]: Villager EntityVillager['Villager'/55557, l='ServerLevel[world]', x=-740.20, y=65.04, z=-111.30] died, message: 'Villager was squished too much'
+[01:46:30] [Server thread/INFO]: Villager EntityVillager['Villager'/78983, l='ServerLevel[world]', x=-740.27, y=65.02, z=-111.30] died, message: 'Villager was squished too much'
+[01:47:03] [Server thread/INFO]: Villager EntityVillager['Villager'/23799, l='ServerLevel[world]', x=-740.11, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
+[01:48:06] [Server thread/INFO]: Villager EntityVillager['Villager'/41360, l='ServerLevel[world]', x=-740.28, y=65.04, z=-111.70] died, message: 'Villager was squished too much'
+[01:54:57] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/102700, l='ServerLevel[world]', x=-760.66, y=83.00, z=-101.57] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[01:55:00] [Server thread/INFO]: Named entity EntityZombie['Zombie'/103011, l='ServerLevel[world]', x=-766.10, y=83.92, z=-111.12] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[01:55:03] [Server thread/INFO]: Named entity EntitySpider['Spider'/102272, l='ServerLevel[world]', x=-762.30, y=83.00, z=-109.30] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[01:55:05] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/103010, l='ServerLevel[world]', x=-765.72, y=83.77, z=-110.99] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:55:18] [Server thread/INFO]: Named entity EntityZombie['Zombie'/103165, l='ServerLevel[world]', x=-757.77, y=82.50, z=-133.01] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[01:55:30] [Server thread/INFO]: Villager EntityVillager['Mason'/90017, l='ServerLevel[world]', x=-745.70, y=63.00, z=-122.70] died, message: 'Mason was slain by Zombie'
+[01:56:39] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/103483, l='ServerLevel[world]', x=-787.92, y=69.00, z=-128.89] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:56:40] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/103482, l='ServerLevel[world]', x=-794.50, y=67.00, z=-126.50] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:56:43] [Server thread/INFO]: Named entity EntityZombie['Zombie'/103551, l='ServerLevel[world]', x=-781.26, y=63.00, z=-136.50] died: Zombie was shot by suberboy45ds using [Don´s Glock]
+[01:56:46] [Server thread/INFO]: Named entity EntityZombie['Zombie'/103468, l='ServerLevel[world]', x=-770.05, y=63.00, z=-127.05] died: Zombie was shot by suberboy45ds using [Don´s Glock]
+[01:56:50] [Server thread/INFO]: Named entity EntityZombie['??????????'/103469, l='ServerLevel[world]', x=-778.89, y=63.00, z=-119.35] died: ?????????? was burned to a crisp while fighting suberboy45ds
+[01:56:55] [Server thread/INFO]: Named entity EntityCreeper['??????????'/103470, l='ServerLevel[world]', x=-764.29, y=68.00, z=-105.34] died: ?????????? was burned to a crisp while fighting suberboy45ds
+[01:56:58] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/103471, l='ServerLevel[world]', x=-762.70, y=67.23, z=-100.36] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[01:57:14] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/103140, l='ServerLevel[world]', x=-743.34, y=63.00, z=-116.30] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:57:17] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/103139, l='ServerLevel[world]', x=-742.18, y=63.00, z=-119.10] died: Skeleton was killed by [Don´s Glock] while trying to hurt suberboy45ds
+[01:57:20] [Server thread/INFO]: Named entity EntityZombie['Zombie'/103391, l='ServerLevel[world]', x=-742.53, y=63.00, z=-120.49] died: Zombie was shot by suberboy45ds using [Don´s Glock]
+[01:57:23] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/103138, l='ServerLevel[world]', x=-741.30, y=63.00, z=-121.70] died: Skeleton was shot by suberboy45ds using [Don´s Glock]
+[01:57:27] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/103137, l='ServerLevel[world]', x=-740.62, y=63.00, z=-120.18] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[01:57:33] [Server thread/INFO]: Named entity EntityZombie['Zombie'/102955, l='ServerLevel[world]', x=-744.96, y=63.00, z=-122.30] died: Zombie was slain by suberboy45ds using [Don´s Axe Body Spray]
+[01:58:04] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/103136, l='ServerLevel[world]', x=-754.15, y=63.00, z=-123.85] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[01:59:44] [Server thread/INFO]: Villager EntityVillager['Villager'/60114, l='ServerLevel[world]', x=-740.11, y=65.00, z=-111.70] died, message: 'Villager was squished too much'
+[02:15:11] [Server thread/INFO]: Villager EntityVillager['Villager'/58040, l='ServerLevel[world]', x=-740.12, y=65.05, z=-111.46] died, message: 'Villager was squished too much'
+[02:16:44] [Server thread/INFO]: Named entity EntityZombie['Zombie'/111823, l='ServerLevel[world]', x=-778.97, y=63.00, z=-138.67] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:17:18] [Server thread/INFO]: Villager EntityVillager['Villager'/23806, l='ServerLevel[world]', x=-740.12, y=65.02, z=-111.30] died, message: 'Villager was squished too much'
+[02:30:53] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/118072, l='ServerLevel[world]', x=-754.29, y=83.00, z=-130.03] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:30:58] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/118133, l='ServerLevel[world]', x=-764.79, y=83.00, z=-99.73] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:30:59] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/118132, l='ServerLevel[world]', x=-762.22, y=83.00, z=-96.57] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:31:01] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/118131, l='ServerLevel[world]', x=-763.32, y=83.00, z=-94.15] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:32:36] [Server thread/INFO]: Named entity EntityPhantom['Phantom'/118529, l='ServerLevel[world]', x=-766.41, y=87.85, z=-129.61] died: Phantom was slain by suberboy45ds using [Don's Knife #1]
+[02:33:20] [Server thread/INFO]: Villager EntityVillager['Villager'/52721, l='ServerLevel[world]', x=-740.15, y=65.04, z=-111.30] died, message: 'Villager was squished too much'
+[02:36:39] [Server thread/INFO]: Villager EntityVillager['Villager'/93314, l='ServerLevel[world]', x=-740.16, y=65.05, z=-111.70] died, message: 'Villager was squished too much'
+[02:39:37] [Server thread/INFO]: Named entity EntityZombie['Zombie'/119647, l='ServerLevel[world]', x=-773.19, y=63.00, z=-124.34] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:39:43] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/120651, l='ServerLevel[world]', x=-774.21, y=63.00, z=-126.12] died: Creeper was blown up by ??????????
+[02:47:25] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/123063, l='ServerLevel[world]', x=-768.94, y=83.00, z=-150.30] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:47:31] [Server thread/INFO]: Named entity EntitySpider['Spider'/123157, l='ServerLevel[world]', x=-775.47, y=83.71, z=-115.51] died: Spider was slain by suberboy45ds using [Don's Knife #1]
+[02:47:33] [Server thread/INFO]: Named entity EntityZombie['Zombie'/123155, l='ServerLevel[world]', x=-772.84, y=83.00, z=-113.85] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:47:34] [Server thread/INFO]: Named entity EntitySpider['Spider'/123156, l='ServerLevel[world]', x=-774.12, y=83.00, z=-114.90] died: Spider was slain by suberboy45ds using [Don's Knife #1]
+[02:47:38] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/123031, l='ServerLevel[world]', x=-782.26, y=81.04, z=-95.90] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:47:56] [Server thread/INFO]: Named entity EntitySpider['Spider'/122832, l='ServerLevel[world]', x=-728.37, y=80.50, z=-102.69] died: Spider was slain by suberboy45ds using [Don's Knife #1]
+[02:48:14] [Server thread/INFO]: Named entity EntitySpider['Spider'/123649, l='ServerLevel[world]', x=-751.92, y=84.09, z=-124.50] died: Spider was slain by suberboy45ds using [Don's Knife #1]
+[02:48:16] [Server thread/INFO]: Named entity EntitySpider['Spider'/123647, l='ServerLevel[world]', x=-746.62, y=84.09, z=-125.65] died: Spider was slain by suberboy45ds using [Don's Knife #1]
+[02:48:18] [Server thread/INFO]: Named entity EntityZombie['Zombie'/123648, l='ServerLevel[world]', x=-747.83, y=83.00, z=-124.28] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:49:02] [Server thread/INFO]: Named entity EntitySpider['Spider'/123562, l='ServerLevel[world]', x=-754.50, y=80.00, z=-136.08] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[02:49:08] [Server thread/INFO]: Named entity EntitySpider['Spider'/124011, l='ServerLevel[world]', x=-788.14, y=73.00, z=-146.92] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[02:49:11] [Server thread/INFO]: Named entity EntitySpider['Spider'/123999, l='ServerLevel[world]', x=-818.50, y=70.00, z=-142.50] died: Spider was shot by suberboy45ds using [Don´s Glock]
+[02:49:13] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/123760, l='ServerLevel[world]', x=-803.44, y=70.00, z=-138.19] died: Creeper was shot by suberboy45ds using [Don´s Glock]
+[02:51:45] [Server thread/INFO]: Named entity EntitySkeleton['??????????'/124680, l='ServerLevel[world]', x=-762.57, y=63.00, z=-157.12] died: ?????????? was burned to a crisp while fighting suberboy45ds
+[02:51:47] [Server thread/INFO]: Named entity EntityZombie['??????????'/124840, l='ServerLevel[world]', x=-774.39, y=63.00, z=-156.85] died: ?????????? was burned to a crisp while fighting suberboy45ds
+[02:51:50] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/124681, l='ServerLevel[world]', x=-776.64, y=63.00, z=-147.39] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:51:51] [Server thread/INFO]: Named entity EntityZombie['Zombie'/124839, l='ServerLevel[world]', x=-775.05, y=63.00, z=-149.72] died: Zombie was killed by [Don's Knife #1] while trying to hurt suberboy45ds
+[02:51:59] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/124682, l='ServerLevel[world]', x=-772.00, y=63.00, z=-153.48] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:52:01] [Server thread/INFO]: Named entity EntityCreeper['Creeper'/124683, l='ServerLevel[world]', x=-772.52, y=63.00, z=-152.61] died: Creeper was slain by suberboy45ds using [Don's Knife #1]
+[02:52:04] [Server thread/INFO]: Named entity EntityZombie['Zombie'/124649, l='ServerLevel[world]', x=-773.09, y=63.00, z=-156.99] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:52:29] [Server thread/INFO]: Named entity EntityZombie['Zombie'/125161, l='ServerLevel[world]', x=-744.30, y=63.00, z=-116.25] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:52:31] [Server thread/INFO]: Named entity EntityZombie['Zombie'/125158, l='ServerLevel[world]', x=-744.68, y=63.00, z=-116.75] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:52:33] [Server thread/INFO]: Named entity EntityZombie['Zombie'/125159, l='ServerLevel[world]', x=-743.29, y=63.00, z=-116.49] died: Zombie was slain by suberboy45ds using [Don's Knife #1]
+[02:56:39] [Server thread/INFO]: Villager EntityVillager['Villager'/31402, l='ServerLevel[world]', x=-740.28, y=65.04, z=-111.70] died, message: 'Villager was squished too much'
+[02:58:10] [Server thread/INFO]: suberboy45ds lost connection: Disconnected
+[02:58:10] [Server thread/INFO]: suberboy45ds left the game
+[02:58:17] [Server thread/INFO]: Stopping the server
+[02:58:17] [Server thread/INFO]: Stopping server
+[02:58:17] [Server thread/INFO]: [KeepDeathDrop] Disabling KeepDeathDrop v1.0.7
+[02:58:17] [Server thread/INFO]: [KeepDeathDrop] Disabled!
+[02:58:17] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.231
+[02:58:17] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[02:58:17] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
+[02:58:17] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
+[02:58:17] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.2
+[02:58:17] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[02:58:17] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[02:58:17] [Server thread/INFO]: Saving players
+[02:58:17] [Server thread/INFO]: Saving worlds
+[02:58:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:58:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:58:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:58:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:58:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:58:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:58:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
